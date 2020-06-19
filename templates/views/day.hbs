@@ -48,31 +48,36 @@
                     </ul>
                 </div>
                 {{/if}}
-            </div>
 
-            {{#if daySales}}
-            <div class="day-sales">
-                <h4>Stores & Sales</h4>
-                <p>{{daySales}}</p>
+                {{#if daySales}}
+                <div class="day-sales">
+                    <h4>Stores & Sales</h4>
+                    <ul>
+                        {{#each daySales}}
+                        <li>
+                            {{this}}
+                        </li>
+                        {{/each}}
+                    </ul>
+                </div>
+                {{/if}}
+                
+                {{#if dayMetaverse}}
+                <div class="day-metaverse">
+                    <h4>Metaverse</h4>
+                    <p>Palace Available: {{dayMetaverse.palaceAvailable}}</p>
+                    <p>Days Until Deadline: {{dayMetaverse.deadlineCountdown}}</p>
+                </div>
+                {{/if}}
+
+                {{#if dayExtras}}
+                <div class="day-extras">
+                    <h4>Extras</h4>
+                    <p>{{dayExtras}}</p>
+                </div>
+                {{/if}}
             </div>
-            {{/if}}
             
-            {{#if dayMetaverse}}
-            <div class="day-metaverse">
-                <h4>Metaverse</h4>
-                <p>Palace Available: {{dayMetaverse.palaceAvailable}}</p>
-                <p>Days Until Deadline: {{dayMetaverse.deadlineCountdown}}</p>
-            </div>
-            {{/if}}
-
-            {{#if dayExtras}}
-            <div class="day-extras">
-                <h4>Extras</h4>
-                <p>{{dayExtras}}</p>
-            </div>
-            {{/if}}
-
-            <hr>
 
             <div class="evening day-period">
                 <h3>{{nightType}} | {{nightWeather}}</h3>
@@ -105,10 +110,16 @@
             </div>
 
             {{#if nightSales}}
-            <div class="night-sales">
-                <h4>Stores & Sales</h4>
-                <p>{{nightSales}}</p>
-            </div>
+                <div class="day-sales">
+                    <h4>Stores & Sales</h4>
+                    <ul>
+                        {{#each nightSales}}
+                        <li>
+                            {{this}}
+                        </li>
+                        {{/each}}
+                    </ul>
+                </div>
             {{/if}}
             
             {{#if nightMetaverse}}
@@ -126,7 +137,7 @@
             </div>
             {{/if}}
 
-            </div>
+        {{>footer}}
         </div>
     </body>
 </html>

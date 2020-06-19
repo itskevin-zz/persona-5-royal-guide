@@ -14,7 +14,9 @@
                 "confidants": [
                     "Takemi - Death"
                 ],
-                "sales": "Spring Exclusive Items now in stores until 5/31",
+                "sales": [
+                    "Spring Exclusive Items now in stores until 5/31"
+                ],
                 "metaverse": {
                     "palaceAvailable": true,
                     "deadlineCountdown": 14,
@@ -89,7 +91,9 @@
                 "confidants": [
                     "Takemi - Death"
                 ],
-                "sales": "Rainy Day Items Available",
+                "sales": [
+                    "Rainy Day Items Available"
+                ],
                 "metaverse": {
                     "palaceAvailable": true,
                     "deadlineCountdown": 12,
@@ -127,7 +131,9 @@
                 "confidants": [
                     "Takemi - Death"
                 ],
-                "sales": "Rainy Day Items Available",
+                "sales": [
+                    "Rainy Day Items Available"
+                ],
                 "metaverse": {
                     "palaceAvailable": true,
                     "deadlineCountdown": 11,
@@ -147,6 +153,420 @@
                 "sales": null,
                 "metaverse": null,
                 "extraNotes": "Spare Sandwich in the Fridge. Sojiro will now let you roam Yongen-Jaya at night."
+            }],
+            "spoilers": [{
+            }]
+        },
+        "apr22": {
+            "weekDay": "Friday",
+            "date": "April 22nd",
+            "day": [{
+                "desc": "After School",
+                "weather": "Clear",
+                "socialStat": [
+                    
+                ],
+                "confidants": [
+                    "Takemi - Death",
+                    "Ryuji - Chariot"
+                ],
+                "sales": [
+                    "Yakisoba Pan at School Store"
+                ],
+                "metaverse": {
+                    "palaceAvailable": true,
+                    "deadlineCountdown": 10,
+                    "notes": null
+                },
+                "extraNotes": null
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Cloudy",
+                "socialStat": [
+                    
+                ],
+                "confidants": [
+                    "Sojiro - Hierophant"
+                ],
+                "sales": null,
+                "metaverse": null,
+                "extraNotes": null
+            }],
+            "spoilers": [{
+            }]
+        },
+        "apr23": {
+            "weekDay": "Saturday",
+            "date": "April 23rd",
+            "day": [{
+                "desc": "After School",
+                "weather": "Clear",
+                "socialStat": [
+                    "Class Question +1 Knowledge"
+                ],
+                "confidants": [
+                    "Takemi - Death",
+                    "Ryuji - Chariot"
+                ],
+                "sales": [
+                    "Supermarket sale in Yongen"
+                ],
+                "metaverse": {
+                    "palaceAvailable": true,
+                    "deadlineCountdown": 9,
+                    "notes": null
+                },
+                "extraNotes": null
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Clear",
+                "socialStat": [
+                    
+                ],
+                "confidants": [
+                    "Sojiro - Hierophant"
+                ],
+                "sales": null,
+                "metaverse": null,
+                "extraNotes": null
+            }],
+            "spoilers": [
+                "All of Them"
+            ]
+        },
+        "apr24": {
+            "weekDay": "Sunday",
+            "date": "April 24th",
+            "day": [{
+                "desc": "Daytime",
+                "weather": "Clear",
+                "socialStat": [
+                    "Aojiru Juice for Sale +1 Charm (Don't miss these every Sunday)"
+                ],
+                "confidants": [
+                    "Takemi - Death",
+                    "Ryuji - Chariot"
+                ],
+                "sales": [
+                    "Supermarket sale in Yongen", 
+                    "TV Shopping Sale: Spring Awake Set, Share of Spring Set"
+                ],
+                "metaverse": {
+                    "palaceAvailable": true,
+                    "deadlineCountdown": 8,
+                    "notes": null
+                },
+                "extraNotes": null
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Cloudy",
+                "socialStat": [
+                    
+                ],
+                "confidants": [
+                    "Sojiro - Hieorphant"
+                ],
+                "sales": [
+                    "TV Shopping Sale: Spring Awake Set, Share of Spring Set"
+                ],
+                "metaverse": null,
+                "extraNotes": null
+            }],
+            "spoilers": [{
+            }]
+        },
+        "apr25": {
+            "weekDay": "Monday",
+            "date": "April 25th",
+            "day": [{
+                "desc": "After School",
+                "weather": "Cloudy",
+                "socialStat": [
+                    "Can Read a Book on the Train",
+                    "Class Question +1 Charm & +1 (+2) with Ann"
+                ],
+                "confidants": [
+                    "Takemi - Death",
+                    "Ryuji - Chariot"
+                ],
+                "sales": [
+                    "Weekly Restock"
+                ],
+                "metaverse": {
+                    "palaceAvailable": true,
+                    "deadlineCountdown": 7,
+                    "notes": null
+                },
+                "extraNotes": null
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Clear",
+                "socialStat": [
+                    
+                ],
+                "confidants": [
+                    "Sojiro - Hierophant"
+                ],
+                "sales": [
+                    "TV Shopping Delivery"
+                ],
+                "metaverse": null,
+                "extraNotes": null
+            }],
+            "spoilers": [{
+            }]
+        },
+        "apr26": {
+            "weekDay": "Tuesday",
+            "date": "April 26th",
+            "day": [{
+                "desc": "After School",
+                "weather": "Clear",
+                "socialStat": [
+                    null
+                ],
+                "confidants": [
+                    "Takemi - Death",
+                    "Ryuji - Chariot"
+                ],
+                "sales": [
+                    null
+                ],
+                "metaverse": {
+                    "palaceAvailable": true,
+                    "deadlineCountdown": 6,
+                    "notes": null
+                },
+                "extraNotes": null
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Clear",
+                "socialStat": [
+                    null
+                ],
+                "confidants": [
+                    "Sojiro - Hierophant"
+                ],
+                "sales": [
+                    null
+                ],
+                "metaverse": null,
+                "extraNotes": null
+            }],
+            "spoilers": [{
+            }]
+        },
+        "apr27": {
+            "weekDay": "Wednesday",
+            "date": "April 27th",
+            "day": [{
+                "desc": "After School",
+                "weather": "Cloudy",
+                "socialStat": [
+                    "Class Question +1 Knowledge"
+                ],
+                "confidants": [
+                    "Takemi - Death",
+                    "Ryuji - Chariot"
+                ],
+                "sales": [
+                    "Triple Seven Double Points Day"
+                ],
+                "metaverse": {
+                    "palaceAvailable": true,
+                    "deadlineCountdown": 5,
+                    "notes": null
+                },
+                "extraNotes": null
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Cloudy",
+                "socialStat": [
+                    "Crossword +1 Knowledge"
+                ],
+                "confidants": [
+                    "Sojiro - Hierophant"
+                ],
+                "sales": [
+                    null
+                ],
+                "metaverse": null,
+                "extraNotes": null
+            }],
+            "spoilers": [{
+                "class": "Four Colour Theorem",
+                "crossword": "Blossom"
+            }]
+        },
+        "apr28": {
+            "weekDay": "Thursday",
+            "date": "April 28th",
+            "day": [{
+                "desc": "After School",
+                "weather": "Cloudy",
+                "socialStat": [
+                    null
+                ],
+                "confidants": [
+                    "Takemi - Death",
+                    "Ryuji - Chariot"
+                ],
+                "sales": [
+                    null
+                ],
+                "metaverse": {
+                    "palaceAvailable": true,
+                    "deadlineCountdown": 4,
+                    "notes": null
+                },
+                "extraNotes": null
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Cloudy",
+                "socialStat": [
+                    null
+                ],
+                "confidants": [
+                    "Sojiro - Hierophant"
+                ],
+                "sales": [
+                    null
+                ],
+                "metaverse": null,
+                "extraNotes": null
+            }],
+            "spoilers": [{
+            }]
+        },
+        "apr29": {
+            "weekDay": "Friday",
+            "date": "April 29th",
+            "day": [{
+                "desc": "After School",
+                "weather": "Daytime",
+                "socialStat": [
+                    "You start at home today"
+                ],
+                "confidants": [
+                    "Takemi - Death",
+                    "Ryuji - Chariot"
+                ],
+                "sales": [
+                    null
+                ],
+                "metaverse": {
+                    "palaceAvailable": true,
+                    "deadlineCountdown": 3,
+                    "notes": "Treasure Room Deadline"
+                },
+                "extraNotes": "Golden Week - Showa"
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Clear",
+                "socialStat": [
+                    null
+                ],
+                "confidants": [
+                    "Sojiro - Hierophant"
+                ],
+                "sales": [
+                    null
+                ],
+                "metaverse": null,
+                "extraNotes": null
+            }],
+            "spoilers": [{
+            }]
+        },
+        "apr30": {
+            "weekDay": "Saturday",
+            "date": "April 30th",
+            "day": [{
+                "desc": "After School",
+                "weather": "Clear",
+                "socialStat": [
+                    "Can Read a Book on the Train",
+                    "Class Question +1 Knowledge",
+                    "Shibuya Movie Theater",
+                    "Tanktop Millionaire: +3 Guts"
+                ],
+                "confidants": [
+                    "Takemi - Death",
+                    "Ryuji - Chariot"
+                ],
+                "sales": [
+                    "Supermarket sale in Yongen"
+                ],
+                "metaverse": {
+                    "palaceAvailable": true,
+                    "deadlineCountdown": 2,
+                    "notes": "Calling Card Deadline"
+                },
+                "extraNotes": null
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Clear",
+                "socialStat": [
+                    null
+                ],
+                "confidants": [
+                    "Sojiro - Hierophant"
+                ],
+                "sales": [
+                    null
+                ],
+                "metaverse": null,
+                "extraNotes": null
+            }],
+            "spoilers": [{
+                "class": "Wonder, Child, A Prodigy"
+            }]
+        },
+        "mmmdd": {
+            "weekDay": null,
+            "date": " ",
+            "day": [{
+                "desc": " ",
+                "weather": null,
+                "socialStat": [
+                    null
+                ],
+                "confidants": [
+                    null
+                ],
+                "sales": [
+                    null
+                ],
+                "metaverse": {
+                    "palaceAvailable": null,
+                    "deadlineCountdown": null,
+                    "notes": null
+                },
+                "extraNotes": null
+            }],
+            "night": [{
+                "desc": null,
+                "weather": null,
+                "socialStat": [
+                    null
+                ],
+                "confidants": [
+                    null
+                ],
+                "sales": [
+                    null
+                ],
+                "metaverse": null,
+                "extraNotes": null
             }],
             "spoilers": [{
             }]

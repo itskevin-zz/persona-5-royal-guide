@@ -19,8 +19,8 @@ a{
 footer {
     color: #888;
     border-top: 1px solid #eee;
-    margin-top: 16px;
-    padding: 16px 0;
+    margin: 16px 0;
+    padding: 8px 0;
 }
 header {
     margin-top: 16px;
@@ -49,8 +49,11 @@ header a {
     margin:8px;
 }
 .day-period {
-    margin-top: 16px;
+    margin: 32px 0;
 }
 .day-period h3 {
     text-align:center;
+}
+.evening.day-period {
+    border-top: 1px solid #888;
 }

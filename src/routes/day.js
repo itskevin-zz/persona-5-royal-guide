@@ -24,12 +24,8 @@ routes.get('/day/:date', async (req, res) => {
     const nextDate = dates.datesArray[indexCurrentDate + 1]
     const prevDate = dates.datesArray[indexCurrentDate - 1]
 
-
-
     res.render('day', { 
         title: 'Persona 5 Royal Guide',
-        // date:nextDate,
-        // weekDay: prevDate,
         date: data.calendar[urlDate].date,
         weekDay: data.calendar[urlDate].weekDay,
         dayType: data.calendar[urlDate].day[0].desc,
