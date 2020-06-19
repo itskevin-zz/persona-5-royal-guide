@@ -24,29 +24,33 @@ routes.get('/day/:date', async (req, res) => {
     const nextDate = dates.datesArray[indexCurrentDate + 1]
     const prevDate = dates.datesArray[indexCurrentDate - 1]
 
-    res.render('day', { 
-        title: 'Persona 5 Royal Guide',
-        date: data.calendar[urlDate].date,
-        weekDay: data.calendar[urlDate].weekDay,
-        dayType: data.calendar[urlDate].day[0].desc,
-        dayWeather: data.calendar[urlDate].day[0].weather,
-        dayStats: data.calendar[urlDate].day[0].socialStat,
-        dayConfidants: data.calendar[urlDate].day[0].confidants,
-        daySales: data.calendar[urlDate].day[0].sales,
-        dayMetaverse: data.calendar[urlDate].day[0].metaverse,
-        dayExtras: data.calendar[urlDate].day[0].extraNotes,
-        nightType: data.calendar[urlDate].night[0].desc,
-        nightWeather: data.calendar[urlDate].night[0].weather,
-        nightStats: data.calendar[urlDate].night[0].socialStat,
-        nightConfidants: data.calendar[urlDate].night[0].confidants,
-        nightSales: data.calendar[urlDate].night[0].sales,
-        nightMetaverse: data.calendar[urlDate].night[0].metaverse,
-        nightExtras: data.calendar[urlDate].night[0].extraNotes,
-        spoilers: data.calendar[urlDate].spoilers,
-        nextDate,
-        prevDate
+    if (indexCurrentDate === null) {
+        res.send('page not found')
+    } else {
 
-     })
+        res.render('day', { 
+            title: 'Persona 5 Royal Guide',
+            date: data.calendar[urlDate].date,
+            weekDay: data.calendar[urlDate].weekDay,
+            dayType: data.calendar[urlDate].day[0].desc,
+            dayWeather: data.calendar[urlDate].day[0].weather,
+            dayStats: data.calendar[urlDate].day[0].socialStat,
+            dayConfidants: data.calendar[urlDate].day[0].confidants,
+            daySales: data.calendar[urlDate].day[0].sales,
+            dayMetaverse: data.calendar[urlDate].day[0].metaverse,
+            dayExtras: data.calendar[urlDate].day[0].extraNotes,
+            nightType: data.calendar[urlDate].night[0].desc,
+            nightWeather: data.calendar[urlDate].night[0].weather,
+            nightStats: data.calendar[urlDate].night[0].socialStat,
+            nightConfidants: data.calendar[urlDate].night[0].confidants,
+            nightSales: data.calendar[urlDate].night[0].sales,
+            nightMetaverse: data.calendar[urlDate].night[0].metaverse,
+            nightExtras: data.calendar[urlDate].night[0].extraNotes,
+            spoilers: data.calendar[urlDate].spoilers,
+            nextDate,
+            prevDate
+        })
+    }
 })
 
 module.exports = routes

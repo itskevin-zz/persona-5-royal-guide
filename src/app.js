@@ -33,16 +33,13 @@ app.use(dataRoutes)
 app.use(indexRoutes)
 app.use(dayRoutes)
 
-// 404 page
+// 404 pages
 app.get('*', (req, res) => {
     res.render('404', {
         title: 'Persona 5 Royal Calendar Guide',
         errorMessage: 'Page Not Found'
     })
 })
-
-
-
 
 // Start web server
 app.listen(port, () => {

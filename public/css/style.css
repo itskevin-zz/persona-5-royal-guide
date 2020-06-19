@@ -57,3 +57,8 @@ header a {
 .evening.day-period {
     border-top: 1px solid #888;
 }
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
