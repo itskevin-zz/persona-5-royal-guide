@@ -12,6 +12,7 @@
     "nodemon": "^2.0.4"
   },
   "scripts": {
+    "start": "node src/app.js",
     "dev": "nodemon src/app.js -e js,hbs,css,json"
   },
   "keywords": [],
