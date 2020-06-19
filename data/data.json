@@ -1,0 +1,198 @@
+{
+    "calendar": {
+        "apr18": {
+            "weekDay": "Monday",
+            "date": "April 18th",
+            "day": [{
+                "desc": "After School",
+                "weather": "Cloudy",
+                "socialStat": [
+                    "Shibuya Movie Theater",
+                    "Tanktop Millionaire: +3 Guts",
+                    "Studying in Library: lower change of knowledge but raise Guts instead"
+                ],
+                "confidants": [
+                    "Takemi - Death"
+                ],
+                "sales": "Spring Exclusive Items now in stores until 5/31",
+                "metaverse": {
+                    "palaceAvailable": true,
+                    "deadlineCountdown": 14,
+                    "notes": null
+                },
+                "extraNotes":"Feel free to explore the areas available to you. Time won't pass until you commit to an Activity, or Confidant."
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Cloudy",
+                "socialStat": [
+                    "Crossword at Leblanc: +1 Knowledge"
+                ],
+                "confidants": [
+                ],
+                "sales": null,
+                "metaverse": null,
+                "extraNotes":"Might as well clean your room tonight so you can have full access to your room. Feeding the plant nutrients is a stat increase that takes up no time. Plus you'll find a CRT TV that pairs nicely with the DVD at the pawn shop now."
+            }],
+            "spoilers": [{
+                "crossword": "semesters"
+            }]
+        },
+        "apr19": {
+            "weekDay": "Tuesday",
+            "date": "April 19th",
+            "day": [{
+                "desc": "After School",
+                "weather": "Clear",
+                "socialStat": [
+                    "Class Question +1 Knowledge"
+                ],
+                "confidants": [
+                    "Takemi - Death",
+                    "Ryuji - Chariot"
+                ],
+                "sales": null,
+                "metaverse": {
+                    "palaceAvailable": true,
+                    "deadlineCountdown": 13,
+                    "notes": null
+                },
+                "extraNotes": null
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Cloudy",
+                "socialStat": [
+                    "Plant Feeding +1-2 Kindness"
+                ],
+                "confidants": [
+                ],
+                "sales":null,
+                "metaverse": null,
+                "extraNotes": null
+            }],
+            "spoilers": [{
+                "class": "They're the same"
+            }]
+        },
+        "apr20": {
+            "weekDay": "Wednesday",
+            "date": "April 20th",
+            "day": [{
+                "desc": "After School",
+                "weather": "Rain",
+                "socialStat": [
+                    "Can Read a Book on the Train",
+                    "Improved Study +3 Knowledge",
+                    "Improved Tool Crafting"
+                ],
+                "confidants": [
+                    "Takemi - Death"
+                ],
+                "sales": "Rainy Day Items Available",
+                "metaverse": {
+                    "palaceAvailable": true,
+                    "deadlineCountdown": 12,
+                    "notes": null
+                },
+                "extraNotes": "Midterm on 5/11 Knowledge Rank 2 to pass, Rank 3 for Top Ten in Class. Don't worry about being Top Ten or Ranked One the rewards aren't worth it. Settle for passing the exams and the plus 2 to Charm."
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Rain",
+                "socialStat": [
+                    "Improved Study +3 Knowledge",
+                    "Improved Tool Crafting"
+                ],
+                "confidants": [
+                    "Sojiro - Hierophant"
+                ],
+                "sales":null,
+                "metaverse": null,
+                "extraNotes": null
+            }],
+            "spoilers": [{
+            }]
+        },
+        "apr21": {
+            "weekDay": "Thursday",
+            "date": "April 21st",
+            "day": [{
+                "desc": "After School",
+                "weather": "Rain",
+                "socialStat": [
+                    "Shibuya Diner now available",
+                    "Improved Study +3 Knowledge"
+                ],
+                "confidants": [
+                    "Takemi - Death"
+                ],
+                "sales": "Rainy Day Items Available",
+                "metaverse": {
+                    "palaceAvailable": true,
+                    "deadlineCountdown": 11,
+                    "notes": null
+                },
+                "extraNotes": null
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Clear",
+                "socialStat": [
+                    "Bathhouse now Available +2 Charm"
+                ],
+                "confidants": [
+                    "Sojiro - Hierophant"
+                ],
+                "sales": null,
+                "metaverse": null,
+                "extraNotes": "Spare Sandwich in the Fridge. Sojiro will now let you roam Yongen-Jaya at night."
+            }],
+            "spoilers": [{
+            }]
+        },
+        "0000": {
+            "weekDay": "Day of Week",
+            "date": "Month ##",
+            "day": [{
+                "desc": null,
+                "weather": null,
+                "socialStat": [
+
+                ],
+                "confidants": [
+
+                ],
+                "sales":null,
+                "metaverse": {
+                    "palaceAvailable": true,
+                    "deadlineCountdown": 14,
+                    "notes": null
+                },
+                "extraNotes": null
+            }],
+            "night": [{
+                "desc": null,
+                "weather": null,
+                "socialStat": [
+
+                ],
+                "confidants": [
+                    ""
+                ],
+                "sales":null,
+                "metaverse": {
+                    "palaceAvailable": null,
+                    "deadlineCountdown": null,
+                    "notes": null
+                },
+                "extraNotes": null
+            }],
+            "spoilers": [{
+            }]
+        } 
+    },
+    "confidants":{
+
+    }
+}

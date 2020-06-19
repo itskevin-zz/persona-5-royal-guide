@@ -1,0 +1,56 @@
+body {
+    color: #333;
+    font-family: arial;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 16px;
+
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+a{
+    color: #888;
+    text-decoration: none;
+}
+.main-content {
+    flex-grow: 1; 
+}
+footer {
+    color: #888;
+    border-top: 1px solid #eee;
+    margin-top: 16px;
+    padding: 16px 0;
+}
+header {
+    margin-top: 16px;
+    margin-bottom: 48px;
+}
+h1 {
+    font-size: 48px;
+    margin-bottom: 16px;
+}
+header a {
+    margin-right: 16px;
+}
+.date h2 {
+    margin: 0
+}
+.date-nav {
+    display: flex;
+}
+.date-nav .date {
+    flex-grow: 3;
+    align-items: center;
+    text-align: center;
+    font-weight: 600;
+}
+.day-nav {
+    margin:8px;
+}
+.day-period {
+    margin-top: 16px;
+}
+.day-period h3 {
+    text-align:center;
+}

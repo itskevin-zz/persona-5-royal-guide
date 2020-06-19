@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Persona 5 Royal Calendar Guide</title>
+        <link rel="icon" href="/img/icon.png">
+        <link rel="stylesheet" href="/css/style.css">
+    </head>
+    <body>
+        <div class="main-content">
+            {{>header}}
+            <div class="date-nav">
+                <div class="pre-day day-nav"><a href="#">Previous Day</a></div>
+                <div class="date"><h2>{{weekDay}}, {{date}}</h2></div>
+                <div class="next-day day-nav"><a href="#">Next Day</a></div>
+            </div>
+
+            <hr>
+
+            <div class="daytime day-period">
+                <h3 class="day">{{dayType}} | {{dayWeather}}</h3>
+
+                {{#if dayStats}}
+                <div class="day-stats">
+                    <h4>Social Stat Opportunities</h4>
+                    <ul>
+                        {{#each dayStats}}
+                        <li>
+                            {{this}}
+                        </li>
+                        {{/each}}
+                    </ul>
+                </div>
+                {{/if}}
+
+                {{#if dayConfidants}}
+                <div class="day-confidants">
+                    <h4>Confidants</h4>
+                    <ul>
+                        {{#each dayConfidants}}
+                        <li>
+                            {{this}}
+                        </li>
+                        {{/each}}
+                    </ul>
+                </div>
+                {{/if}}
+            </div>
+
+            {{#if daySales}}
+            <div class="day-sales">
+                <h4>Stores & Sales</h4>
+                <p>{{daySales}}</p>
+            </div>
+            {{/if}}
+            
+            {{#if dayMetaverse}}
+            <div class="day-metaverse">
+                <h4>Metaverse</h4>
+                <p>Palace Available: {{dayMetaverse.palaceAvailable}}</p>
+                <p>Days Until Deadline: {{dayMetaverse.deadlineCountdown}}</p>
+            </div>
+            {{/if}}
+
+            {{#if dayExtras}}
+            <div class="day-extras">
+                <h4>Extras</h4>
+                <p>{{dayExtras}}</p>
+            </div>
+            {{/if}}
+
+            <hr>
+
+            <div class="evening day-period">
+                <h3>{{nightType}} | {{nightWeather}}</h3>
+
+                 {{#if nightStats}}
+                <div class="night-stats">
+                    <h4>Social Stat Opportunities</h4>
+                    <ul>
+                        {{#each nightStats}}
+                        <li>
+                            {{this}}
+                        </li>
+                        {{/each}}
+                    </ul>
+                </div>
+                {{/if}}
+
+                {{#if nightConfidants}}
+                <div class="night-confidants">
+                    <h4>Confidants</h4>
+                    <ul>
+                        {{#each nightConfidants}}
+                        <li>
+                            {{this}}
+                        </li>
+                        {{/each}}
+                    </ul>
+                </div>
+                {{/if}}
+            </div>
+
+            {{#if nightSales}}
+            <div class="night-sales">
+                <h4>Stores & Sales</h4>
+                <p>{{nightSales}}</p>
+            </div>
+            {{/if}}
+            
+            {{#if nightMetaverse}}
+            <div class="night-metaverse">
+                <h4>Metaverse</h4>
+                <p>Palace Available: {{nightMetaverse.palaceAvailable}}</p>
+                <p>Days Until Deadline: {{nightMetaverse.deadlineCountdown}}</p>
+            </div>
+            {{/if}}
+
+            {{#if nightExtras}}
+            <div class="night-extras">
+                <h4>Extras</h4>
+                <p>{{nightExtras}}</p>
+            </div>
+            {{/if}}
+
+            </div>
+        </div>
+    </body>
+</html>
