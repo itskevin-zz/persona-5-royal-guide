@@ -150,47 +150,7 @@
             }],
             "spoilers": [{
             }]
-        },
-        "0000": {
-            "weekDay": "Day of Week",
-            "date": "Month ##",
-            "day": [{
-                "desc": null,
-                "weather": null,
-                "socialStat": [
-
-                ],
-                "confidants": [
-
-                ],
-                "sales":null,
-                "metaverse": {
-                    "palaceAvailable": true,
-                    "deadlineCountdown": 14,
-                    "notes": null
-                },
-                "extraNotes": null
-            }],
-            "night": [{
-                "desc": null,
-                "weather": null,
-                "socialStat": [
-
-                ],
-                "confidants": [
-                    ""
-                ],
-                "sales":null,
-                "metaverse": {
-                    "palaceAvailable": null,
-                    "deadlineCountdown": null,
-                    "notes": null
-                },
-                "extraNotes": null
-            }],
-            "spoilers": [{
-            }]
-        } 
+        }
     },
     "confidants":{
 

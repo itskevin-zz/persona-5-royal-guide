@@ -9,9 +9,13 @@
         <div class="main-content">
             {{>header}}
             <div class="date-nav">
-                <div class="pre-day day-nav"><a href="#">Previous Day</a></div>
+                {{#if prevDate}}
+                <div class="pre-day day-nav"><a href="/day/{{prevDate}}">Previous Day</a></div>
+                {{/if}}
                 <div class="date"><h2>{{weekDay}}, {{date}}</h2></div>
-                <div class="next-day day-nav"><a href="#">Next Day</a></div>
+                {{#if nextDate}}
+                <div class="next-day day-nav"><a href="/day/{{nextDate}}">Next Day</a></div>
+                {{/if}}
             </div>
 
             <hr>
