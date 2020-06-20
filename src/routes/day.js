@@ -24,8 +24,10 @@ routes.get('/day/:date', async (req, res) => {
     const nextDate = dates.datesArray[indexCurrentDate + 1]
     const prevDate = dates.datesArray[indexCurrentDate - 1]
 
-    if (indexCurrentDate === null) {
-        res.send('page not found')
+    if (!dates.datesArray.find(date => date === urlDate)) {
+        res.status(404).render('404', {
+            errorMessage: 'Page not found'
+        })
     } else {
 
         res.render('day', { 
@@ -52,5 +54,6 @@ routes.get('/day/:date', async (req, res) => {
         })
     }
 })
+
 
 module.exports = routes
