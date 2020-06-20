@@ -572,7 +572,362 @@
             }]
         }
     },
-    "confidants":{
-
-    }
+    "confidants":[{
+        "name": "Tae Takemi",
+        "Arcana": "Death",
+        "location": "Tae is always found in her Clinic in the same region of town as your home at Leblanc, but she'll only see you for advancing your relationship in the daytime",
+        "notes": "If you want to give Tae a gift, items like a Black Mug or a Cactus are ideal.",
+        "ranks": [{
+            "rankOne": "<ul>\t<li>After 4\/18, visit the Clinic near LeBlanc Cafe and talk to her to start this cooperation.<\/li>\t<li>Unlocks&nbsp;<strong>Rejuvenation<\/strong>, increasing the range of healing items the clinic stocks.<\/li><\/ul>",
+            "rankTwo": "<ul>\t<li>Requires rank 2 (bold) guts.<\/li>\t<li>Impactful Conversation Choices for this Rank:\t<ul>\t\t<li>Choice 1: \"I have a bad heart.\" +2<\/li>\t\t<li>Choice 2: \"I agree.\" +2<\/li>\t<\/ul>\t<\/li><\/ul>",
+            "rankThree": "<ul>\t<li>Impactful conversation choices for this rank:\t<ul>\t\t<li>Choice 3: \"I don't mind.\" +2 \/ \"I need the medicine.\" +2<\/li>\t<\/ul>\t<\/li>\t<li>Unlocks <strong>Sterilization<\/strong>, adding even more items to the clinic shop.<\/li><\/ul>",
+            "rankFour": "<ul>\t<li>Impactful conversation choices for this rank:\t<ul>\t\t<li>Choice 1: \"Dr. Takemi will help.\" +2<\/li>\t\t<li>Choice 2: \"You seem happy.\" +3 \/ \"You're so kind.\" +2 \/ \"Why free?\" +2<\/li>\t<\/ul>\t<\/li><\/ul>",
+            "rankFive": "<ul>\t<li>Impactful conversation choices for this rank:\t<ul>\t\t<li>Choice 3: \"That's good.\" +3 \/ \"When will it be done?\" +2<\/li>\t<\/ul>\t<\/li>\t<li>Unlocks <strong>Immunization<\/strong>, adding support items to the clinic shop.<\/li><\/ul>",
+            "rankSix": "<ul><li>Impactful conversation choices for this rank:<ul><li>Choice 3: \"It suits you.\" +3 \/ \"You're not honest.\" +2<\/li><\/ul><\/li><\/ul>",
+            "rankSeven": "<ul><li>Impactful conversation choices for this rank:<ul><li>Choice 1: \"This is harrassment.\" +2 \/ \"She's a great doctor.\" +2<\/li><li>Choice 3: \"Just rest for today.\" +2&nbsp;\/ \"Anything I can do?\" +2<\/li><li>Choice 4: \"We all do sometimes.\" +3 \/ \"I'm glad you did.\" +2<\/li><\/ul><\/li><li>Unlocks a&nbsp;<strong>Discount<\/strong>, reducing the cost of clinic items significantly.<\/li><\/ul>",
+            "rankEight": "<ul><li>Requires rank 4 (charismatic) charm.<\/li><li>Impactful conversation choices for this rank:<ul><li>Choice 2: \"I'm your ally.\" +2<\/li><li>After this a sidequest \/ request for Mementos is unlocked:&nbsp;<strong>Bad Medicine<\/strong>.<\/li><\/ul><\/li><li>Complete the Bad Medicine sidequest, then return to Tae:<ul><li>Choice 2: \"Let's get to work, doctor.\" +3 \/ \"It's not over yet.\" +3 \/ \"You should hurry.\" +2<\/li><li>Choice 3: \"It's for you.\" +3 \/ \"It's for Miwa-chan.\" +3 \/ \"It's for my exams.\" +2<\/li><\/ul><\/li><\/ul>",
+            "rankNine": "<ul><li>This is the point when a romance with Tae Takemi becomes available.<\/li><li>Impactful conversation choices for this rank:<ul><li>Choice 1: \"It was rough.\" +3 \/ \"Don't worry about it.\" +2 \/ \"It was for my exams.\" +2<\/li><li>Choice 3:<ul><li>Romance - \"I wanted to see you\"<\/li><li>Friendship - \"It was for my exams.\"<\/li><\/ul><\/li><li>Choice 4:<ul><li>Romance - \"I love you.\"<\/li><li>Friendship - \"What do you think?\"<\/li><\/ul><\/li><li>Choice 5:<ul><li>Romance - \"It isn't a joke.\"<\/li><li>Friendship - \"That sounds good.\"<\/li><\/ul><\/li><\/ul><\/li><li>Unlocks <strong>Inokashira Park<\/strong>, if you haven't already.<\/li><\/ul>",
+            "rankTen": "<ul><li>Any choices you make will be irrelevant, since this is the max rank.<\/li><li>Unlocks&nbsp;<strong>Resuscitation<\/strong>, adding more revival-related items to the clinic store.<\/li><li>Unlocks the ability to fuse the ultimate Death Persona, Alice.<\/li><\/ul>"
+        }]
+    },{
+        "name": "Ann Takami",
+        "arcana": "Lovers",
+        "location": "Ann is found in the Underground Mall in Shibuya after school. She's available in the day on Monday, Tuesday, Wednesday, Friday and Sunday, and available day and night on rainy days.",
+        "notes": "Ann likes gifts such as the Powdered Green Tea Set, or the KGB49 Music CD",
+        "ranks":[{
+            "rankOne": "<ul>\t<li>On 4\/15 as part of the story your cooperation with Ann will begin.&nbsp;<\/li>\t<li>Unlocks <strong>Baton Pass<\/strong> ability, letting you pass Ann's turn to other Baton Pass users in battle after a 1 More.<\/li><\/ul>",
+            "rankTwo": "<ul>\t<li>Requires rank 2 (considerate) kindness. The date must also be after 5\/6.<\/li>\t<li>Impactful Conversation Choices for this Rank:\t<ul>\t\t<li>Choice 1: \"She's so strong.\" +3 \/ \"Are you feeling better now?\" +3 \/ \"So are you friends again?\" +2<\/li>\t\t<li>Choice 2: \"You might be right.\" +3 \/ \"You can't blame yourself?\" +2 \/ \"Kamoshida had the upper hand.\" +2<\/li>\t\t<li>Choice 3: \"I couldn't just ignore you.\" +3 \/ \"It was no big deal.\" +2<\/li>\t<\/ul>\t<\/li>\t<li>Unlocks the&nbsp;<strong>Girl Talk<\/strong>&nbsp;ability, giving Ann the chance to step in and rescue a failed demon negotiation.<\/li><\/ul>",
+            "rankThree": "<ul>\t<li>Impactful conversation choices for this rank:\t<ul>\t\t<li>Choice 5: \"Can we stop yet?\"&nbsp;+3 \/ \"I love you.\" +2 \/&nbsp;\"I like you.\" +2<\/li>\t\t<li>Choice 8: \"Has that happened to you?\" +3 \/ \"That's odd.\" +2<\/li>\t\t<li>Choice 9: \"The freedom sounds nice?\" +2<\/li>\t<\/ul>\t<\/li>\t<li>Unlocks the&nbsp;<strong>Follow&nbsp;Up<\/strong>&nbsp;ability, giving Ann the chance to attack an enemy after Joker as a follow-up.<\/li>\t<li>Unlocks the&nbsp;<strong>Inokashira Park<\/strong>&nbsp;location if you've never visited there before.&nbsp;<\/li><\/ul>",
+            "rankFour": "<ul>\t<li>Impactful conversation choices for this rank:\t<ul>\t\t<li>Choice 1: \"I know what you mean.\" +3 \/ \"That comes down to you.\" +2<\/li>\t\t<li>Choice 2: \"That's hilarious.\" +3 \/ \"That was mean of her.\" +2<\/li>\t\t<li>Choice 3: \"Tell me?\" +3 \/ \"I'm afraid to know.\" +2<\/li>\t\t<li>Choice 4: \"Good idea.\" +3 \/ \"How exactly?\" +2<\/li>\t\t<li>Choice 5: \"Good luck with that.\" +3<\/li>\t\t<li>Phone Call (P5R): \"Morgana in the bag.\" +2<\/li>\t<\/ul>\t<\/li><\/ul>",
+            "rankFive": "<ul>\t<li>Impactful conversation choices for this rank:\t<ul>\t\t<li>Choice 1: \"Give it up.\" +2<\/li>\t\t<li>Choice 2: \"She's amazing, huh...\" +2<\/li>\t\t<li>Choice 3: \"It had grace.\" +2<\/li>\t<\/ul>\t<\/li>\t<li>Unlocks the&nbsp;<strong>Crocodile Tears&nbsp;<\/strong>ability, which gives Ann the chance to lower a demon's demands during demon negotiation.<\/li><\/ul>",
+            "rankSix": "<ul>\t<li>Impactful conversation choices for this rank:\t<ul>\t\t<li>Choice 1: \"It seems that way.\" +3 &nbsp;\/ &nbsp;\"If it's a friend, yeah.\" +2<\/li>\t\t<li>Choice 4:&nbsp;\"Comfort her.\" +3 \/ \"Show her your strength.\" +3 \/ \"Listen to what she has to say.\" +2<\/li>\t\t<li>Phone Call (P5R): \"Motivate\" +2 \/ \"Support\" +2<\/li>\t<\/ul>\t<\/li>\t<li>Unlocks the&nbsp;<strong>Harisen Recovery<\/strong>&nbsp;ability, which gives Ann the chance to step in and heal status ailments on party members when in the party.<\/li><\/ul>",
+            "rankSeven": "<ul>\t<li>Impactful conversation choices for this rank:\t<ul>\t\t<li>Choice 1: \"She admires you.\" +2<\/li>\t\t<li>Choice 4: \"Go get 'em, tiger.\" +2<\/li>\t\t<li>Phone Call (P5R): \"Hang on in there.\" +2<\/li>\t<\/ul>\t<\/li>\t<li>Unlocks the&nbsp;<strong>Sexy Technique<\/strong>&nbsp;ability, which gives Ann the chance to seduce demons during demon negotiation.<\/li><\/ul>",
+            "rankEight": "<ul>\t<li>Impactful conversation choices for this rank:\t<ul>\t\t<li>Choice 1: \"You have some real guts.\" +3&nbsp; \/ &nbsp;\"You're beautiful as-is.\" +2<\/li>\t\t<li>Choice 2: All give +3<\/li>\t\t<li>Choice 4: All give +3<\/li>\t\t<li>Phone Call (P5R): \"Why don't you ask yourself\" +2<\/li>\t<\/ul>\t<\/li>\t<li>Unlocks the <strong>Endure<\/strong>&nbsp;ability, giving Ann a chance to withstand a blow in combat that would usually kill.<\/li><\/ul>",
+            "rankNine": "<ul>\t<li>This is the point when a romance with Ann Takamaki&nbsp;becomes available.<\/li>\t<li>Impactful conversation choices for this rank:\t<ul>\t\t<li>Choice 3: All give +3<\/li>\t\t<li>Choice 4:\t\t<ul>\t\t\t<li>Romance - \"You have me.\"<\/li>\t\t\t<li>Friendship - \"You have the others.\"<\/li>\t\t<\/ul>\t\t<\/li>\t\t<li>Phone Call (P5R): \"Stay Forever.\" +3<\/li>\t<\/ul>\t<\/li>\t<li>Unlocks the&nbsp;<strong>Protect<\/strong>&nbsp;ability, giving Ann the ability to shield Joker from an attack that would be fatal.<\/li><\/ul>",
+            "rankTen": "<ul>\t<li>Any choices you make will be irrelevant, since this is the max rank.<\/li>\t<li>Unlocks&nbsp;<strong>Second Awakening<\/strong>, evolving Ann's Persona to its final form, Ishtar.<\/li><\/ul>"
+        }]
+    },{
+        "name": "",
+        "arcana": "",
+        "location": "",
+        "notes": "",
+        "ranks":[{
+            "rankOne": "",
+            "rankTwo": "",
+            "rankThree": "",
+            "rankFour": "",
+            "rankFive": "",
+            "rankSix": "",
+            "rankSeven": "",
+            "rankEight": "",
+            "rankNine": "",
+            "rankTen": ""
+        }]
+    },{
+        "name": "",
+        "arcana": "",
+        "location": "",
+        "notes": "",
+        "ranks":[{
+            "rankOne": "",
+            "rankTwo": "",
+            "rankThree": "",
+            "rankFour": "",
+            "rankFive": "",
+            "rankSix": "",
+            "rankSeven": "",
+            "rankEight": "",
+            "rankNine": "",
+            "rankTen": ""
+        }]
+    },{
+        "name": "",
+        "arcana": "",
+        "location": "",
+        "notes": "",
+        "ranks":[{
+            "rankOne": "",
+            "rankTwo": "",
+            "rankThree": "",
+            "rankFour": "",
+            "rankFive": "",
+            "rankSix": "",
+            "rankSeven": "",
+            "rankEight": "",
+            "rankNine": "",
+            "rankTen": ""
+        }]
+    },{
+        "name": "",
+        "arcana": "",
+        "location": "",
+        "notes": "",
+        "ranks":[{
+            "rankOne": "",
+            "rankTwo": "",
+            "rankThree": "",
+            "rankFour": "",
+            "rankFive": "",
+            "rankSix": "",
+            "rankSeven": "",
+            "rankEight": "",
+            "rankNine": "",
+            "rankTen": ""
+        }]
+    },{
+        "name": "",
+        "arcana": "",
+        "location": "",
+        "notes": "",
+        "ranks":[{
+            "rankOne": "",
+            "rankTwo": "",
+            "rankThree": "",
+            "rankFour": "",
+            "rankFive": "",
+            "rankSix": "",
+            "rankSeven": "",
+            "rankEight": "",
+            "rankNine": "",
+            "rankTen": ""
+        }]
+    },{
+        "name": "",
+        "arcana": "",
+        "location": "",
+        "notes": "",
+        "ranks":[{
+            "rankOne": "",
+            "rankTwo": "",
+            "rankThree": "",
+            "rankFour": "",
+            "rankFive": "",
+            "rankSix": "",
+            "rankSeven": "",
+            "rankEight": "",
+            "rankNine": "",
+            "rankTen": ""
+        }]
+    },{
+        "name": "",
+        "arcana": "",
+        "location": "",
+        "notes": "",
+        "ranks":[{
+            "rankOne": "",
+            "rankTwo": "",
+            "rankThree": "",
+            "rankFour": "",
+            "rankFive": "",
+            "rankSix": "",
+            "rankSeven": "",
+            "rankEight": "",
+            "rankNine": "",
+            "rankTen": ""
+        }]
+    },{
+        "name": "",
+        "arcana": "",
+        "location": "",
+        "notes": "",
+        "ranks":[{
+            "rankOne": "",
+            "rankTwo": "",
+            "rankThree": "",
+            "rankFour": "",
+            "rankFive": "",
+            "rankSix": "",
+            "rankSeven": "",
+            "rankEight": "",
+            "rankNine": "",
+            "rankTen": ""
+        }]
+    },{
+        "name": "",
+        "arcana": "",
+        "location": "",
+        "notes": "",
+        "ranks":[{
+            "rankOne": "",
+            "rankTwo": "",
+            "rankThree": "",
+            "rankFour": "",
+            "rankFive": "",
+            "rankSix": "",
+            "rankSeven": "",
+            "rankEight": "",
+            "rankNine": "",
+            "rankTen": ""
+        }]
+    },{
+        "name": "",
+        "arcana": "",
+        "location": "",
+        "notes": "",
+        "ranks":[{
+            "rankOne": "",
+            "rankTwo": "",
+            "rankThree": "",
+            "rankFour": "",
+            "rankFive": "",
+            "rankSix": "",
+            "rankSeven": "",
+            "rankEight": "",
+            "rankNine": "",
+            "rankTen": ""
+        }]
+    },{
+        "name": "",
+        "arcana": "",
+        "location": "",
+        "notes": "",
+        "ranks":[{
+            "rankOne": "",
+            "rankTwo": "",
+            "rankThree": "",
+            "rankFour": "",
+            "rankFive": "",
+            "rankSix": "",
+            "rankSeven": "",
+            "rankEight": "",
+            "rankNine": "",
+            "rankTen": ""
+        }]
+    },{
+        "name": "",
+        "arcana": "",
+        "location": "",
+        "notes": "",
+        "ranks":[{
+            "rankOne": "",
+            "rankTwo": "",
+            "rankThree": "",
+            "rankFour": "",
+            "rankFive": "",
+            "rankSix": "",
+            "rankSeven": "",
+            "rankEight": "",
+            "rankNine": "",
+            "rankTen": ""
+        }]
+    },{
+        "name": "",
+        "arcana": "",
+        "location": "",
+        "notes": "",
+        "ranks":[{
+            "rankOne": "",
+            "rankTwo": "",
+            "rankThree": "",
+            "rankFour": "",
+            "rankFive": "",
+            "rankSix": "",
+            "rankSeven": "",
+            "rankEight": "",
+            "rankNine": "",
+            "rankTen": ""
+        }]
+    },{
+        "name": "",
+        "arcana": "",
+        "location": "",
+        "notes": "",
+        "ranks":[{
+            "rankOne": "",
+            "rankTwo": "",
+            "rankThree": "",
+            "rankFour": "",
+            "rankFive": "",
+            "rankSix": "",
+            "rankSeven": "",
+            "rankEight": "",
+            "rankNine": "",
+            "rankTen": ""
+        }]
+    },{
+        "name": "",
+        "arcana": "",
+        "location": "",
+        "notes": "",
+        "ranks":[{
+            "rankOne": "",
+            "rankTwo": "",
+            "rankThree": "",
+            "rankFour": "",
+            "rankFive": "",
+            "rankSix": "",
+            "rankSeven": "",
+            "rankEight": "",
+            "rankNine": "",
+            "rankTen": ""
+        }]
+    },{
+        "name": "",
+        "arcana": "",
+        "location": "",
+        "notes": "",
+        "ranks":[{
+            "rankOne": "",
+            "rankTwo": "",
+            "rankThree": "",
+            "rankFour": "",
+            "rankFive": "",
+            "rankSix": "",
+            "rankSeven": "",
+            "rankEight": "",
+            "rankNine": "",
+            "rankTen": ""
+        }]
+    },{
+        "name": "",
+        "arcana": "",
+        "location": "",
+        "notes": "",
+        "ranks":[{
+            "rankOne": "",
+            "rankTwo": "",
+            "rankThree": "",
+            "rankFour": "",
+            "rankFive": "",
+            "rankSix": "",
+            "rankSeven": "",
+            "rankEight": "",
+            "rankNine": "",
+            "rankTen": ""
+        }]
+    },{
+        "name": "",
+        "arcana": "",
+        "location": "",
+        "notes": "",
+        "ranks":[{
+            "rankOne": "",
+            "rankTwo": "",
+            "rankThree": "",
+            "rankFour": "",
+            "rankFive": "",
+            "rankSix": "",
+            "rankSeven": "",
+            "rankEight": "",
+            "rankNine": "",
+            "rankTen": ""
+        }]
+    },{
+        "name": "",
+        "arcana": "",
+        "location": "",
+        "notes": "",
+        "ranks":[{
+            "rankOne": "",
+            "rankTwo": "",
+            "rankThree": "",
+            "rankFour": "",
+            "rankFive": "",
+            "rankSix": "",
+            "rankSeven": "",
+            "rankEight": "",
+            "rankNine": "",
+            "rankTen": ""
+        }]
+    }]
 }
