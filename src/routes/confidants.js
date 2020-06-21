@@ -3,6 +3,7 @@ const routes = new express.Router
 const fs = require('fs')
 
 const dataPath = './data/data.json'
+const confidantsPath = './data/confidants.json'
 
 let data = { }
 fs.readFile(dataPath, (error, calendarData) => {
@@ -10,17 +11,31 @@ fs.readFile(dataPath, (error, calendarData) => {
     data = JSON.parse(calendarData)
 })
 
+// let confidants = {}
+// fs.readFile(confidantsPath, (error, confidantsArray) => {
+//     if (error) throw error
+//     confidants = JSON.parse(confidantsArray)
+// })
+
 routes.get('/confidants', (req, res) => {
-    const confidantsNameArray = data.confidants.map(confidant => confidant.name)
-    const confidantsArcanaArray = data.confidants.map(confidant => confidant.arcana)
-    const confidantsArray = confidantsNameArray.map((name, arcana) => name + " - " + confidantsArcanaArray[arcana])
-      res.render('confidants', {
-          confidants: confidantsArray
-      })
+    let confidantsName = []
+    for (let [key, value] of Object.entries(data.confidants)) {
+        confidantsName = value.name
+        console.log(confidantsName)
+    }
+
+    res.render('confidants', {
+        names: confidantsName
+    })
+
 })
 
 routes.get('/confidants/:id', (req, res) => {
-    res.send('single confidant page')
+    const confidantName = req.params.id
+
+    res.render('confidant', {
+        name: data.confidants.filter(confidant => confidant.name === 'Tae Takemi')
+    })
 })
 
 module.exports = routes

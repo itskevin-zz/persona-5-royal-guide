@@ -18,8 +18,9 @@ fs.readFile(datesPath, (error, datesArray) => {
     dates = JSON.parse(datesArray)
 })
 
-routes.get('/day/:date', async (req, res) => {
+routes.get('/day/:date', (req, res) => {
     const urlDate = req.params.date
+    //dates.js
     const indexCurrentDate = dates.datesArray.findIndex(date => date === urlDate)
     const nextDate = dates.datesArray[indexCurrentDate + 1]
     const prevDate = dates.datesArray[indexCurrentDate - 1]
