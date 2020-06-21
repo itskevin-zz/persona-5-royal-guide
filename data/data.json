@@ -574,7 +574,7 @@
     },
     "confidants":[{
         "name": "Tae Takemi",
-        "Arcana": "Death",
+        "arcana": "Death",
         "location": "Tae is always found in her Clinic in the same region of town as your home at Leblanc, but she'll only see you for advancing your relationship in the daytime",
         "notes": "If you want to give Tae a gift, items like a Black Mug or a Cactus are ideal.",
         "ranks": [{
