@@ -32,7 +32,8 @@ routes.get('/confidants/:confidant', (req, res) => {
         confidantArcana: data.confidants[confidantID].arcana,
         confidantLocation: data.confidants[confidantID].location,
         confidantNotes: data.confidants[confidantID].notes,
-        confidantRanks: data.confidants[confidantID].ranks[0]
+        confidantRanks: data.confidants[confidantID].ranks[0],
+        confidants: confidants.confidantsList
     })
     
 })

@@ -9,10 +9,19 @@
         <div class="main-content confidant-details">
             {{>header}}
 
+            <div class="confidant-nav">
+                <ul>
+                {{#each confidants}}
+                <li><a href="/confidants/{{@key}}">{{this}}</a> | </li>
+                {{/each}}
+            </ul>
+
+            </div>
+
             <h2>{{confidantName}} - {{confidantArcana}}</h2>
             <div class="details">
-               <p>{{confidantLocation}}</p>
-               <p>{{confidantNotes}}</p>
+               <p>{{{confidantLocation}}}</p>
+               <p>{{{confidantNotes}}}</p>
             </div>
             <div class="ranks">
                 <a href="#rank-one">

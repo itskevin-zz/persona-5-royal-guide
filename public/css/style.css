@@ -62,3 +62,10 @@ header a {
     align-items: center;
     justify-content: center;
 }
+.confidant-nav ul li {
+    display: inline;
+}
+.confidant-nav a,
+.confidants-list a {
+    color: rgb(14, 14, 65);
+}
