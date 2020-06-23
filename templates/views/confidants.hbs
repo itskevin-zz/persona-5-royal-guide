@@ -9,7 +9,9 @@
         <div class="main-content">
             {{>header}}
             <ul>
-                {{names}}
+                {{#each confidants}}
+                <li><a href="/confidants/{{@key}}">{{this}}</a></li>
+                {{/each}}
             </ul>
             {{>footer}}
         </div>

@@ -6,10 +6,65 @@
         <link rel="stylesheet" href="/css/style.css">
     </head>
     <body>
-        <div class="main-content">
+        <div class="main-content confidant-details">
             {{>header}}
 
-            {{name}}
+            <h2>{{confidantName}} - {{confidantArcana}}</h2>
+            <div class="details">
+               <p>{{confidantLocation}}</p>
+               <p>{{confidantNotes}}</p>
+            </div>
+            <div class="ranks">
+                <a href="#rank-one">
+                    <strong>Rank One</strong>
+                </a>
+                <p>{{{confidantRanks.rankOne}}}</p>
+
+                <a href="#rank-two">
+                    <strong>Rank Two</strong>
+                </a>
+                <p>{{{confidantRanks.rankTwo}}}</p>
+
+                <a href="#rank-three">
+                    <strong>Rank Three</strong>
+                </a>
+                <p>{{{confidantRanks.rankThree}}}</p>
+                
+                <a href="#rank-four">
+                    <strong>Rank Four</strong>
+                </a>
+                <p>{{{confidantRanks.rankFour}}}</p>
+                
+                <a href="rank-five">
+                    <strong>Rank Five</strong>
+                </a>
+                <p>{{{confidantRanks.rankFive}}}</p>
+                
+                <a href="rank-six">
+                    <strong>Rank Six</strong>
+                </a>
+                <p>{{{confidantRanks.rankSix}}}</p>
+                
+                <a href="rank-seven">
+                    <strong>Rank Seven</strong>
+                </a>
+                <p>{{{confidantRanks.rankSeven}}}</p>
+                
+                <a href="rank-eight">
+                    <strong>Rank Eight</strong>
+                </a>
+                <p>{{{confidantRanks.rankEight}}}</p>
+                
+                <a href="rank-nine">
+                    <strong>Rank Nine</strong>
+                </a>
+                <p>{{{confidantRanks.rankNine}}}</p>
+                
+                <a href="rank-ten">
+                    <strong>Rank Ten</strong>
+                </a>
+                <p>{{{confidantRanks.rankTen}}}</p>
+            </div>
 
             {{>footer}}
         </div>
