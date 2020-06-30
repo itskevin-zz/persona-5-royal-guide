@@ -24,58 +24,75 @@
                <p>{{{confidantNotes}}}</p>
             </div>
             <div class="ranks">
-                <a href="#rank-one">
-                    <strong>Rank One</strong>
-                </a>
-                <p>{{{confidantRanks.rankOne}}}</p>
+                <button class="collapsible">Rank 1</button>
+                <div class="content">
+                    <p>{{{confidantRanks.rankOne}}}</p>
+                </div>
+                
+                <button class="collapsible">Rank 2</button>
+                <div class="content">
+                    <p>{{{confidantRanks.rankTwo}}}</p>
+                </div>
 
-                <a href="#rank-two">
-                    <strong>Rank Two</strong>
-                </a>
-                <p>{{{confidantRanks.rankTwo}}}</p>
+                <button class="collapsible">Rank 3</button>
+                <div class="content">
+                    <p>{{{confidantRanks.rankThree}}}</p>
+                </div>
 
-                <a href="#rank-three">
-                    <strong>Rank Three</strong>
-                </a>
-                <p>{{{confidantRanks.rankThree}}}</p>
-                
-                <a href="#rank-four">
-                    <strong>Rank Four</strong>
-                </a>
-                <p>{{{confidantRanks.rankFour}}}</p>
-                
-                <a href="rank-five">
-                    <strong>Rank Five</strong>
-                </a>
-                <p>{{{confidantRanks.rankFive}}}</p>
-                
-                <a href="rank-six">
-                    <strong>Rank Six</strong>
-                </a>
-                <p>{{{confidantRanks.rankSix}}}</p>
-                
-                <a href="rank-seven">
-                    <strong>Rank Seven</strong>
-                </a>
-                <p>{{{confidantRanks.rankSeven}}}</p>
-                
-                <a href="rank-eight">
-                    <strong>Rank Eight</strong>
-                </a>
-                <p>{{{confidantRanks.rankEight}}}</p>
-                
-                <a href="rank-nine">
-                    <strong>Rank Nine</strong>
-                </a>
-                <p>{{{confidantRanks.rankNine}}}</p>
-                
-                <a href="rank-ten">
-                    <strong>Rank Ten</strong>
-                </a>
-                <p>{{{confidantRanks.rankTen}}}</p>
+                <button class="collapsible">Rank 4</button>
+                <div class="content">
+                    <p>{{{confidantRanks.rankFour}}}</p>
+                </div>
+
+                <button class="collapsible">Rank 5</button>
+                <div class="content">
+                    <p>{{{confidantRanks.rankFive}}}</p>
+                </div>
+
+                <button class="collapsible">Rank 6</button>
+                <div class="content">
+                    <p>{{{confidantRanks.rankSix}}}</p>
+                </div>
+
+                <button class="collapsible">Rank 7</button>
+                <div class="content">
+                    <p>{{{confidantRanks.rankSeven}}}</p>
+                </div>
+
+                <button class="collapsible">Rank 8</button>
+                <div class="content">
+                    <p>{{{confidantRanks.rankEight}}}</p>
+                </div>
+
+                <button class="collapsible">Rank 9</button>
+                <div class="content">
+                    <p>{{{confidantRanks.rankNine}}}</p>
+                </div>
+
+                <button class="collapsible">Rank 10</button>
+                <div class="content">
+                    <p>{{{confidantRanks.rankTen}}}</p>
+                </div>
             </div>
 
             {{>footer}}
         </div>
+
+        <script>
+        var coll = document.getElementsByClassName("collapsible");
+        var i;
+
+        for (i = 0; i < coll.length; i++) {
+        coll[i].addEventListener("click", function() {
+            this.classList.toggle("active");
+            var content = this.nextElementSibling;
+            if (content.style.maxHeight){
+            content.style.maxHeight = null;
+            } else {
+            content.style.maxHeight = content.scrollHeight + "px";
+            } 
+        });
+        }
+        </script>
     </body>
 </html>

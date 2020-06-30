@@ -11,9 +11,10 @@
                     "Tanktop Millionaire: +3 Guts",
                     "Studying in Library: lower change of knowledge but raise Guts instead"
                 ],
-                "confidants": [
-                    "Takemi - Death"
-                ],
+                "confidants": [{
+                    "confidant": "Takemi - Death",
+                    "link": "taeTakemi"
+                }],
                 "sales": [
                     "Spring Exclusive Items now in stores until 5/31"
                 ],
@@ -49,9 +50,14 @@
                 "socialStat": [
                     "Class Question +1 Knowledge"
                 ],
-                "confidants": [
-                    "Takemi - Death",
-                    "Ryuji - Chariot"
+                "confidants": [{
+                    "confidant": "Takemi - Death",
+                    "link": "taeTakemi"
+                },{
+                    "confidant": "Ryuji - Chariot",
+                    "link": "ryujiSakamoto"
+                }
+                    
                 ],
                 "sales": null,
                 "metaverse": {

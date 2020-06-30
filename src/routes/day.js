@@ -53,6 +53,7 @@ routes.get('/day/:date', (req, res) => {
             nextDate,
             prevDate
         })
+        console.log(data.calendar[urlDate].day[0].confidants)
     }
 })
 
