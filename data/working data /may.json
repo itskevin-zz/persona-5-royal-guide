@@ -1,0 +1,596 @@
+[
+    {
+        "date": "2016-05-01T07:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Clear",
+        "socialStatsOpportunities": "Aojiru +1 Proficiency\n\nShibuya Theater - The Cake Knight \nRises +3 Kindness",
+        "confidantsAvailable": "Takemi - Death\nRyuji - Chariot",
+        "metaverse": "Supermarket sale in Yongen\n\nTV Sale:\nMilitary Ration Set\nMuscle Workout Set",
+        "extra": "Palace Available\n\nPLAN EXECUTION \nDEADLINE\r\n(Steal the Treasure) ",
+        "recommendedActions": "Midterm on 5/11 Knowledge Rank 2 to pass, \nRank 3 for Top Ten in Class.\n\nJoker Appreciation Day",
+        "undefined": "Purchase The Muscle Workout Set,\nAojiru and Bio Nutrients.\n\nAdvance Chariot to Rank 3"
+    },
+    {
+        "period": "Evening",
+        "weather": "Clear",
+        "socialStatsOpportunities": "Medicinal Bath +3 Charm",
+        "extra": "N/A",
+        "recommendedActions": "Ryuji will invite you to this months\r\nmovie on 5/29 so wait until then to\r\nalso improve your relationship with\r\nhim",
+        "undefined": "Brew some Coffee"
+    },
+    {
+        "date": "2016-05-02T07:00:00.000Z",
+        "period": "After School",
+        "weather": "Clear",
+        "socialStatsOpportunities": "Cutscene",
+        "confidantsAvailable": "Cutscene",
+        "metaverse": "Cutscene",
+        "extra": "Cutscene",
+        "recommendedActions": "Cutscene",
+        "undefined": "Cutscene"
+    },
+    {
+        "period": "Evening",
+        "weather": "Clear",
+        "socialStatsOpportunities": "Crossword +1 Knowledge\nCall in at Ore No Beko +3 Proficiency",
+        "metaverse": "Weekly Restock",
+        "extra": "N/A",
+        "undefined": "Crossword Puzzle\n\nWatch Guy McVer"
+    },
+    {
+        "date": "2016-05-03T07:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Clear",
+        "socialStatsOpportunities": "Cutscene",
+        "confidantsAvailable": "Cutscene",
+        "metaverse": "Cutscene",
+        "extra": "Cutscene",
+        "recommendedActions": "Golden Week - Constitutional Memorial Day",
+        "undefined": "Cutscene"
+    },
+    {
+        "period": "Evening",
+        "weather": "Cloudy",
+        "extra": "N/A",
+        "undefined": "Finish Watching Guy McVer"
+    },
+    {
+        "date": "2016-05-04T07:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Cloudy",
+        "socialStatsOpportunities": "Restricted",
+        "confidantsAvailable": "Restricted",
+        "metaverse": "Restricted",
+        "extra": "Restricted",
+        "recommendedActions": "Golden Week - Greenery Day\n\nMay the Fourth be with you.",
+        "undefined": "Restricted"
+    },
+    {
+        "period": "Evening",
+        "weather": "Cloudy",
+        "extra": "N/A",
+        "undefined": "Clean up Leblanc"
+    },
+    {
+        "date": "2016-05-05T07:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Cloudy",
+        "socialStatsOpportunities": "Restricted",
+        "confidantsAvailable": "Restricted",
+        "metaverse": "Restricted",
+        "extra": "Restricted",
+        "recommendedActions": "Golden Week - Children's Day",
+        "undefined": "Restricted"
+    },
+    {
+        "period": "Evening",
+        "weather": "Clear",
+        "socialStatsOpportunities": "Plant Care +1-2 Kindness",
+        "extra": "N/A",
+        "undefined": "Feed your plant that good stuff\n\nClean up Leblanc"
+    },
+    {
+        "date": "2016-05-06T07:00:00.000Z",
+        "period": "After School",
+        "weather": "Cloudy",
+        "socialStatsOpportunities": "Class Lecture +1 Knowledge\nShibuya Theater +3 Kindness\nCan now read in the School Library\nBig Burger Challenge Unlocked\nShibuya Diner Now Open",
+        "confidantsAvailable": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers",
+        "metaverse": "Yakisoba Pan at School Store\nNew Book in Shibuya Shop\nNew Accessories at Airsoft\nShop",
+        "extra": "N/A",
+        "recommendedActions": "New Confidant Available\n\n",
+        "undefined": "Return Guy McVer and exchange it for\nBubbly Hills, 90210. Talk to the owner\nof the Model Gun Shop\n\nAdvance Lovers to Rank 2"
+    },
+    {
+        "period": "Evening",
+        "weather": "Cloudy",
+        "socialStatsOpportunities": "Beef Bowl Job (Ore no Beko) \nNow Available + Proficiency",
+        "confidantsAvailable": "Iwai - Hanged\nYoshida - Sun \nSojiro - Hierophant",
+        "metaverse": "Big Burger Challenge 500yen \nat night\nNew Accessories Vender, \nShibuya Central Street",
+        "extra": "N/A",
+        "recommendedActions": "Sojiro will now let you explore Tokyo at night. \nLucky you. Go check out the night life a little\n\nNew Confidants Available",
+        "undefined": "Talk to the Street Orator then apply for\nwork at the Beef Bowl Shop\n\nWork at the Beef Bowl Shop"
+    },
+    {
+        "date": "2016-05-07T07:00:00.000Z",
+        "period": "After School",
+        "weather": "Clear",
+        "socialStatsOpportunities": "Class Question +1 Knowledge\n\n            Forced Objective",
+        "confidantsAvailable": "Restricted",
+        "metaverse": "Restricted",
+        "extra": "Mementos\nUnlocked",
+        "recommendedActions": "If you can confuse a mini boss (Pulpina or \nSkull Cracker,) then theres a chance that they\nwill drop cash or an item. Try inflicting confuse\non mini bosses to shake them down for all they \nhave.",
+        "undefined": "Restricted"
+    },
+    {
+        "period": "Evening",
+        "weather": "Clear",
+        "extra": "N/A",
+        "undefined": "Make two Lockpicks and a Goho-M"
+    },
+    {
+        "date": "2016-05-08T07:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Clear",
+        "socialStatsOpportunities": "Restricted",
+        "confidantsAvailable": "Restricted",
+        "metaverse": "Restricted",
+        "extra": "Restricted",
+        "recommendedActions": "Restricted",
+        "undefined": "Check in on Mishima"
+    },
+    {
+        "period": "Evening",
+        "weather": "Cloudy",
+        "socialStatsOpportunities": "Aojiro +1 Guts\nMedicinal Bath +3 Charm\n",
+        "confidantsAvailable": "Sojiro - Hierophant\nIwai - Hanged \nYoshida - Sun ",
+        "metaverse": "New Accessories at\nUnstopable\nTV Shopping:\nRelaxation Set - 4,600yen\nBio Nutrients Set - 2,680yen",
+        "extra": "N/A",
+        "undefined": "Buy some Aojiru and the Bio Nutrients Set\n\nAdvance Hierophant to Rank 4"
+    },
+    {
+        "date": "2016-05-09T07:00:00.000Z",
+        "period": "After School",
+        "weather": "Cloudy\n\nPollen \nWarning",
+        "socialStatsOpportunities": "Shibuya Theater +3 Kindness\n",
+        "confidantsAvailable": "Takemi - Death\nRyuji - Chariot",
+        "metaverse": "Weekly Restock",
+        "extra": "Mementos Available\n\nNew Request\nAvailable",
+        "recommendedActions": "You start at the hideout today but you can leave\nand do whatever you want.",
+        "undefined": "Advance Death to Rank 5"
+    },
+    {
+        "period": "Evening",
+        "weather": "Cloudy",
+        "socialStatsOpportunities": "Study w/ Ann +3 Knowledge\nLeftover Curry Ingredients +1 Guts",
+        "confidantsAvailable": "Sojiro - Hierophant\nIwai - Hanged Man\nYoshida - Sun ",
+        "metaverse": "TV Shopping Delivery\nStreet Accessories Available",
+        "extra": "N/A",
+        "undefined": "Accept the Study Invite from Ann"
+    },
+    {
+        "date": "2016-05-10T07:00:00.000Z",
+        "period": "After School",
+        "weather": "Cloudy\n\nPollen\nWarning",
+        "socialStatsOpportunities": "Class Question +1 Knowledge\n\nShibuya Theater +3 Kindness",
+        "confidantsAvailable": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers",
+        "extra": "Mementos Available",
+        "recommendedActions": "Midterms Tomorrow, Knowledge \nRank 2 required to pass, Rank 3\nKnowledge for Top Ten in Class",
+        "undefined": "Advance Lovers to Rank 3"
+    },
+    {
+        "period": "Evening",
+        "weather": "Cloudy",
+        "socialStatsOpportunities": "Crossword +1 Knowledge\nStudy w/ Ryuji +3 Knowledge",
+        "confidantsAvailable": "Iwai - Hanged Man\nYoshida - Sun\nMishima - Moon?",
+        "metaverse": "Street Accessories Available",
+        "extra": "N/A",
+        "recommendedActions": "New Confidant Available",
+        "undefined": "Crossword Time\n\nAccept the Study Invite from Ryuji"
+    },
+    {
+        "date": "2016-05-11T07:00:00.000Z",
+        "period": "After School",
+        "weather": "Rain",
+        "socialStatsOpportunities": "Answers inside the note -------->",
+        "confidantsAvailable": "Tests",
+        "metaverse": "Tests",
+        "extra": "Tests",
+        "recommendedActions": "Tests",
+        "undefined": "Tests"
+    },
+    {
+        "period": "Evening",
+        "weather": "N/A",
+        "socialStatsOpportunities": "N/A",
+        "confidantsAvailable": "N/A",
+        "metaverse": "N/A",
+        "extra": "N/A",
+        "recommendedActions": "N/A",
+        "undefined": "N/A"
+    },
+    {
+        "date": "2016-05-12T07:00:00.000Z",
+        "period": "After School",
+        "weather": "Cloudy",
+        "socialStatsOpportunities": "Answers inside the note -------->",
+        "confidantsAvailable": "Tests",
+        "metaverse": "Tests",
+        "extra": "Tests",
+        "recommendedActions": "Tests",
+        "undefined": "Tests"
+    },
+    {
+        "period": "Evening",
+        "weather": "N/A",
+        "socialStatsOpportunities": "N/A",
+        "confidantsAvailable": "N/A",
+        "metaverse": "N/A",
+        "extra": "N/A",
+        "recommendedActions": "N/A",
+        "undefined": "N/A"
+    },
+    {
+        "date": "2016-05-13T07:00:00.000Z",
+        "period": "After School",
+        "weather": "Rain",
+        "socialStatsOpportunities": "Answers inside the note -------->",
+        "confidantsAvailable": "That new boi is HOTT",
+        "metaverse": "Tests",
+        "extra": "Tests",
+        "recommendedActions": "Tests",
+        "undefined": "Chat with the new Counselor"
+    },
+    {
+        "period": "Evening",
+        "weather": "N/A",
+        "socialStatsOpportunities": "N/A",
+        "confidantsAvailable": "N/A",
+        "metaverse": "N/A",
+        "extra": "N/A",
+        "recommendedActions": "N/A",
+        "undefined": "WHY YOU MAKE ME SLEEP\nNOW CAT!!"
+    },
+    {
+        "date": "2016-05-14T07:00:00.000Z",
+        "period": "After School",
+        "weather": "Cloudy",
+        "socialStatsOpportunities": "Knowledge Skill Check\nLv 2 to Pass\nLv 3 for Top Ten",
+        "confidantsAvailable": "Tests",
+        "metaverse": "Tests",
+        "extra": "Tests",
+        "recommendedActions": "Tests",
+        "undefined": "Tests"
+    },
+    {
+        "period": "Evening",
+        "weather": "Cloudy",
+        "extra": "N/A",
+        "undefined": "Make some more tools"
+    },
+    {
+        "date": "2016-05-15T07:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Rain",
+        "socialStatsOpportunities": "CUTSCENE",
+        "confidantsAvailable": "CUTSCENE",
+        "metaverse": "CUTSCENE",
+        "extra": "CUTSCENE",
+        "recommendedActions": "CUTSCENE",
+        "undefined": "CUTSCENE"
+    },
+    {
+        "period": "Evening",
+        "weather": "Cloudy",
+        "metaverse": "TV Shopping\nAllergy Relief Pack - 1.680yen\nCosmetic Cure Gift -14,800yen",
+        "extra": "N/A",
+        "undefined": "Watch Bubbly Hills, 90210"
+    },
+    {
+        "date": "2016-05-16T07:00:00.000Z",
+        "period": "After School",
+        "weather": "Clear",
+        "socialStatsOpportunities": "Class Question +1 Knowledge",
+        "confidantsAvailable": "Restricted",
+        "metaverse": "Restricted",
+        "extra": "Restricted",
+        "recommendedActions": "Restricted",
+        "undefined": "Restricted"
+    },
+    {
+        "period": "Evening",
+        "weather": "Clear",
+        "socialStatsOpportunities": "SLEEP",
+        "confidantsAvailable": "SLEEP",
+        "metaverse": "SLEEP",
+        "extra": "N/A",
+        "recommendedActions": "Sleep",
+        "undefined": "Sleep"
+    },
+    {
+        "date": "2016-05-17T07:00:00.000Z",
+        "period": "After School",
+        "weather": "Clear",
+        "socialStatsOpportunities": "Restricted",
+        "confidantsAvailable": "Restricted",
+        "metaverse": "Restricted",
+        "extra": "Restricted",
+        "recommendedActions": "Restricted",
+        "undefined": "Restricted"
+    },
+    {
+        "period": "Evening",
+        "weather": "Clear",
+        "extra": "N/A",
+        "undefined": "Brew some Coffee"
+    },
+    {
+        "date": "2016-05-18T07:00:00.000Z",
+        "period": "After School",
+        "weather": "Cloudy",
+        "confidantsAvailable": "Takemi - Death\nWardens - Strength",
+        "metaverse": "Weekly Restock\nNew Weapons/Armor at \nUntouchable\nNew Books at Bookstore",
+        "extra": "New Palace Available\nMementos Available\n\n18 Days until Deadline",
+        "recommendedActions": "New Hideout",
+        "undefined": "Buy what you need for an \nInfiltration. Save 16,500 Yen for Fusions\n\nInfiltrate Palace"
+    },
+    {
+        "period": "Evening",
+        "weather": "Cloudy",
+        "socialStatsOpportunities": "Crossword +1 Knowledge\nLeftover Curry Ingredients +1 Guts",
+        "confidantsAvailable": "Iwai - Hanged Man\nYoshida - Sun\nMishima - Moon ",
+        "metaverse": "TV Shopping Delivery\nStreet Accessories Available",
+        "extra": "N/A",
+        "undefined": "Crossword Time\n\nMake some Curry"
+    },
+    {
+        "date": "2016-05-19T07:00:00.000Z",
+        "period": "After School",
+        "weather": "Rain",
+        "socialStatsOpportunities": "Class Question +1 Knowledge",
+        "confidantsAvailable": "Takemi - Death\nAnn - Lovers",
+        "metaverse": "Rainy Day Items Available",
+        "extra": "Palace & Mementos\nAvailable\n\n17 Days until Deadline",
+        "undefined": "Circumvent Special Obstacle"
+    },
+    {
+        "period": "Evening",
+        "weather": "Rain",
+        "socialStatsOpportunities": "TV Quiz +1 Knowledge",
+        "confidantsAvailable": "Sojiro - Hierophant\nIwai - Hanged Man\n",
+        "metaverse": "Rainy Day Items Available",
+        "extra": "N/A",
+        "undefined": "TV Quiz Tonight\n\nStudy"
+    },
+    {
+        "date": "2016-05-20T07:00:00.000Z",
+        "period": "After School",
+        "weather": "Cloudy\n\nPollen \nWarning",
+        "socialStatsOpportunities": "Exam Results Posted +2-3 Charm",
+        "confidantsAvailable": "Takemi - Death\nRyuji - Chariot\nMaruki - Councillor",
+        "metaverse": "Yakisoba Pan at School Store",
+        "extra": "Palace & Mementos\nAvailable\n\n16 Days until Deadline",
+        "recommendedActions": "Exam Scores Posted\nYou can see the scores again after class\n\nNew Confidant Available",
+        "undefined": "Advance Death to Rank 6"
+    },
+    {
+        "period": "Evening",
+        "weather": "Cloudy\n\nPollen\nWarning",
+        "socialStatsOpportunities": "Leftover Curry Ingredients +1 Guts",
+        "confidantsAvailable": "Sojiro - Hierophant\nYoshida - Sun\nMishima - Moon\nRyuji - Chariot ",
+        "extra": "N/A",
+        "recommendedActions": "Exam Reward from Sojiro \n",
+        "undefined": "Take the Big Bang Challenge"
+    },
+    {
+        "date": "2016-05-21T07:00:00.000Z",
+        "period": "After School",
+        "weather": "Clear",
+        "socialStatsOpportunities": "Can Read a Book on the Train \nClass Question +1 Knowledge",
+        "confidantsAvailable": "Takemi - Death\nAnn - Lovers",
+        "metaverse": "Supermarket sale in Yongen\n\n",
+        "extra": "Palace & Mementos\nAvailable\n\n15 Days until Deadline",
+        "undefined": "Read The Great Thief\n\nInfiltrate palace and secure infiltration\nroute"
+    },
+    {
+        "period": "Evening",
+        "weather": "Clear",
+        "socialStatsOpportunities": "Plant Care +1-2 Kindness\n",
+        "confidantsAvailable": "Sojiro - Hierophant\nIwai - Hanged Man\nYoshida - Sun\nMishima - Moon",
+        "extra": "N/A",
+        "undefined": "Feed your plant that luxury stuff\n\nClean Leblanc"
+    },
+    {
+        "date": "2016-05-22T07:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Clear",
+        "socialStatsOpportunities": "Aojiru +1 Kindness",
+        "confidantsAvailable": "Takemi - Death\nRyuji - Chariot",
+        "metaverse": "Supermarket sale in Yongen\n\nTV Shopping:\nMuscle Plus Set - 4,980 yen\nOutdoors Set - 7,980 yen",
+        "extra": "Palace & Mementos\nAvailable\n\n14 Days until Deadline",
+        "undefined": "Buy the Muscle Plus Set then go get some \nAojiru from the Drink Stand\n\nSend Calling Card"
+    },
+    {
+        "period": "Evening",
+        "weather": "Clear",
+        "socialStatsOpportunities": "Aojiru +1 Kindness\nMedicinal Bath +3 Charm\nLeftover Curry Ingredients +1 Guts",
+        "confidantsAvailable": "Sojiro - Hierophant\nIwai - Hanged Man\nYoshida - Sun\nMishima - Moon",
+        "metaverse": "TV Shopping:\nMuscle Plus Set - 4,980 yen\nOutdoors Set - 7,980 yen",
+        "extra": "N/A",
+        "undefined": "Make some Curry"
+    },
+    {
+        "date": "2016-05-23T07:00:00.000Z",
+        "period": "After School",
+        "weather": "Clear\n\nPollen \nWarning",
+        "socialStatsOpportunities": "Class Question - +1 Knowledge\n",
+        "confidantsAvailable": "Takemi - Death\r\nRyuji - Chariot\nAnn - Lovers",
+        "metaverse": "Weekly Restock",
+        "extra": "Palace & Mementos\nAvailable\n\n13 Days until Deadline",
+        "undefined": "Steal the Treasure"
+    },
+    {
+        "period": "Evening",
+        "weather": "Clear\n\nPollen \nWarning",
+        "socialStatsOpportunities": "Leftover Curry Ingredients +1 Guts",
+        "confidantsAvailable": "Iwai - Hanged Man\nYoshida - Sun\nMishima - Moon",
+        "metaverse": "TV Shopping Delivery",
+        "extra": "N/A",
+        "undefined": "Make some Lockpicks"
+    },
+    {
+        "date": "2016-05-24T07:00:00.000Z",
+        "period": "After School",
+        "weather": "Cloudy",
+        "socialStatsOpportunities": "Can Read a Book on the Train \r\n",
+        "confidantsAvailable": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers",
+        "extra": "Palace & Mementos\nAvailable\nNew Request \nAvailable\n12 Days until Deadline",
+        "undefined": "Finish reading The Great Thief\nBuy Vague at the Bookstore in Shibuya\n\nAdvance Death to Rank 7"
+    },
+    {
+        "period": "Evening",
+        "weather": "Cloudy",
+        "confidantsAvailable": "Iwai - Hanged Man\nYoshida - Sun\nMishima - Moon",
+        "metaverse": "Street Accessories Available",
+        "extra": "N/A",
+        "undefined": "Work at the Beef Bowl Shop"
+    },
+    {
+        "date": "2016-05-25T07:00:00.000Z",
+        "period": "After School",
+        "weather": "Clear",
+        "socialStatsOpportunities": "Leftover Curry Ingredients +1 Guts",
+        "confidantsAvailable": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers",
+        "metaverse": "7 days left to buy spring \nseasonal items",
+        "extra": "Palace & Mementos\nAvailable\n\n11 Days until Deadline",
+        "undefined": "Advance Chariot to Rank 4"
+    },
+    {
+        "period": "Evening",
+        "weather": "Clear",
+        "confidantsAvailable": "Yoshida - Sun\nMishima - Moon\nRyuji - Chariot\nKawakami - Temp",
+        "storesSales": "Operation \nMaidwatch, \nRyuji +3",
+        "metaverse": "Street Accessories Available",
+        "extra": "N/A",
+        "recommendedActions": "New Confidant Available",
+        "undefined": "Initiate phase one of \"Operation \nMaidwatch\""
+    },
+    {
+        "date": "2016-05-26T07:00:00.000Z",
+        "period": "After School",
+        "weather": "Clear\n\nPollen\nWarning",
+        "socialStatsOpportunities": "Class Question +1 Knowledge\n\n",
+        "confidantsAvailable": "Takemi - Death\r\nRyuji - Chariot\nAnn - Lovers",
+        "extra": "Palace & Mementos\nAvailable\n\n10 Days until Deadline",
+        "undefined": "Summon a Temperance Arcana Persona\n\nAdvance Lovers to Rank 4"
+    },
+    {
+        "period": "Evening",
+        "weather": "Clear\n\nPollen\nWarning",
+        "socialStatsOpportunities": "TV Quiz +1 Knowledge\nCrossword +1 Knowledge",
+        "confidantsAvailable": "Iwai - Hanged Man\nYoshida - Sun\nMishima - Moon\nKawakami - Temp",
+        "storesSales": "Operation \nMaidwatch, \nRyuji +3",
+        "metaverse": "Street Accessories Available",
+        "extra": "N/A",
+        "recommendedActions": "Leftovers in the fridge in Leblanc",
+        "undefined": "TV Quiz Tonight\n\nInitiate Temperance Arcana Confidant"
+    },
+    {
+        "date": "2016-05-27T07:00:00.000Z",
+        "period": "After School",
+        "weather": "Clear",
+        "socialStatsOpportunities": "Leftover Curry Ingredients +1 Guts",
+        "confidantsAvailable": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers\nMaruki - Councillor",
+        "metaverse": "Yakisoba Pan at School Store",
+        "extra": "Palace & Mementos\nAvailable\n\n9 Days until Deadline",
+        "undefined": "Advance Councillor to Rank 3"
+    },
+    {
+        "period": "Evening",
+        "weather": "Clear",
+        "confidantsAvailable": "Sojiro - Hierophant\nIwai - Hanged Man\nYoshida - Sun\nMishima - Moon\nKawakami - Temp",
+        "storesSales": "Operation \nMaidwatch, \nRyuji +3",
+        "metaverse": "Street Accessories Available",
+        "extra": "N/A",
+        "undefined": "Advance Temperance to Rank 2"
+    },
+    {
+        "date": "2016-05-28T07:00:00.000Z",
+        "period": "After School",
+        "weather": "Clear",
+        "confidantsAvailable": "Takemi - Death\r\nRyuji - Chariot\nAnn - Lovers",
+        "metaverse": "Supermarket sale in Yongen\n\n",
+        "extra": "Palace & Mementos\nAvailable\n\n8 Days until Deadline",
+        "recommendedActions": "New Intermediate Batting Machine.",
+        "undefined": "Advance Lovers to Rank 5"
+    },
+    {
+        "period": "Evening",
+        "weather": "Cloudy",
+        "confidantsAvailable": "Sojiro - Hierophant\nIwai - Hanged Man\nYoshida - Sun\nMishima - Moon",
+        "storesSales": "Operation \nMaidwatch, \nRyuji +3",
+        "extra": "N/A",
+        "recommendedActions": "Invitation from Ryuji",
+        "undefined": "Advance Temperance to Rank 3"
+    },
+    {
+        "date": "2016-05-29T07:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Clear",
+        "socialStatsOpportunities": "Aojiru +1 Knowledge\n",
+        "confidantsAvailable": "Takemi - Death\r\nRyuji - Chariot\nAnn - Lovers",
+        "metaverse": "Supermarket sale in Yongen\n\nTV Shopping:\nJapanese Gift Set - 3,980yen\nFolding Screen Set - 4,980yen",
+        "extra": "Palace & Mementos\nAvailable\n\n7 Days until Deadline",
+        "undefined": "Buy the Japanese Gift Set, Aojiru \nand Bio Nutrients\n\nAccept that invite from Ryuji"
+    },
+    {
+        "period": "Evening",
+        "weather": "Cloudy",
+        "socialStatsOpportunities": "Aojiru +1 Knowledge\nLeftover Curry Ingredients +1 Guts\nCall in at Ore No Beko +3 Proficiency\nMedicinal Bath +3 Charm",
+        "confidantsAvailable": "Sojiro - Hierophant\nIwai - Hanged Man\nYoshida - Sun\nMishima - Moon",
+        "storesSales": "Operation \nMaidwatch, \nRyuji +3",
+        "metaverse": "TV Shopping: \nJapanese Gift Set - 3,980yen\nFolding Screen Set - 4,980yen",
+        "extra": "N/A",
+        "undefined": "Go head to the Movies with Ryuji"
+    },
+    {
+        "date": "2016-05-30T07:00:00.000Z",
+        "period": "After School",
+        "weather": "Clear",
+        "socialStatsOpportunities": "CUTSCENE",
+        "confidantsAvailable": "CUTSCENE",
+        "metaverse": "CUTSCENE",
+        "extra": "6 Days until Deadline",
+        "recommendedActions": "CUTSCENE",
+        "undefined": "Cutscene"
+    },
+    {
+        "period": "Evening",
+        "weather": "Cloudy",
+        "confidantsAvailable": "Iwai - Hanged Man\nYoshida - Sun\nMishima - Moon\nKawakami - Temp",
+        "storesSales": "Operation \nMaidwatch, \nRyuji +3",
+        "metaverse": "Weekly Restock\nStreet Accessories Available",
+        "extra": "N/A",
+        "undefined": "Go Talk to the Street Orator\nin Station Square"
+    },
+    {
+        "date": "2016-05-31T07:00:00.000Z",
+        "period": "After School",
+        "weather": "Cloudy\n\nPollen \nWarning",
+        "socialStatsOpportunities": "Class Question +1 Knowledge\n\n",
+        "confidantsAvailable": "Takemi - Death\nAnn - Lovers",
+        "metaverse": "Last day for spring seasonal \nitems",
+        "extra": "Palace & Mementos\nAvailable\n\n5 Days until Deadline",
+        "undefined": "Advance Lovers to Rank 6"
+    },
+    {
+        "period": "Evening",
+        "weather": "Cloudy\n\nPollen\nWarning",
+        "socialStatsOpportunities": "Crossword +1 Knowledge\n",
+        "confidantsAvailable": "Iwai - Hanged Man\nYoshida - Sun\nMishima - Moon\nKawakami - Temp",
+        "storesSales": "Operation \nMaidwatch, \nRyuji +3",
+        "metaverse": "Street Accessories Available",
+        "extra": "N/A",
+        "recommendedActions": "Following the Recommended Actions? If yes, \nyour social stats should look like this today.\nKnowledge Rank 2  / Guts Rank 3\nProficiency Rank 3  / Kindness Rank 2\nCharm Rank 2",
+        "undefined": "Finish the Crossword\n\nCheck in on Yoshida in Station Square"
+    }
+]

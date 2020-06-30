@@ -94,9 +94,10 @@
                     "Improved Study +3 Knowledge",
                     "Improved Tool Crafting"
                 ],
-                "confidants": [
-                    "Takemi - Death"
-                ],
+                "confidants": [{
+                    "confidant": "Takemi - Death",
+                    "link": "taeTakemi"
+                }],
                 "sales": [
                     "Rainy Day Items Available"
                 ],
@@ -114,9 +115,10 @@
                     "Improved Study +3 Knowledge",
                     "Improved Tool Crafting"
                 ],
-                "confidants": [
-                    "Sojiro - Hierophant"
-                ],
+                "confidants": [{
+                    "confidant": "Sojiro - Hierophant",
+                    "link": "sojiroSakura"
+                }],
                 "sales":null,
                 "metaverse": null,
                 "extraNotes": null
