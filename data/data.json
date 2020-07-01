@@ -136,9 +136,10 @@
                     "Shibuya Diner now available",
                     "Improved Study +3 Knowledge"
                 ],
-                "confidants": [
-                    "Takemi - Death"
-                ],
+                "confidants": [{
+                    "confidant": "Takemi - Death",
+                    "link": "taeTakemi"
+                }],
                 "sales": [
                     "Rainy Day Items Available"
                 ],
@@ -155,9 +156,10 @@
                 "socialStat": [
                     "Bathhouse now Available +2 Charm"
                 ],
-                "confidants": [
-                    "Sojiro - Hierophant"
-                ],
+                "confidants": [{
+                    "confidant": "Sojiro Sakura - Hierophant",
+                    "link": "sojiroSakura"
+                }],
                 "sales": null,
                 "metaverse": null,
                 "extraNotes": "Spare Sandwich in the Fridge. Sojiro will now let you roam Yongen-Jaya at night."
@@ -174,10 +176,13 @@
                 "socialStat": [
                     
                 ],
-                "confidants": [
-                    "Takemi - Death",
-                    "Ryuji - Chariot"
-                ],
+                "confidants": [{
+                    "confidant": "Tae Takemi - Death",
+                    "link": "taeTakemi"
+                },{
+                    "confidant": "Ryuji Sakamoto - Chariot",
+                    "link": "ryujiSakamoto"
+                }],
                 "sales": [
                     "Yakisoba Pan at School Store"
                 ],
@@ -194,8 +199,10 @@
                 "socialStat": [
                     
                 ],
-                "confidants": [
-                    "Sojiro - Hierophant"
+                "confidants": [{
+                    "confidant": "Sojiro Sakura - Hierophant",
+                    "link": "sojiroSakura"
+                }
                 ],
                 "sales": null,
                 "metaverse": null,
@@ -213,10 +220,13 @@
                 "socialStat": [
                     "Class Question +1 Knowledge"
                 ],
-                "confidants": [
-                    "Takemi - Death",
-                    "Ryuji - Chariot"
-                ],
+                "confidants": [{
+                    "confidant": "Tae Takemi - Death",
+                    "link": "taeTakemi"
+                },{
+                    "confidant": "Ryuji Sakamoto - Chariot",
+                    "link": "ryujiSakamoto"
+                }],
                 "sales": [
                     "Supermarket sale in Yongen"
                 ],
@@ -233,9 +243,10 @@
                 "socialStat": [
                     
                 ],
-                "confidants": [
-                    "Sojiro - Hierophant"
-                ],
+                "confidants": [{
+                    "confidant": "Sojiro Sakura - Hierophant",
+                    "link": "sojiroSakura"
+                }],
                 "sales": null,
                 "metaverse": null,
                 "extraNotes": null
@@ -253,10 +264,13 @@
                 "socialStat": [
                     "Aojiru Juice for Sale +1 Charm (Don't miss these every Sunday)"
                 ],
-                "confidants": [
-                    "Takemi - Death",
-                    "Ryuji - Chariot"
-                ],
+                "confidants": [{
+                    "confidant": "Tae Takemi - Death",
+                    "link": "taeTakemi"
+                },{
+                    "confidant": "Ryuji Sakamoto - Chariot",
+                    "link": "ryujiSakamoto"
+                }],
                 "sales": [
                     "Supermarket sale in Yongen", 
                     "TV Shopping Sale: Spring Awake Set, Share of Spring Set"
@@ -274,9 +288,10 @@
                 "socialStat": [
                     
                 ],
-                "confidants": [
-                    "Sojiro - Hieorphant"
-                ],
+                "confidants": [{
+                    "confidant": "Sojiro Sakura - Hierophant",
+                    "link": "sojiroSakura"
+                }],
                 "sales": [
                     "TV Shopping Sale: Spring Awake Set, Share of Spring Set"
                 ],
@@ -296,10 +311,13 @@
                     "Can Read a Book on the Train",
                     "Class Question +1 Charm & +1 (+2) with Ann"
                 ],
-                "confidants": [
-                    "Takemi - Death",
-                    "Ryuji - Chariot"
-                ],
+                "confidants": [{
+                    "confidant": "Tae Takemi - Death",
+                    "link": "taeTakemi"
+                },{
+                    "confidant": "Ryuji Sakamoto - Chariot",
+                    "link": "ryujiSakamoto"
+                }],
                 "sales": [
                     "Weekly Restock"
                 ],
@@ -316,9 +334,10 @@
                 "socialStat": [
                     
                 ],
-                "confidants": [
-                    "Sojiro - Hierophant"
-                ],
+                "confidants": [{
+                    "confidant": "Sojiro Sakura - Hierophant",
+                    "link": "sojiroSakura"
+                }],
                 "sales": [
                     "TV Shopping Delivery"
                 ],
@@ -337,10 +356,13 @@
                 "socialStat": [
                     null
                 ],
-                "confidants": [
-                    "Takemi - Death",
-                    "Ryuji - Chariot"
-                ],
+                "confidants": [{
+                    "confidant": "Tae Takemi - Death",
+                    "link": "taeTakemi"
+                },{
+                    "confidant": "Ryuji Sakamoto - Chariot",
+                    "link": "ryujiSakamoto"
+                }],
                 "sales": [
                     null
                 ],
@@ -357,9 +379,10 @@
                 "socialStat": [
                     null
                 ],
-                "confidants": [
-                    "Sojiro - Hierophant"
-                ],
+                "confidants": [{
+                    "confidant": "Sojiro Sakura - Hierophant",
+                    "link": "sojiroSakura"
+                }],
                 "sales": [
                     null
                 ],
@@ -378,10 +401,13 @@
                 "socialStat": [
                     "Class Question +1 Knowledge"
                 ],
-                "confidants": [
-                    "Takemi - Death",
-                    "Ryuji - Chariot"
-                ],
+                "confidants": [{
+                    "confidant": "Tae Takemi - Death",
+                    "link": "taeTakemi"
+                },{
+                    "confidant": "Ryuji Sakamoto - Chariot",
+                    "link": "ryujiSakamoto"
+                }],
                 "sales": [
                     "Triple Seven Double Points Day"
                 ],
@@ -398,9 +424,10 @@
                 "socialStat": [
                     "Crossword +1 Knowledge"
                 ],
-                "confidants": [
-                    "Sojiro - Hierophant"
-                ],
+                "confidants": [{
+                    "confidant": "Sojiro Sakura - Hierophant",
+                    "link": "sojiroSakura"
+                }],
                 "sales": [
                     null
                 ],
@@ -421,10 +448,13 @@
                 "socialStat": [
                     null
                 ],
-                "confidants": [
-                    "Takemi - Death",
-                    "Ryuji - Chariot"
-                ],
+                "confidants": [{
+                    "confidant": "Tae Takemi - Death",
+                    "link": "taeTakemi"
+                },{
+                    "confidant": "Ryuji Sakamoto - Chariot",
+                    "link": "ryujiSakamoto"
+                }],
                 "sales": [
                     null
                 ],
@@ -441,9 +471,10 @@
                 "socialStat": [
                     null
                 ],
-                "confidants": [
-                    "Sojiro - Hierophant"
-                ],
+                "confidants": [{
+                    "confidant": "Sojiro Sakura - Hierophant",
+                    "link": "sojiroSakura"
+                }],
                 "sales": [
                     null
                 ],
@@ -462,10 +493,13 @@
                 "socialStat": [
                     "You start at home today"
                 ],
-                "confidants": [
-                    "Takemi - Death",
-                    "Ryuji - Chariot"
-                ],
+                "confidants": [{
+                    "confidant": "Tae Takemi - Death",
+                    "link": "taeTakemi"
+                },{
+                    "confidant": "Ryuji Sakamoto - Chariot",
+                    "link": "ryujiSakamoto"
+                }],
                 "sales": [
                     null
                 ],
@@ -482,9 +516,10 @@
                 "socialStat": [
                     null
                 ],
-                "confidants": [
-                    "Sojiro - Hierophant"
-                ],
+                "confidants": [{
+                    "confidant": "Sojiro Sakura - Hierophant",
+                    "link": "sojiroSakura"
+                }],
                 "sales": [
                     null
                 ],
@@ -506,10 +541,13 @@
                     "Shibuya Movie Theater",
                     "Tanktop Millionaire: +3 Guts"
                 ],
-                "confidants": [
-                    "Takemi - Death",
-                    "Ryuji - Chariot"
-                ],
+                "confidants": [{
+                    "confidant": "Tae Takemi - Death",
+                    "link": "taeTakemi"
+                },{
+                    "confidant": "Ryuji Sakamoto - Chariot",
+                    "link": "ryujiSakamoto"
+                }],
                 "sales": [
                     "Supermarket sale in Yongen"
                 ],
@@ -526,9 +564,10 @@
                 "socialStat": [
                     null
                 ],
-                "confidants": [
-                    "Sojiro - Hierophant"
-                ],
+                "confidants": [{
+                    "confidant": "Sojiro Sakura - Hierophant",
+                    "link": "sojiroSakura"
+                }],
                 "sales": [
                     null
                 ],
@@ -539,33 +578,40 @@
                 "class": "Wonder, Child, A Prodigy"
             }]
         },
-        "mmmdd": {
-            "weekDay": null,
-            "date": " ",
+        "may01": {
+            "weekDay": "Sunday",
+            "date": "May 1st",
             "day": [{
-                "desc": " ",
-                "weather": null,
+                "desc": "Daytime",
+                "weather": "Clear",
                 "socialStat": [
-                    null
+                    "Aojiru +1 Proficiency",
+                    "Shibuya Theater - The Cake Knight",
+                    "Rises +3 Kindness"
                 ],
-                "confidants": [
-                    null
-                ],
+                "confidants": [{
+                    "confidant": "Tae Takemi - Death",
+                    "link": "taeTakemi"
+                },{
+                    "confidant": "Ryuji Sakamoto - Chariot",
+                    "link": "ryujiSakamoto"
+                }],
                 "sales": [
-                    null
+                    "Supermarket sale in Yongen",
+                    "TV Sale:\nMilitary Ration Set\nMuscle Workout Set"
                 ],
                 "metaverse": {
-                    "palaceAvailable": null,
-                    "deadlineCountdown": null,
-                    "notes": null
+                    "palaceAvailable": true,
+                    "deadlineCountdown": 0,
+                    "notes": "Steal the Treasure"
                 },
-                "extraNotes": null
+                "extraNotes": "Midterm on 5/11 Knowledge Rank 2 to pass,\nRank 3 for Top Ten in Class."
             }],
             "night": [{
-                "desc": null,
-                "weather": null,
+                "desc": "Evening",
+                "weather": "Clear",
                 "socialStat": [
-                    null
+                    "Medicinal Bath +3 Charm"
                 ],
                 "confidants": [
                     null
@@ -575,6 +621,100 @@
                 ],
                 "metaverse": null,
                 "extraNotes": null
+            }],
+            "spoilers": [{
+            }]
+        },
+        "may02": {
+            "weekDay": "Monday",
+            "date": "May 2nd",
+            "day": [{
+                "desc": "After School",
+                "weather": "Clear",
+                "socialStat": [],
+                "confidants": [],
+                "sales": [],
+                "metaverse": {
+                    "palaceAvailable": true,
+                    "deadlineCountdown": 0,
+                    "notes": null
+                },
+                "extraNotes": "Cutscene"
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Clear",
+                "socialStat": [
+                    "Crossword +1 Knowledge",
+                    "Call in at Ore No Beko +3 Proficiency"
+                ],
+                "confidants": [],
+                "sales": [
+                    "Weekly Restock"
+                ],
+                "metaverse": {
+                    "palaceAvailable": true,
+                    "deadlineCountdown": 0,
+                    "notes": "null"
+                },
+                "extraNotes": "null"
+            }],
+            "spoilers": [{
+                "crossword": "Golden"
+            }]
+        },
+        "mmmdd": {
+            "weekDay": "null",
+            "date": " ",
+            "day": [{
+                "desc": " ",
+                "weather": "null",
+                "socialStat": [
+                    "null",
+                    "null"
+                ],
+                "confidants": [{
+                    "confidant": "",
+                    "link": ""
+                },{
+                    "confidant": "",
+                    "link": ""
+                }],
+                "sales": [
+                    "null",
+                    "null"
+                ],
+                "metaverse": {
+                    "palaceAvailable": true,
+                    "deadlineCountdown": 0,
+                    "notes": "null"
+                },
+                "extraNotes": "null"
+            }],
+            "night": [{
+                "desc": "null",
+                "weather": "null",
+                "socialStat": [
+                    "null",
+                    "null"
+                ],
+                "confidants": [{
+                    "confidant": "",
+                    "link": ""
+                },{
+                    "confidant": "",
+                    "link": ""
+                }],
+                "sales": [
+                    "null",
+                    "null"
+                ],
+                "metaverse": {
+                    "palaceAvailable": true,
+                    "deadlineCountdown": 0,
+                    "notes": "null"
+                },
+                "extraNotes": "null"
             }],
             "spoilers": [{
             }]

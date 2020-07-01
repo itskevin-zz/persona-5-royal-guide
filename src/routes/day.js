@@ -12,20 +12,15 @@ fs.readFile(dataPath, (error, calendarData) => {
     data = JSON.parse(calendarData)
 })
 
-let dates = { }
-fs.readFile(datesPath, (error, datesArray) => {
-    if (error) throw error
-    dates = JSON.parse(datesArray)
-})
-
 routes.get('/day/:date', (req, res) => {
     const urlDate = req.params.date
-    //dates.js
-    const indexCurrentDate = dates.datesArray.findIndex(date => date === urlDate)
-    const nextDate = dates.datesArray[indexCurrentDate + 1]
-    const prevDate = dates.datesArray[indexCurrentDate - 1]
+    const dateNav = Object.keys(data.calendar)
 
-    if (!dates.datesArray.find(date => date === urlDate)) {
+    const indexCurrentDate = dateNav.findIndex(date => date === urlDate)
+    const nextDate = dateNav[indexCurrentDate + 1]
+    const prevDate = dateNav[indexCurrentDate - 1]
+
+    if (!dateNav.find(date => date === urlDate)) {
         res.status(404).render('404', {
             errorMessage: 'Page not found'
         })
@@ -51,9 +46,10 @@ routes.get('/day/:date', (req, res) => {
             nightExtras: data.calendar[urlDate].night[0].extraNotes,
             spoilers: data.calendar[urlDate].spoilers,
             nextDate,
-            prevDate
+            prevDate,
+            // confidantName: data.confidants[data.calendar[urlDate].day[0].confidants].name
         })
-        console.log(data.calendar[urlDate].day[0].confidants)
+        console.log(dateNav)
     }
 })
 

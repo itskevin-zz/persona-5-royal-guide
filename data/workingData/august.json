@@ -1,0 +1,579 @@
+[
+    {
+        "date": "2017-08-01T07:00:00.000Z",
+        "period": "Daytimel",
+        "weather": "Torrential\nRain",
+        "socialStatsOpportunities": "Read w/ Yusuke +3 Charm",
+        "confidantsAvailable": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers\nYusuke - Emperor\nMakoto - Priestess",
+        "metaverse": "Weekly Restock\n\nNew Items available in stores\nNew DVDs available to rent",
+        "extra": "Palace & Mementos\nAvailable\n\n20 Days until Deadline",
+        "recommendedActions": "Advanced Batting Machines Available\n(Might have been added at an eariler date)",
+        "undefined": "Try the Batting Cages in Yongen"
+    },
+    {
+        "period": "Evening",
+        "weather": "Clear",
+        "socialStatsOpportunities": "Leftover Curry Ingredients +1 Guts",
+        "confidantsAvailable": "Sojiro - Hierophant\nMishima - Moon\nChihaya - Fortune\nOhya - Devil\nHifumi - Star",
+        "storesSales": "Hang w/ Yusuke",
+        "metaverse": "Street Accessories Available",
+        "extra": "N/A",
+        "undefined": "Buy some books in Shibuya and Shinjuku\n\nBuy the Holy Stone for 100,000 yen"
+    },
+    {
+        "date": "2017-08-02T07:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Clear\n\nHeat\nWave",
+        "confidantsAvailable": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers\nMakoto - Priestess",
+        "extra": "Palace & Mementos\nAvailable\nNew Request \n\n19 Days until Deadline",
+        "undefined": "Summon a Chariot Arcana Persona\n\nAdvance Chariot to Rank 8"
+    },
+    {
+        "period": "Evening",
+        "weather": "Clear",
+        "socialStatsOpportunities": "Call in at Ore No Beko +3 Proficiency",
+        "confidantsAvailable": "Sojiro - Hierophant\nYoshida - Sun\nMishima - Moon\nAkechi - Justice\nChihaya - Fortune",
+        "storesSales": "Ohya - Devil\nHifumi - Star",
+        "metaverse": "Street Accessories Available",
+        "extra": "N/A",
+        "undefined": "Confront Chihaya about the \"Holy Salt\""
+    },
+    {
+        "date": "2017-08-03T07:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Torrential\nRain",
+        "socialStatsOpportunities": "Watch a DVD with Ryuji +3 Charm",
+        "confidantsAvailable": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers\nYusuke - Emperor\nMakoto - Priestess",
+        "extra": "Palace & Mementos\nAvailable\nNew Request\n\n18 Days until Deadline",
+        "undefined": "Work at the Flower Shop"
+    },
+    {
+        "period": "Evening",
+        "weather": "Torrential\nRain",
+        "socialStatsOpportunities": "Crossword +1 Knowledge",
+        "confidantsAvailable": "Iwai - Hanged Man\nKawakami - Temp\nOhya - Devil\nHifumi - Star",
+        "storesSales": "Hang w/ Ryuji",
+        "extra": "N/A",
+        "undefined": "Finish the Crossword\nSummon a Hanged Man Arcana Persona\n\nAdvance Hanged Man to Rank 3"
+    },
+    {
+        "date": "2017-08-04T07:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Clear\n\nHeat\nWave",
+        "socialStatsOpportunities": "Read w/ Yusuke +3 Charm\nTV Quiz +1 Knowledge\r\n",
+        "confidantsAvailable": "Takemi - Death\nKasumi - Faith\nYusuke - Emperor\nMakoto - Priestess",
+        "storesSales": "Hang w/ Yusuke",
+        "extra": "Palace & Mementos\nAvailable\nNew Request\n\n17 Days until Deadline",
+        "undefined": "Work at the Flower Shop"
+    },
+    {
+        "period": "Evening",
+        "weather": "Clear \n\nHot\nNight",
+        "socialStatsOpportunities": "TV Quiz +1 Knowledge",
+        "confidantsAvailable": "Sojiro - Hierophant\nIwai - Hanged Man\nKawakami - Temp\nChihaya - Fortune\nOhya - Devil",
+        "storesSales": "Hifumi - Star",
+        "metaverse": "Street Accessories Available",
+        "extra": "N/A",
+        "recommendedActions": "Leftovers in the Fridge",
+        "undefined": "Take the TV Quiz\n\nLook for work at Crossroads Bar"
+    },
+    {
+        "date": "2017-08-05T07:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Cloudy",
+        "confidantsAvailable": "Takemi - Death\nRyuji - Chariot\nMakoto - Priestess",
+        "extra": "Palace & Mementos\nAvailable\n\n16 Days until Deadline",
+        "undefined": "Advance Chariot to Rank 9"
+    },
+    {
+        "period": "Evening",
+        "weather": "Clear",
+        "socialStatsOpportunities": "Leftover Curry Ingredients +1 Guts\nMovie w/ Yusuke + 3 Charm",
+        "confidantsAvailable": "Iwai - Hanged Man\nMishima - Moon\nKawakami - Temp\nChihaya - Fortune\nOhya - Devil",
+        "storesSales": "Hifumi - Star",
+        "metaverse": "Street Accessories Available",
+        "extra": "N/A",
+        "undefined": "Work at Crossroads"
+    },
+    {
+        "date": "2017-08-06T07:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Clear\n\nHeat \nWave",
+        "socialStatsOpportunities": "Call in at Rafflesia +Kindness",
+        "confidantsAvailable": "Ryuji - Chariot\nAnn - Lovers\nYusuke - Emperor",
+        "extra": "Palace & Mementos\nAvailable\n\n15 Days until Deadline",
+        "undefined": "Max the Chariot Arcana Confidant"
+    },
+    {
+        "period": "Evening",
+        "weather": "Clear \n\nHot\nNight",
+        "confidantsAvailable": "Iwai - Hanged Man\nMishima - Moon\nKawakami - Temp\nAkechi - Justice\nChihaya - Fortune",
+        "storesSales": "Hifumi - Star",
+        "extra": "N/A",
+        "undefined": "Advance Hanged to Rank 4"
+    },
+    {
+        "date": "2017-08-07T07:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Clear\n\nHeat\nWave",
+        "socialStatsOpportunities": "Aojiru +1 Proficiency\nDouble Points at 777 +Charm",
+        "confidantsAvailable": "Takemi - Death\nAnn - Lovers\nKasumi - Faith\nYusuke - Emperor\nMakoto- Priestess",
+        "metaverse": "TV Shopping\nPhantom Thief Set -8.980yen?\nHeroic Set - 7,980yen?\nPotent Healing items for sale\nat the Church in Kanda",
+        "extra": "Palace & Mementos\nAvailable\n\n14 Days until Deadline",
+        "recommendedActions": "Trader Sakai wants Exorcism Water until 8/13",
+        "undefined": "Buy some Aojiru\n\nWork at Triple Seven"
+    },
+    {
+        "period": "Evening",
+        "weather": "Clear \n\nHot\nNight",
+        "socialStatsOpportunities": "Aojiru +1 Proficiency\nMedicated Bath +3 Charm\nLeftover Curry Ingredients +1 Guts",
+        "confidantsAvailable": "Iwai - Hanged Man\nYoshida - Sun\nMishima - Moon\nChihaya - Fortune\nOhya - Devil",
+        "metaverse": "TV Shopping\nPhantom Thief Set -8.980yen?\nHeroic Set - 7,980yen?\n\nChunky Katsu in Kichijoji",
+        "extra": "N/A",
+        "undefined": "Make a deal with Trader Sakai\n\nAdvance Sun to Rank 8"
+    },
+    {
+        "date": "2017-08-08T07:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Cloudy",
+        "socialStatsOpportunities": "DVD with Yusuke +3 Charm",
+        "confidantsAvailable": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers\nMakoto - Priestess",
+        "metaverse": "Weekly Restock",
+        "extra": "Palace & Mementos\nAvailable\n\n13 Days until Deadline",
+        "undefined": "Max the Lovers Arcana Confidant"
+    },
+    {
+        "period": "Evening",
+        "weather": "Torrential\nRain",
+        "socialStatsOpportunities": "Crossword +1 Knowledge\nLeftover Curry Ingredients +1 Guts",
+        "confidantsAvailable": "Sojiro - Hierophant\nIwai - Hanged Man\nMishima - Moon\nOhya - Devil\nHifumi - Star",
+        "storesSales": "Takemi - Death\n\nHang w/ Yusuke",
+        "metaverse": "TV Delivery",
+        "extra": "N/A",
+        "undefined": "Crossword Time\n\nTake the Big Bang Challenge"
+    },
+    {
+        "date": "2017-08-09T07:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Clear\n\nHeat\nWave",
+        "confidantsAvailable": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers\nYusuke - Emperor\nMakoto - Priestess",
+        "extra": "Palace & Mementos\nAvailable\n\n12 Days until Deadline",
+        "undefined": "Feed your plant MEGA Fertilizer\n\nHead into Mementos\n(Optional) Lock up Arsene during an Alarm"
+    },
+    {
+        "period": "Evening",
+        "weather": "Clear \n\nHot\nNight",
+        "confidantsAvailable": "Sojiro - Hierophant\nIwai - Hanged Man\nMishima - Moon\nAkechi - Justice\nChihaya - Fortune",
+        "storesSales": "Ohya - Devil\nHifumi - Star",
+        "metaverse": "Street Accessories Available",
+        "extra": "N/A",
+        "undefined": "Call Kawakami for a massage\nBuy some Mega Fertilizer\n\nCheck in on the Fortune Teller"
+    },
+    {
+        "date": "2017-08-10T07:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Clear ",
+        "confidantsAvailable": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers\nKasumi - Faith",
+        "extra": "Palace & Mementos\nAvailable\n \n11 Days until Deadline",
+        "undefined": "Summon a Death Arcana Persona\n\nAdvance Death to Rank 8"
+    },
+    {
+        "period": "Evening",
+        "weather": "Torrential\nRain",
+        "socialStatsOpportunities": "Leftover Curry Ingredients +1 Guts",
+        "confidantsAvailable": "Iwai - Hanged Man\nMishima - Moon\nKawakami - Temp\nOhya - Devil\nHifumi - Star",
+        "storesSales": "Takemi - Death",
+        "extra": "N/A",
+        "undefined": "Advance Star to Rank 3"
+    },
+    {
+        "date": "2017-08-11T07:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Torrential\nRain",
+        "socialStatsOpportunities": "DVD with Yusuke +3 Charm",
+        "confidantsAvailable": "Takemi - Death\nMakoto - Priestess\nYusuke - Emperor",
+        "extra": "Palace & Mementos\nAvailable\n\n10 Days until Deadline",
+        "undefined": "Head to Pengin Sniper and Play Darts\nwith Morgana"
+    },
+    {
+        "period": "Evening",
+        "weather": "Clear",
+        "confidantsAvailable": "Sojiro - Hierophant\nYoshida - Sun\nMishima - Moon\nChihaya - Fortune\nOhya - Devil",
+        "metaverse": "Street Accessories Available",
+        "extra": "N/A",
+        "undefined": "Advance Sun to Rank 9"
+    },
+    {
+        "date": "2017-08-12T07:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Clear\n\nHeat\nWave",
+        "confidantsAvailable": "Takemi - Death\nAnn - Lovers\nYusuke - Emperor",
+        "extra": "Palace & Mementos\nAvailable\n\n9 Days until Deadline",
+        "undefined": "Summon an Emperor Arcana Persona\n\nAdvance Emperor to Rank 4"
+    },
+    {
+        "period": "Evening",
+        "weather": "Clear \n\nHot\nNight",
+        "socialStatsOpportunities": "Leftover Curry Ingredients +1 Guts",
+        "confidantsAvailable": "Iwai - Hanged Man\nMishima - Moon\nKawakami - Temp\nChihaya - Fortune\nOhya - Devil",
+        "storesSales": "Chariot Rank 7 \nEvent Available",
+        "metaverse": "Street Accessories Available",
+        "extra": "N/A",
+        "undefined": "Advance Moon to Rank 7"
+    },
+    {
+        "date": "2017-08-13T07:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Cloudy",
+        "socialStatsOpportunities": "Games With Ryuji +3 Guts",
+        "confidantsAvailable": "Takemi - Death\nYusuke - Emperor\nMakoto - Priestess",
+        "extra": "Palace & Mementos\nAvailable\n\n8 Days until Deadline",
+        "recommendedActions": "Trader Sakai wants Exorcism Water until 8/13",
+        "undefined": "Head to the Underground Mall and buy \nthe Darts set for 100,000 yen\n\nAdvance Death to Rank 9"
+    },
+    {
+        "period": "Evening",
+        "weather": "Clear",
+        "confidantsAvailable": "Iwai - Hanged Man\nMishima - Moon\nKawakami - Temp\nAkechi - Justice\nChihaya - Fortune",
+        "storesSales": "Hifumi - Star\nTakemi - Death\n\nHang w/ Ryuji",
+        "extra": "N/A",
+        "undefined": "Take Iwai to Inokashira Park"
+    },
+    {
+        "date": "2017-08-14T07:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Cloudy",
+        "socialStatsOpportunities": "Aojiru +1 Guts",
+        "confidantsAvailable": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers\nKasumi - Faith",
+        "metaverse": "TV Shopping:\nDrink Set - 2,980 yen\nFloral Gift Set - 2,980 yen\nPotent Healing items for sale\nat the Church in Kanda",
+        "extra": "Palace & Mementos\nAvailable\n\n7 Days until Deadline",
+        "undefined": "Buy some Aojiru\n\nHead to Pengin Sniper and Play Darts\nwith Someone"
+    },
+    {
+        "period": "Evening",
+        "weather": "Cloudy",
+        "socialStatsOpportunities": "Aojiru +1 Guts\nMedicated Bath +3 Charm",
+        "confidantsAvailable": "Iwai - Hanged Man\nYoshida - Sun\nMishima - Moon\nChihaya - Fortune\nOhya - Devil",
+        "storesSales": "Hifumi - Star\nTakemi - Death",
+        "metaverse": "TV Shopping:\nDrink Set - 2,980 yen\nFloral Gift Set - 2,980 yen\n\nChunky Katsu in Kichijoji",
+        "extra": "N/A",
+        "undefined": "Max the Sun Arcana Confidant"
+    },
+    {
+        "date": "2017-08-15T07:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Clear\n\nHeat\nWave",
+        "confidantsAvailable": "Takemi - Death\nAnn - Lovers\nYusuke - Emperor\nMakoto - Priestess",
+        "storesSales": "Hang w/ Makoto",
+        "metaverse": "Weekly restock",
+        "extra": "Palace & Mementos\nAvailable\n\n6 Days until Deadline",
+        "undefined": "Accept Makotos invite to Book Town"
+    },
+    {
+        "period": "Evening",
+        "weather": "Clear \n\nHot\nNight",
+        "socialStatsOpportunities": "Leftover Curry Ingredients +1 Guts",
+        "confidantsAvailable": "Sojiro - Hierophant\nYoshida - Sun\nMishima - Moon\nChihaya - Fortune\r\nOhya - Devil",
+        "storesSales": "Takemi - Death",
+        "metaverse": "TV Delivery\nStreet Accessories Available",
+        "extra": "N/A",
+        "undefined": "Buy Master Swordsman in Jinbocho\nBuy Learn Pro Darts in Shinjuku\n\nAdvance Moon to Rank 8"
+    },
+    {
+        "date": "2017-08-16T07:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Torrential\nRain",
+        "confidantsAvailable": "Takemi - Death\nRyuji - Chariot\nYusuke - Emperor\nMakoto - Priestess",
+        "extra": "Palace & Mementos\nAvailable\n\n5 Days until Deadline",
+        "undefined": "Summon a Priestess Arcana Persona\n\nAdvance Priestess to Rank 6"
+    },
+    {
+        "period": "Evening",
+        "weather": "Clear \n\nHot\nNight",
+        "confidantsAvailable": "Sojiro - Hierophant\nIwai - Hanged Man\nMishima - Moon\nChihaya - Fortune\nOhya - Devil",
+        "storesSales": "Hifumi - Star\nTakemi - Death",
+        "extra": "N/A",
+        "recommendedActions": "Leftovers in the Fridge",
+        "undefined": "Advance Fortune to Rank 2"
+    },
+    {
+        "date": "2017-08-17T07:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Clear\n\nHeat\nWave",
+        "confidantsAvailable": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers\nYusuke - Emperor\n",
+        "extra": "Palace & Mementos\nAvailable\n\n4 Days until Deadline",
+        "undefined": "Hang out with Takemi at the Park"
+    },
+    {
+        "period": "Evening",
+        "weather": "Torrential\nRain",
+        "socialStatsOpportunities": "Crossword +1 Knowledge",
+        "confidantsAvailable": "Iwai - Hanged Man\nMishima - Moon\nKawakami - Temp\nAkechi -Justice\nOhya - Devil",
+        "storesSales": "Hifumi - Star\nTakemi - Death\n\nChariot Rank 7 \nEvent Available",
+        "extra": "N/A",
+        "undefined": "Crossword Time\n\nTake the Twins to the Movies"
+    },
+    {
+        "date": "2017-08-18T07:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Torrential\nRain",
+        "confidantsAvailable": "Takemi - Death\nMakoto - Priestess",
+        "extra": "Palace & Mementos\nAvailable\n\n3 Days until Deadline\nTreasure Room Deadline",
+        "undefined": "Advance Priestess to Rank 7"
+    },
+    {
+        "period": "Evening",
+        "weather": "Clear",
+        "confidantsAvailable": "Sojiro - Hierophant\nIwai - Hanged Man\nYoshida - Sun\nMishima - Moon\nChihaya - Fortune",
+        "storesSales": "Ohya - Devil\nHifumi - Star\nTakemi - Death",
+        "metaverse": "Street Accessories Available",
+        "extra": "N/A",
+        "undefined": "Advance Moon to Rank 9"
+    },
+    {
+        "date": "2017-08-19T07:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Cloudy",
+        "confidantsAvailable": "Takemi - Death\nAnn - Lovers\nKasumi - Faith\nYusuke - Emperor",
+        "extra": "Palace & Mementos\nAvailable\n\n2 Days until Deadline\nCalling Card Deadline",
+        "undefined": "Advance Emperor to Rank 5"
+    },
+    {
+        "period": "Evening",
+        "weather": "Rain",
+        "socialStatsOpportunities": "Leftover Curry Ingredients +1 Guts",
+        "confidantsAvailable": "Iwai - Hanged Man\nMishima - Moon\nKawakami - Temp\nOhya - Devil",
+        "extra": "N/A",
+        "undefined": "Summon a Devil Arcana Persona\n\nAdvance Devil to Rank 3"
+    },
+    {
+        "date": "2017-08-20T07:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Clear",
+        "confidantsAvailable": "Takemi - Death\nRyuji - Chariot\nMakoto - Priestess",
+        "extra": "Palace & Mementos\nAvailable\n\n1 Day until Deadline\nPlan Execution Deadline",
+        "undefined": "Max the Death Arcana Confidant"
+    },
+    {
+        "period": "Evening",
+        "weather": "Clear",
+        "confidantsAvailable": "Iwai - Hanged Man\nYoshida - Sun\nMishima - Moon\nKawakami - Temp\nAkechi - Justice",
+        "storesSales": "Chihaya - Fortune\nHifumi - Star",
+        "extra": "N/A",
+        "recommendedActions": "Ms. Chouno is in Kichijoji tonight",
+        "undefined": "Summon a Justice Arcana Persona\n\nAdvance Justice to Rank 4"
+    },
+    {
+        "date": "2017-08-21T07:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Clear",
+        "socialStatsOpportunities": "CUTSCENE",
+        "confidantsAvailable": "CUTSCENE",
+        "metaverse": "CUTSCENE",
+        "extra": "CUTSCENE",
+        "recommendedActions": "CUTSCENE",
+        "undefined": "CUTSCENE"
+    },
+    {
+        "period": "Evening",
+        "weather": "Clear",
+        "socialStatsOpportunities": "Leftover Curry Ingredients +1 Guts",
+        "undefined": "Finish The Running Dead"
+    },
+    {
+        "date": "2017-08-22T07:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Clear\n\nHeat\nWave",
+        "socialStatsOpportunities": "CUTSCENE",
+        "confidantsAvailable": "CUTSCENE",
+        "metaverse": "CUTSCENE",
+        "extra": "CUTSCENE",
+        "recommendedActions": "CUTSCENE",
+        "undefined": "CUTSCENE"
+    },
+    {
+        "period": "Evening",
+        "weather": "Clear \n\nHot \nNight",
+        "socialStatsOpportunities": "Leftover Curry Ingredients +1 Guts",
+        "confidantsAvailable": "Sojiro - Hierophant\nChihaya - Fortune\nOhya - Devil\nHifumi - Star",
+        "metaverse": "Weekly Restock\n\nStreet Accessories Available",
+        "extra": "N/A",
+        "recommendedActions": "Trader Sakai wants Melon Pan until 8/27\nCheck your Lotto Ticket from July\nSojiro is no longer locked at Rank 4",
+        "undefined": "Exchange The Running Dead for ICU\nSummon Hierophant & Hanged Personas\n\nAdvance Hierophant to Rank 5"
+    },
+    {
+        "date": "2017-08-23T07:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Clear\n\nHeat\nWave",
+        "socialStatsOpportunities": "CUTSCENE",
+        "confidantsAvailable": "CUTSCENE",
+        "metaverse": "CUTSCENE",
+        "extra": "CUTSCENE",
+        "recommendedActions": "CUTSCENE",
+        "undefined": "CUTSCENE"
+    },
+    {
+        "period": "Evening",
+        "weather": "Clear \n\nHot\nNight",
+        "confidantsAvailable": "Sojiro - Hierophant\nIwai - Hanged Man\nChihaya - Fortune\nOhya - Devil\nTakemi - Death",
+        "metaverse": "Street Accessories Available",
+        "extra": "N/A",
+        "undefined": "Advance Hanged Man to Rank 5"
+    },
+    {
+        "date": "2017-08-24T07:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Clear\n\nHeat\nWave",
+        "socialStatsOpportunities": "CUTSCENE",
+        "confidantsAvailable": "CUTSCENE",
+        "metaverse": "CUTSCENE",
+        "extra": "CUTSCENE",
+        "recommendedActions": "CUTSCENE",
+        "undefined": "CUTSCENE"
+    },
+    {
+        "period": "Evening",
+        "weather": "Clear \n\nHot\nNight",
+        "confidantsAvailable": "Iwai - Hanged Man\nKawakami - Temp\nAkechi - Justice\nChihaya - Fortune\nHifumi - Star",
+        "storesSales": "Takemi - Death",
+        "metaverse": "Street Accessories Available",
+        "extra": "N/A",
+        "undefined": "Advance Justice to Rank 5"
+    },
+    {
+        "date": "2017-08-25T07:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Clear\n\nHeat\nWave",
+        "socialStatsOpportunities": "CUTSCENE",
+        "confidantsAvailable": "CUTSCENE",
+        "metaverse": "CUTSCENE",
+        "extra": "CUTSCENE",
+        "recommendedActions": "CUTSCENE",
+        "undefined": "CUTSCENE"
+    },
+    {
+        "period": "Evening",
+        "weather": "Clear \n\nHot\nNight",
+        "socialStatsOpportunities": "Crossword +1 Knowledge\n",
+        "confidantsAvailable": "Sojiro - Hierophant\nIwai - Hanged Man\nYoshida - Sun\nChihaya - Fortune\nOhya - Devil",
+        "metaverse": "Street Accessories Available",
+        "extra": "N/A",
+        "recommendedActions": "Singer at the Jazz Club Tonight?",
+        "undefined": "Feed your Plant some Mega Fertilizer then\ngo out and buy some more Fertilizer\nCrossword Time\n\nAdvance Fortune to Rank 3"
+    },
+    {
+        "date": "2017-08-26T07:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Clear\n\nHeat\nWave",
+        "socialStatsOpportunities": "CUTSCENE",
+        "confidantsAvailable": "CUTSCENE",
+        "metaverse": "CUTSCENE",
+        "extra": "CUTSCENE",
+        "recommendedActions": "CUTSCENE",
+        "undefined": "CUTSCENE"
+    },
+    {
+        "period": "Evening",
+        "weather": "Torrential\nRain",
+        "confidantsAvailable": "Iwai - Hanged Man\nKawakami - Temp\nOhya - Devil\nTakemi - Death",
+        "extra": "N/A",
+        "undefined": "Take the Twins to the Gym"
+    },
+    {
+        "date": "2017-08-27T07:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Clear\n\nHeat\nWave",
+        "socialStatsOpportunities": "CUTSCENE",
+        "confidantsAvailable": "CUTSCENE",
+        "metaverse": "CUTSCENE",
+        "extra": "CUTSCENE",
+        "recommendedActions": "CUTSCENE",
+        "undefined": "CUTSCENE"
+    },
+    {
+        "period": "Evening",
+        "weather": "Torrential\nRain",
+        "confidantsAvailable": "Iwai - Hanged Man\nKawakami - Temp\nHifumi - Star",
+        "extra": "N/A",
+        "recommendedActions": "Trader Sakai wants Melon Pan until 8/27",
+        "undefined": "Make a deal with Trader Sakai\n\nHelp Iwai around the shop"
+    },
+    {
+        "date": "2017-08-28T07:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Clear\n\nHeat\nWave",
+        "socialStatsOpportunities": "CUTSCENE",
+        "confidantsAvailable": "CUTSCENE",
+        "metaverse": "CUTSCENE",
+        "extra": "CUTSCENE",
+        "recommendedActions": "CUTSCENE",
+        "undefined": "CUTSCENE"
+    },
+    {
+        "period": "Evening",
+        "weather": "Clear",
+        "socialStatsOpportunities": "Aojiru +1 Kindness\nMedicated Bath +3 Charm",
+        "confidantsAvailable": "Iwai - Hanged Man\nYoshida - Sun\nChihaya - Fortune",
+        "metaverse": "Potent Healing items for sale\r\nat the Church in Kanda",
+        "extra": "N/A",
+        "undefined": "Buy Aojiru\n\nAdvance Hanged To Rank 6"
+    },
+    {
+        "date": "2017-08-29T07:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Clear",
+        "socialStatsOpportunities": "CUTSCENE",
+        "confidantsAvailable": "CUTSCENE",
+        "metaverse": "CUTSCENE",
+        "extra": "CUTSCENE",
+        "recommendedActions": "CUTSCENE",
+        "undefined": "CUTSCENE"
+    },
+    {
+        "period": "Evening",
+        "weather": "Clear",
+        "socialStatsOpportunities": "Leftover Curry Ingredients +1 Guts",
+        "confidantsAvailable": "Sojiro - Hierophant\nIwai - Hanged Man\nOhya - Devil\nChihaya - Fortune\nHifumi - Star",
+        "metaverse": "Weekly Restock\n",
+        "extra": "New Request",
+        "undefined": "Advance Hierophant to Rank 6"
+    },
+    {
+        "date": "2017-08-30T07:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Clear\n\nHeat\nWave",
+        "socialStatsOpportunities": "CUTSCENE",
+        "confidantsAvailable": "CUTSCENE",
+        "metaverse": "CUTSCENE",
+        "extra": "CUTSCENE",
+        "recommendedActions": "CUTSCENE",
+        "undefined": "CUTSCENE"
+    },
+    {
+        "period": "Evening",
+        "weather": "Clear \n\nHot\nNight",
+        "socialStatsOpportunities": "Crossword +1 Knowledge",
+        "confidantsAvailable": "Sojiro - Hierophant\nIwai - Hanged Man\nYoshida - Sun\nMishima - Moon\nAkechi - Justice",
+        "storesSales": "Chihaya - Fortune\nOhya - Devil",
+        "extra": "N/A",
+        "undefined": "Crossword Time\n\nMax the Moon Arcana Confidant"
+    },
+    {
+        "date": "2017-08-31T07:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Clear ",
+        "socialStatsOpportunities": "CUTSCENE",
+        "confidantsAvailable": "CUTSCENE",
+        "metaverse": "CUTSCENE",
+        "extra": "CUTSCENE",
+        "recommendedActions": "CUTSCENE",
+        "undefined": "CUTSCENE"
+    },
+    {
+        "period": "Evening",
+        "weather": "Clear",
+        "socialStatsOpportunities": "Leftover Curry Ingredients +1 Guts",
+        "recommendedActions": "Following the Recommended Actions? If so, \nyour social stats should look like this today.\nKnowledge Rank 4  / Guts Rank 4\nProficiency Rank 4  / Kindness Rank 4\nCharm Rank MAX",
+        "undefined": "Watch ICU"
+    }
+]

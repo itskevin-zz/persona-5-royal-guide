@@ -1,0 +1,648 @@
+[
+    {
+        "date": "2017-01-01T08:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Clear",
+        "socialStatsOpportunities": "Restricted",
+        "confidantsAvailable": "Restricted",
+        "metaverse": "Restricted",
+        "extra": "Restricted",
+        "recommendedActions": "Restricted",
+        "undefined": "Restricted"
+    },
+    {
+        "period": "Evening",
+        "weather": "Cloudy",
+        "socialStatsOpportunities": "SLEEP",
+        "confidantsAvailable": "SLEEP",
+        "metaverse": "SLEEP",
+        "extra": "N/A",
+        "recommendedActions": "SLEEP",
+        "undefined": "SLEEP"
+    },
+    {
+        "date": "2017-01-02T08:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Cloudy",
+        "socialStatsOpportunities": "Restricted",
+        "confidantsAvailable": "Restricted",
+        "metaverse": "Restricted",
+        "extra": "Restricted",
+        "recommendedActions": "Restricted",
+        "undefined": "Restricted"
+    },
+    {
+        "period": "Evening",
+        "weather": "Cloudy",
+        "socialStatsOpportunities": "SLEEP",
+        "confidantsAvailable": "SLEEP",
+        "metaverse": "SLEEP",
+        "extra": "N/A",
+        "recommendedActions": "SLEEP",
+        "undefined": "SLEEP"
+    },
+    {
+        "date": "2017-01-03T08:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Clear",
+        "socialStatsOpportunities": "Restricted",
+        "confidantsAvailable": "Ryuji - Chariot\nAnn - Lovers\nFutaba - Hermit",
+        "metaverse": "Restricted",
+        "extra": "Restricted",
+        "recommendedActions": "New Years Decorations are out\n",
+        "undefined": "Restricted"
+    },
+    {
+        "period": "Evening",
+        "weather": "N/A",
+        "socialStatsOpportunities": "SLEEP",
+        "confidantsAvailable": "SLEEP",
+        "metaverse": "SLEEP",
+        "extra": "N/A",
+        "recommendedActions": "SLEEP",
+        "undefined": "SLEEP"
+    },
+    {
+        "date": "2017-01-04T08:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Cloudy",
+        "socialStatsOpportunities": "Restricted",
+        "confidantsAvailable": "Makoto - Priestess\nHaru - Empress",
+        "metaverse": "Restricted",
+        "extra": "Restricted",
+        "recommendedActions": "Restricted",
+        "undefined": "Restricted"
+    },
+    {
+        "period": "Evening",
+        "weather": "Clear",
+        "socialStatsOpportunities": "SLEEP",
+        "confidantsAvailable": "SLEEP",
+        "metaverse": "SLEEP",
+        "extra": "N/A",
+        "recommendedActions": "SLEEP",
+        "undefined": "SLEEP"
+    },
+    {
+        "date": "2017-01-05T08:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Clear",
+        "socialStatsOpportunities": "Restricted",
+        "confidantsAvailable": "Ryuji - Chariot\nAnn - Lovers\nFutaba - Hermit",
+        "metaverse": "Restricted",
+        "extra": "Restricted",
+        "recommendedActions": "Restricted",
+        "undefined": "Restricted"
+    },
+    {
+        "period": "Evening",
+        "weather": "Cloudy",
+        "socialStatsOpportunities": "SLEEP",
+        "confidantsAvailable": "SLEEP",
+        "metaverse": "SLEEP",
+        "extra": "N/A",
+        "recommendedActions": "SLEEP",
+        "undefined": "SLEEP"
+    },
+    {
+        "date": "2017-01-06T08:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Cloudy",
+        "socialStatsOpportunities": "Restricted",
+        "confidantsAvailable": "Yusuke - Emperor\nMakoto - Priestess\nHaru - Empress",
+        "metaverse": "Restricted",
+        "extra": "Restricted",
+        "recommendedActions": "Restricted",
+        "undefined": "Restricted"
+    },
+    {
+        "period": "Evening",
+        "weather": "Clear",
+        "socialStatsOpportunities": "SLEEP",
+        "confidantsAvailable": "SLEEP",
+        "metaverse": "SLEEP",
+        "extra": "N/A",
+        "recommendedActions": "SLEEP",
+        "undefined": "SLEEP"
+    },
+    {
+        "date": "2017-01-07T08:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Clear",
+        "socialStatsOpportunities": "Restricted",
+        "confidantsAvailable": "Ryuji - Chariot\nAnn - Lovers\nMakoto - Priestess\nFutaba - Hermit",
+        "metaverse": "Restricted",
+        "extra": "Restricted",
+        "recommendedActions": "Restricted",
+        "undefined": "Restricted"
+    },
+    {
+        "period": "Evening",
+        "weather": "Cloudy",
+        "socialStatsOpportunities": "SLEEP",
+        "confidantsAvailable": "SLEEP",
+        "metaverse": "SLEEP",
+        "extra": "N/A",
+        "recommendedActions": "SLEEP",
+        "undefined": "SLEEP"
+    },
+    {
+        "date": "2017-01-08T08:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Cloudy",
+        "socialStatsOpportunities": "Restricted",
+        "confidantsAvailable": "Ryuji - Chariot\nAnn - Lovers\nYusuke - Emperor\nMakoto - Priestess\nFutaba - Hermit",
+        "storesSales": "Haru - Empress",
+        "metaverse": "Restricted",
+        "extra": "Restricted",
+        "recommendedActions": "Restricted",
+        "undefined": "Restricted"
+    },
+    {
+        "period": "Evening",
+        "weather": "Snow",
+        "socialStatsOpportunities": "SLEEP",
+        "confidantsAvailable": "SLEEP",
+        "metaverse": "SLEEP",
+        "extra": "N/A",
+        "recommendedActions": "SLEEP",
+        "undefined": "SLEEP"
+    },
+    {
+        "date": "2017-01-09T08:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Cloudy",
+        "socialStatsOpportunities": "Restricted",
+        "confidantsAvailable": "Restricted",
+        "metaverse": "Restricted",
+        "extra": "Restricted",
+        "recommendedActions": "Restricted",
+        "undefined": "Restricted"
+    },
+    {
+        "period": "Evening",
+        "weather": "Cloudy",
+        "socialStatsOpportunities": "SLEEP",
+        "confidantsAvailable": "SLEEP",
+        "metaverse": "SLEEP",
+        "extra": "N/A",
+        "recommendedActions": "SLEEP",
+        "undefined": "SLEEP"
+    },
+    {
+        "date": "2017-01-10T08:00:00.000Z",
+        "period": "After School",
+        "weather": "Clear",
+        "socialStatsOpportunities": "Restricted",
+        "confidantsAvailable": "Restricted",
+        "metaverse": "Restricted",
+        "extra": "Restricted",
+        "recommendedActions": "New Semester",
+        "undefined": "Restricted"
+    },
+    {
+        "period": "Evening",
+        "weather": "Cloudy",
+        "socialStatsOpportunities": "SLEEP",
+        "confidantsAvailable": "SLEEP",
+        "metaverse": "SLEEP",
+        "extra": "N/A",
+        "recommendedActions": "SLEEP",
+        "undefined": "SLEEP"
+    },
+    {
+        "date": "2017-01-11T08:00:00.000Z",
+        "period": "After School",
+        "weather": "Cloudy",
+        "socialStatsOpportunities": "Class Question - +1 Charm  \r\n+1 (+2) Ann",
+        "confidantsAvailable": "Cutscene",
+        "metaverse": "Cutscene",
+        "extra": "Cutscene",
+        "recommendedActions": "Cutscene",
+        "undefined": "Cutscene"
+    },
+    {
+        "period": "Evening",
+        "weather": "Snow",
+        "socialStatsOpportunities": "SLEEP",
+        "confidantsAvailable": "SLEEP",
+        "metaverse": "SLEEP",
+        "extra": "N/A",
+        "recommendedActions": "SLEEP",
+        "undefined": "SLEEP"
+    },
+    {
+        "date": "2017-01-12T08:00:00.000Z",
+        "period": "After School",
+        "weather": "Cloudy",
+        "socialStatsOpportunities": "Restricted",
+        "confidantsAvailable": "Restricted",
+        "metaverse": "Restricted",
+        "extra": "Restricted",
+        "recommendedActions": "Restricted",
+        "undefined": "Restricted"
+    },
+    {
+        "period": "Evening",
+        "weather": "Cloudy",
+        "socialStatsOpportunities": "SLEEP",
+        "confidantsAvailable": "SLEEP",
+        "metaverse": "SLEEP",
+        "extra": "N/A",
+        "recommendedActions": "SLEEP",
+        "undefined": "SLEEP"
+    },
+    {
+        "date": "2017-01-13T08:00:00.000Z",
+        "period": "After School",
+        "weather": "Clear",
+        "confidantsAvailable": "Takemi - Death\nAnn - Lovers\nYusuke - Emperor\nSumire - Faith",
+        "metaverse": "New Stock at Untouchable\nYakisoba Pan at School Store",
+        "extra": "Mementos Available\n\n21 Days until Deadline",
+        "recommendedActions": "Faith Arcana Confidant Ranks 6 to 10 now\nUnlocked\nTrader Sakai wants Special Chimaki until 1/14\nBuchimaru-kun doll at Akihabara Arcade ",
+        "undefined": "Make a deal with Trader Sakai\nSummon a Faith Arcana Persona\n\nAdvance Faith to Rank 6"
+    },
+    {
+        "period": "Evening",
+        "weather": "Cloudy",
+        "socialStatsOpportunities": "Leftover Curry Ingredients +1 Guts",
+        "confidantsAvailable": "Mishima - Moon\nKawakami - Temp\nOhya - Devil",
+        "extra": "New Request",
+        "recommendedActions": "With So much free time you could Save here\nand work on getting some more Awards.",
+        "undefined": "Play Darts with Sumire"
+    },
+    {
+        "date": "2017-01-14T08:00:00.000Z",
+        "period": "After School",
+        "weather": "Clear",
+        "socialStatsOpportunities": "Class Question +1 Knowledge\nCall in at Rafflesia + Kindness",
+        "confidantsAvailable": "Takemi - Death\nRyuji - Chariot\nMakoto - Priestess\nShinya - Tower \nSumire - Faith",
+        "extra": "New Palace Available\nMementos Available\n\n20 Days until Deadline",
+        "undefined": "Check in on Ryuji"
+    },
+    {
+        "period": "Evening",
+        "weather": "Cloudy",
+        "socialStatsOpportunities": "Crossword +1 Knowledge",
+        "confidantsAvailable": "Iwai - Hanged Man\nKawakami - Temp\nHifumi - Star",
+        "extra": "New Request",
+        "recommendedActions": "Persona Dancing Reference on TV",
+        "undefined": "Play Darts with Haru"
+    },
+    {
+        "date": "2017-01-15T08:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Cloudy",
+        "socialStatsOpportunities": "Aojiru +1 Proficiency",
+        "confidantsAvailable": "Takemi - Death\nFutaba - Hermit\nShinya - Tower \nHaru - Empress",
+        "metaverse": "TV Shopping:\nLucky Worker Bag -44,800yen\nLucky Muscle Bag -39,800yen\nPotent Healing items for sale\nat the Church in Kanda",
+        "extra": "Palace & Mementos\nAvailable\n\n19 Days until Deadline",
+        "undefined": "See what's bothering Futaba"
+    },
+    {
+        "period": "Evening",
+        "weather": "Cloudy",
+        "socialStatsOpportunities": "Aojiru +1 Proficiency\nMedicated Bath +3 Charm\nCall in at Crossroads +Kindness\nLeftover Curry Ingredients +1 Guts",
+        "confidantsAvailable": "Iwai - Hanged Man\nMishima - Moon\nKawakami - Temp\nChihaya - Fortune",
+        "metaverse": "TV Shopping:\nLucky Worker Bag -44,800yen\nLucky Muscle Bag -39,800yen\n\nChunky Katsu in Kichijoji",
+        "extra": "N/A",
+        "undefined": "Play Darts with Akechi"
+    },
+    {
+        "date": "2017-01-16T08:00:00.000Z",
+        "period": "After School",
+        "weather": "Clear",
+        "confidantsAvailable": "Takemi - Death\nAnn - Lovers\nYusuke - Emperor\nShinya - Tower \nSumire - Faith",
+        "metaverse": "Weekly Restock",
+        "extra": "Palace & Mementos\nAvailable\n\n18 Days until Deadline",
+        "undefined": "Advance Faith to Rank 7"
+    },
+    {
+        "period": "Evening",
+        "weather": "Snow",
+        "socialStatsOpportunities": "Leftover Curry Ingredients +1 Guts",
+        "confidantsAvailable": "Sojiro - Hierophant\nMishima - Moon\nOhya - Devil\nHifumi - Star",
+        "extra": "N/A",
+        "recommendedActions": "Akechi is hanging out in fornt of Penguin Sniper ",
+        "undefined": "Play Darts with Akechi"
+    },
+    {
+        "date": "2017-01-17T08:00:00.000Z",
+        "period": "After School",
+        "weather": "Rain",
+        "socialStatsOpportunities": "Double Points day at 777 +Charm",
+        "confidantsAvailable": "Takemi - Death\nRyuji - Chariot\nMakoto - Priestess",
+        "extra": "Palace & Mementos\nAvailable\n\n17 Days until Deadline",
+        "undefined": "Go meet with Makoto"
+    },
+    {
+        "period": "Evening",
+        "weather": "Rain",
+        "confidantsAvailable": "Sojiro - Hierophant\nIwai - Hanged Man\nOhya - Devil\nTakemi - Death",
+        "extra": "N/A",
+        "undefined": "Go hang out with Lavenza"
+    },
+    {
+        "date": "2017-01-18T08:00:00.000Z",
+        "period": "After School",
+        "weather": "Cloudy",
+        "socialStatsOpportunities": "Class Question +1 Knowledge",
+        "confidantsAvailable": "Takemi - Death\nFutaba - Hermit\nHaru - Empress\nSumire - Faith",
+        "extra": "Palace & Mementos\nAvailable\n\n16 Days until Deadline",
+        "undefined": "See what Haru wanted"
+    },
+    {
+        "period": "Evening",
+        "weather": "Clear",
+        "socialStatsOpportunities": "Leftover Curry Ingredients +1 Guts",
+        "confidantsAvailable": "Mishima - Moon\nKawakami - Temp\nHifumi - Star\nTakemi - Death",
+        "extra": "N/A",
+        "recommendedActions": "Singer at the Jazz Club Tonight",
+        "undefined": "Work out at Protein Lovers"
+    },
+    {
+        "date": "2017-01-19T08:00:00.000Z",
+        "period": "After School",
+        "weather": "Cloudy",
+        "socialStatsOpportunities": "Can Read a book on the Train",
+        "confidantsAvailable": "Takemi - Death\nMakoto - Priestess\nFutaba - Hermit\nShinya - Tower \nSumire - Faith",
+        "extra": "Palace & Mementos\nAvailable\n\n15 Days until Deadline",
+        "undefined": "Read Anything\n\nAdvance Faith to Rank 8"
+    },
+    {
+        "period": "Evening",
+        "weather": "Cloudy",
+        "socialStatsOpportunities": "Crossword +1 Knowledge\nCall in at Ore no Beko +3 Proficiency\n",
+        "confidantsAvailable": "Sojiro - Hierophant\nOhya - Devil",
+        "extra": "N/A",
+        "undefined": "Work out at Protein Lovers"
+    },
+    {
+        "date": "2017-01-20T08:00:00.000Z",
+        "period": "After School",
+        "weather": "Rain",
+        "socialStatsOpportunities": "Can Slack off in Class \n  (Temperance Rank 5)",
+        "confidantsAvailable": "Takemi - Death",
+        "extra": "Palace & Mementos\nAvailable\n\n14 Days until Deadline",
+        "undefined": "Read or Make some Tools, Prep for a \nMementos Dive, Go to Chihaya for a \nMoney Reading\n\nInvestigate Mementos"
+    },
+    {
+        "period": "Evening",
+        "weather": "Snow",
+        "socialStatsOpportunities": "Leftover Curry Ingredients +1 Guts",
+        "confidantsAvailable": "Mishima - Moon\nKawakami - Temp\nOhya - Devil\nChihaya - Fortune\nTakemi - Death",
+        "extra": "N/A",
+        "undefined": "Get a massage\n\nWork out at Protein Lovers"
+    },
+    {
+        "date": "2017-01-21T08:00:00.000Z",
+        "period": "After School",
+        "weather": "Cloudy",
+        "socialStatsOpportunities": "Class Question +1 Knowledge",
+        "confidantsAvailable": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers\nMakoto - Priestess\nFutaba - Hermit",
+        "storesSales": "Haru - Empress\nShinya - Tower \nSumire - Faith",
+        "extra": "Palace & Mementos\nAvailable\n\n13 Days until Deadline",
+        "undefined": "Go see how Ann is doing"
+    },
+    {
+        "period": "Evening",
+        "weather": "Cloudy",
+        "confidantsAvailable": "Iwai - Hanged Man\nMishima - Moon\nKawakami - Temp\nHifumi - Star\nTakemi - Death",
+        "extra": "N/A",
+        "undefined": "Work out at Protein Lovers"
+    },
+    {
+        "date": "2017-01-22T08:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Clear",
+        "socialStatsOpportunities": "Aojiru +1 Guts",
+        "confidantsAvailable": "Takemi - Death\nAnn - Lovers\nYusuke - Emperor\nMakoto - Priestess\nFutaba - Hermit",
+        "storesSales": "Sumire - Faith",
+        "metaverse": "TV Shopping:\nTalisman Set - 12,800 yen\nSweet Delight Set - 29,800yen\nPotent Healing items for sale\nat the Church in Kanda",
+        "extra": "Palace & Mementos\nAvailable\n\n12 Days until Deadline",
+        "recommendedActions": "Trader Sakai wants a Supernova Burger until \n1/28",
+        "undefined": "Make a deal with Trader Sakai\n\nCheck in on Yusuke"
+    },
+    {
+        "period": "Evening",
+        "weather": "Cloudy",
+        "socialStatsOpportunities": "Aojiru +1 Guts",
+        "confidantsAvailable": "Iwai - Hanged Man\nMishima - Moon\nChihaya - Fortune",
+        "metaverse": "TV Shopping:\nTalisman Set - 12,800 yen\nSweet Delight Set - 29,800yen\n\nChunky Katsu in Kichijoji",
+        "extra": "N/A",
+        "undefined": "Work out at Protein Lovers"
+    },
+    {
+        "date": "2017-01-23T08:00:00.000Z",
+        "period": "After School",
+        "weather": "Cloudy",
+        "confidantsAvailable": "Takemi - Death\nHaru - Empress\nShinya - Tower \nSumire - Faith",
+        "metaverse": "Weekly Restock",
+        "extra": "Palace & Mementos\nAvailable\n\n11 Days until Deadline",
+        "recommendedActions": "Jagao doll at Akihabara Arcade ",
+        "undefined": "Summon a Faith Arcana Persona\n\nAdvance Faith to Rank 9"
+    },
+    {
+        "period": "Evening",
+        "weather": "Cloudy",
+        "socialStatsOpportunities": "Crossword +1 Knowledge\nLeftover Curry Ingredients +1 Guts",
+        "confidantsAvailable": "Sojiro - Hierophant\nMishima - Moon\nKawakami - Temp\nOhya - Devil\nHifumi - Star",
+        "extra": "N/A",
+        "undefined": "Work out at Protein Lovers"
+    },
+    {
+        "date": "2017-01-24T08:00:00.000Z",
+        "period": "After School",
+        "weather": "Clear",
+        "socialStatsOpportunities": "Class Question +1 Knowledge",
+        "confidantsAvailable": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers\nYusuke - Emperor\nMakoto - Priestess",
+        "storesSales": "Haru - Empress",
+        "extra": "Palace & Mementos\nAvailable\n\n10 Days until Deadline",
+        "undefined": "Check out the Temple in Kichijoji"
+    },
+    {
+        "period": "Evening",
+        "weather": "Clear",
+        "confidantsAvailable": "Sojiro - Hierophant\nIwai - Hanged Man\nMishima - Moon\nChihaya - Fortune\nOhya - Devil",
+        "extra": "N/A",
+        "undefined": "Work out at Protein Lovers"
+    },
+    {
+        "date": "2017-01-25T08:00:00.000Z",
+        "period": "After School",
+        "weather": "Clear",
+        "socialStatsOpportunities": "Can Slack off in Class \r\n  (Temperance Rank 5)",
+        "confidantsAvailable": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers\nYusuke - Emperor\nFutaba - Hermit",
+        "storesSales": "Sumire - Faith",
+        "extra": "Palace & Mementos\nAvailable\n\n9 Days until Deadline",
+        "undefined": "Read or make some Tools\n\nMax the Faith Arcana Confidant"
+    },
+    {
+        "period": "Evening",
+        "weather": "Cloudy",
+        "socialStatsOpportunities": "Leftover Curry Ingredients +1 Guts",
+        "confidantsAvailable": "Sojiro - Hierophant\nKawakami - Temp\nHifumi - Star",
+        "extra": "N/A",
+        "undefined": "Work out at Protein Lovers"
+    },
+    {
+        "date": "2017-01-26T08:00:00.000Z",
+        "period": "After School",
+        "weather": "Snow\n\nCold\nWave",
+        "socialStatsOpportunities": "Can Read a book on the Train",
+        "confidantsAvailable": "Takemi - Death\nMakoto - Priestess\nShinya - Tower ",
+        "extra": "Palace & Mementos\nAvailable\n\n8 Days until Deadline",
+        "undefined": "Read Anything\nPrep for a Palace Infiltration\n\nInfiltrate the Palace"
+    },
+    {
+        "period": "Evening",
+        "weather": "Snow\n\nCold\nWave",
+        "confidantsAvailable": "Sojiro - Hierophant\nOhya - Devil\nTakemi - Death",
+        "extra": "N/A",
+        "recommendedActions": "Singer at the Jazz Club Tonight",
+        "undefined": "Massage time\n\nTake someone to the Jazz Club"
+    },
+    {
+        "date": "2017-01-27T08:00:00.000Z",
+        "period": "After School",
+        "weather": "Snow\r\n\r\nCold\r\nWave",
+        "socialStatsOpportunities": "Class Question +1 Knowledge",
+        "confidantsAvailable": "Takemi - Death\nHaru - Empress\nShinya - Tower ",
+        "extra": "Palace & Mementos\nAvailable\nNew Request?\n\n7 Days until Deadline",
+        "undefined": "Prep for a Mementos dive\n\nDive into Mementos"
+    },
+    {
+        "period": "Evening",
+        "weather": "Cloudy",
+        "socialStatsOpportunities": "Crossword +1 Knowledge",
+        "confidantsAvailable": "Mishima - Moon\nKawakami - Temp\nChihaya - Fortune\nOhya - Devil\nTakemi - Death",
+        "extra": "N/A",
+        "undefined": "Massage time\n\nWork out at Protein Lovers"
+    },
+    {
+        "date": "2017-01-28T08:00:00.000Z",
+        "period": "After School",
+        "weather": "Clear",
+        "confidantsAvailable": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers\nMakoto - Priestess\nFutaba - Hermit",
+        "storesSales": "Haru - Empress\nShinya - Tower \nSumire - Faith",
+        "extra": "Palace & Mementos\nAvailable\nNew Request\n\n6 Days until Deadline",
+        "recommendedActions": "Trader Sakai wants a Supernova Burger until \r\n1/28",
+        "undefined": "Prep for a Mementos dive\n\nDive into Mementos"
+    },
+    {
+        "period": "Evening",
+        "weather": "Cloudy",
+        "confidantsAvailable": "Iwai - Hanged Man\nKawakami - Temp\nChihaya - Fortune\nHifumi - Star",
+        "extra": "N/A",
+        "undefined": "Massage time\n\nWork out at Home"
+    },
+    {
+        "date": "2017-01-29T08:00:00.000Z",
+        "period": "Daytime",
+        "weather": "Snow",
+        "socialStatsOpportunities": "Aojiru +1 Kindness",
+        "confidantsAvailable": "Takemi - Death\nAnn - Lovers\nMakoto - Priestess\nYusuke - Emperor\nSumire - Faith",
+        "metaverse": "TV Shopping:\nEnergetic Set - 49,800 yen\nDelicious Revival Set- 69,800\nPotent Healing items for sale\nat the Church in Kanda",
+        "extra": "Palace & Mementos\nAvailable\n\n5 Days until Deadline",
+        "undefined": "Work out at Home"
+    },
+    {
+        "period": "Evening",
+        "weather": "Snow",
+        "socialStatsOpportunities": "Aojiru +1 Kindness\nMedicated Bath +3 Charm\n",
+        "confidantsAvailable": "Iwai - Hanged Man\nMishima - Moon\nKawakami - Temp\nChihaya - Fortune",
+        "metaverse": "TV Shopping:\nEnergetic Set - 49,800 yen\nDelicious Revival Set- 69,800\n\nChunky Katsu in Kichijoji",
+        "extra": "N/A",
+        "undefined": "Take someone to the Jazz Club"
+    },
+    {
+        "date": "2017-01-30T08:00:00.000Z",
+        "period": "After School",
+        "weather": "Snow",
+        "confidantsAvailable": "Takemi - Death\nShinya - Tower \nSumire - Faith",
+        "metaverse": "Weekly Restock",
+        "extra": "Palace & Mementos\nAvailable\n\n4 Days until Deadline",
+        "undefined": "Work out at Protein Lovers"
+    },
+    {
+        "period": "Evening",
+        "weather": "Snow",
+        "socialStatsOpportunities": "Leftover Curry Ingredients +1 Guts",
+        "confidantsAvailable": "Sojiro - Hierophant\nKawakami - Temp\nOhya - Devil\nHifumi - Star",
+        "extra": "N/A",
+        "undefined": "Take someone to the Jazz Club"
+    },
+    {
+        "date": "2017-01-31T08:00:00.000Z",
+        "period": "After School",
+        "weather": "Clear",
+        "confidantsAvailable": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers\nYusuke - Emperor\nMakoto - Priestess",
+        "storesSales": "Haru - Empress",
+        "extra": "Palace & Mementos\nAvailable\n\n3 Days until Deadline",
+        "undefined": "Work out at Protein Lovers"
+    },
+    {
+        "period": "Evening",
+        "weather": "Cloudy",
+        "confidantsAvailable": "Sojiro - Hierophant\nIwai - Hanged Man\nChihaya - Fortune\nOhya - Devil\nTakemi - Death",
+        "extra": "N/A",
+        "undefined": "Take someone to the Jazz Club"
+    },
+    {
+        "date": "2017-02-01T08:00:00.000Z",
+        "period": "After School",
+        "weather": "Cloudy",
+        "confidantsAvailable": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers\nYusuke - Emperor\nMakoto - Priestess",
+        "storesSales": "Futaba - Hermit\nShinya - Tower \nHaru - Empress\nSumire - Faith",
+        "extra": "Palace & Mementos\nAvailable\n\n2 Days until Deadline",
+        "undefined": "Work out at Protein Lovers"
+    },
+    {
+        "period": "Evening",
+        "weather": "Snow",
+        "socialStatsOpportunities": "Crossword +1 Knowledge\nLeftover Curry Ingredients +1 Guts",
+        "confidantsAvailable": "Sojiro - Hierophant\nIwai - Hanged Man\nChihaya - Fortune\nOhya - Devil\nHifumi - Star",
+        "extra": "N/A",
+        "undefined": "Take someone to the Jazz Club"
+    },
+    {
+        "date": "2017-02-02T08:00:00.000Z",
+        "period": "After School",
+        "weather": "Snow",
+        "confidantsAvailable": "Takemi - Death\nRyuji - Chariot\nAnn - Lovers\nMakoto - Priestess\nShinya - Tower ",
+        "storesSales": "Sumire - Faith",
+        "extra": "Palace & Mementos\nAvailable\n\nTreasure Room Deadline\n1 Day until Deadline",
+        "undefined": "Accepct the invite from Sumire"
+    },
+    {
+        "period": "Evening",
+        "weather": "Snow",
+        "socialStatsOpportunities": "Restricted",
+        "confidantsAvailable": "Restricted",
+        "metaverse": "Restricted",
+        "extra": "N/A",
+        "recommendedActions": "Restricted",
+        "undefined": "Send the Calling Card"
+    },
+    {
+        "date": "2017-02-03T08:00:00.000Z",
+        "period": "After School",
+        "weather": "Cloudy",
+        "socialStatsOpportunities": "Finale",
+        "confidantsAvailable": "Finale",
+        "metaverse": "Finale",
+        "extra": "Palace & Mementos\nAvailable\n\nPlan Execution\nDeadline",
+        "recommendedActions": "Finale",
+        "undefined": "Steal the treasure"
+    },
+    {
+        "period": "Evening",
+        "weather": "N/A",
+        "socialStatsOpportunities": "Restricted",
+        "confidantsAvailable": "Restricted",
+        "metaverse": "Restricted",
+        "extra": "N/A",
+        "recommendedActions": "Restricted",
+        "undefined": "Fin <3"
+    }
+]
