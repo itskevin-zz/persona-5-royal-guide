@@ -2461,6 +2461,203 @@
             "spoilers": [{
             }]
         },
+        "jun06": {
+            "weekDay": "Monday",
+            "date": "June 6th",
+            "day": [{
+                "desc": "Daytime",
+                "weather": "Rain",
+                "socialStat": [
+                    "Dodge Murderous Chalk +2 Charm"
+                ],
+                "questions": [],
+                "confidants": [{
+                    "confidant": "Tae Takemi - Death",
+                    "link": "taeTakemi"
+                },{
+                    "confidant": "Ryuji Sakamoto - Chariot",
+                    "link": "ryujiSakamoto"
+                },{
+                    "confidant": "Ann Takami - Lovers",
+                    "link": "annTakami"
+                },{
+                    "confidant": "Takuto Maruki - The Councillor",
+                    "link": "takutoMaruki"
+                }],
+                "sales": [
+                    "Weekly Restock",
+                    "Rainy Day Items Available"
+                ],
+                "metaverse": {
+                    "palaceAvailable": null,
+                    "deadlineCountdown": null,
+                    "mementosAvailable": true,
+                    "notes": "New Request Available"
+                },
+                "extraNotes": "Exam on July 13th. Knowledge Level 3 to pass."
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Cloudy",
+                "socialStat": [
+                    "Leftover curry ingredients +1 Guts"
+                ],
+                "questions": [],
+                "confidants": [{
+                    "confidant": "Sojiro Sakura - Hierophant",
+                    "link": "sojiroSakura"
+                },{
+                    "confidant": "Iwai Munehisa - Hanged Man",
+                    "link": "iwaiMunehisa"
+                },{
+                    "confidant": "Toranosuke Yoshida - Sun",
+                    "link": "toranosukeYoshida"
+                },{
+                    "confidant": "Yuuki Mishima - Moon",
+                    "link": "yuukiMishima"
+                }],
+                "sales": [
+                    "Street Accessories Available"
+                ],
+                "metaverse": {
+                    "palaceAvailable": null,
+                    "deadlineCountdown": null,
+                    "mementosAvailable": null,
+                    "notes": null
+                },
+                "extraNotes": "New 'Special Assignments' from the Twins"
+            }],
+            "spoilers": [{
+            }]
+        },
+        "jun07": {
+            "weekDay": "Tuesday",
+            "date": "June 7th",
+            "day": [{
+                "desc": "After School",
+                "weather": "Rain",
+                "socialStat": [
+                    "Double Points at 777 +Charm"
+                ],
+                "questions": [{
+                    "Class Question +1 Knowledge": "The number of legs"
+                }],
+                "confidants": [{
+                    "confidant": "Tae Takemi - Death",
+                    "link": "taeTakemi"
+                },{
+                    "confidant": "Ryuji Sakamoto - Chariot",
+                    "link": "ryujiSakamoto"
+                },{
+                    "confidant": "Takuto Maruki - The Councillor",
+                    "link": "takutoMaruki"
+                }],
+                "sales": [
+                    "Rainy Day Items Available"
+                ],
+                "metaverse": {
+                    "palaceAvailable": null,
+                    "deadlineCountdown": null,
+                    "mementosAvailable": true,
+                    "notes": null
+                },
+                "extraNotes": null
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Cloudy",
+                "socialStat": [
+                ],
+                "questions": [{
+                    "Crossword +1 Knowledge": "Conference"
+                }],
+                "confidants": [{
+                    "confidant": "Toranosuke Yoshida - Sun",
+                    "link": "toranosukeYoshida"
+                },{
+                    "confidant": "Yuuki Mishima - Moon",
+                    "link": "yuukiMishima"
+                }],
+                "sales": [
+                    "Retro Game Set available at Secondhand shop in Yongen"
+                ],
+                "metaverse": {
+                    "palaceAvailable": null,
+                    "deadlineCountdown": null,
+                    "mementosAvailable": null,
+                    "notes": null
+                },
+                "extraNotes": null
+            }],
+            "spoilers": [{
+            }]
+        },
+        "jun08": {
+            "weekDay": "Wednesday",
+            "date": "June 8th",
+            "day": [{
+                "desc": "After School",
+                "weather": "Clear",
+                "socialStat": [
+                 ],
+                "questions": [{
+                    "Class Question +1 Knowledge": "Controlling Public Thought"
+                }],
+                "confidants": [{
+                    "confidant": "Tae Takemi - Death",
+                    "link": "taeTakemi"
+                },{
+                    "confidant": "Takuto Maruki - The Councillor",
+                    "link": "takutoMaruki"
+                },{
+                    "confidant": "Kasumi Yoshizawa - Faith",
+                    "link": "kasumiYoshizawa"
+                }],
+                "sales": [
+                ],
+                "metaverse": {
+                    "palaceAvailable": null,
+                    "deadlineCountdown": null,
+                    "mementosAvailable": true,
+                    "notes": null
+                },
+                "extraNotes": null
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Cloudy",
+                "socialStat": [
+                    "Leftover curry ingredients +1 Guts"
+                ],
+                "questions": [],
+                "confidants": [{
+                    "confidant": "Sojiro Sakura - Hierophant",
+                    "link": "sojiroSakura"
+                },{
+                    "confidant": "Iwai Munehisa - Hanged Man",
+                    "link": "iwaiMunehisa"
+                },{
+                    "confidant": "Toranosuke Yoshida - Sun",
+                    "link": "toranosukeYoshida"
+                },{
+                    "confidant": "Yuuki Mishima - Moon",
+                    "link": "yuukiMishima"
+                }],
+                "sales": [
+                    "null",
+                    "null"
+                ],
+                "metaverse": {
+                    "palaceAvailable": null,
+                    "deadlineCountdown": null,
+                    "mementosAvailable": null,
+                    "notes": null
+                },
+                "extraNotes": null
+            }],
+            "spoilers": [{
+            }]
+        },
         "mmmdd": {
             "weekDay": "null",
             "date": " ",
