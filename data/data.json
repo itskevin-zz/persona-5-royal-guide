@@ -11,6 +11,7 @@
                     "Tanktop Millionaire: +3 Guts",
                     "Studying in Library: lower change of knowledge but raise Guts instead"
                 ],
+                "questions": null,
                 "confidants": [{
                     "confidant": "Takemi - Death",
                     "link": "taeTakemi"
@@ -28,8 +29,9 @@
             "night": [{
                 "desc": "Evening",
                 "weather": "Cloudy",
-                "socialStat": [
-                    "Crossword at Leblanc: +1 Knowledge"
+                "socialStat": null,
+                "questions" : [
+                    { "Crossword at Leblanc +1 Knowledge" : "semesters" }
                 ],
                 "confidants": [
                 ],
@@ -37,9 +39,7 @@
                 "metaverse": null,
                 "extraNotes":"Might as well clean your room tonight so you can have full access to your room. Feeding the plant nutrients is a stat increase that takes up no time. Plus you'll find a CRT TV that pairs nicely with the DVD at the pawn shop now."
             }],
-            "spoilers": [{
-                "crossword": "semesters"
-            }]
+            "spoilers": []
         },
         "apr19": {
             "weekDay": "Tuesday",
@@ -47,8 +47,9 @@
             "day": [{
                 "desc": "After School",
                 "weather": "Clear",
-                "socialStat": [
-                    "Class Question +1 Knowledge"
+                "socialStat": [],
+                "questions" : [
+                    { "Class Question +1 Knowledge": "They're the same" }
                 ],
                 "confidants": [{
                     "confidant": "Takemi - Death",
@@ -79,9 +80,7 @@
                 "metaverse": null,
                 "extraNotes": null
             }],
-            "spoilers": [{
-                "class": "They're the same"
-            }]
+            "spoilers": []
         },
         "apr20": {
             "weekDay": "Wednesday",
@@ -173,9 +172,7 @@
             "day": [{
                 "desc": "After School",
                 "weather": "Clear",
-                "socialStat": [
-                    
-                ],
+                "socialStat": [],
                 "confidants": [{
                     "confidant": "Tae Takemi - Death",
                     "link": "taeTakemi"
@@ -218,8 +215,11 @@
                 "desc": "After School",
                 "weather": "Clear",
                 "socialStat": [
-                    "Class Question +1 Knowledge"
+                    
                 ],
+                "questions": [{
+                    "Class Question +1 Knowledge": "All of them"
+                }],
                 "confidants": [{
                     "confidant": "Tae Takemi - Death",
                     "link": "taeTakemi"
@@ -251,9 +251,7 @@
                 "metaverse": null,
                 "extraNotes": null
             }],
-            "spoilers": [
-                "All of Them"
-            ]
+            "spoilers": []
         },
         "apr24": {
             "weekDay": "Sunday",
@@ -308,9 +306,11 @@
                 "desc": "After School",
                 "weather": "Cloudy",
                 "socialStat": [
-                    "Can Read a Book on the Train",
-                    "Class Question +1 Charm & +1 (+2) with Ann"
+                    "Can Read a Book on the Train"
                 ],
+                "questions": [{
+                    "Class Question +1 Charm & +1 (+2) with Ann": "You unquestionably support it / You have a duty to correct it"
+                }],
                 "confidants": [{
                     "confidant": "Tae Takemi - Death",
                     "link": "taeTakemi"
@@ -353,9 +353,7 @@
             "day": [{
                 "desc": "After School",
                 "weather": "Clear",
-                "socialStat": [
-                    null
-                ],
+                "socialStat": [],
                 "confidants": [{
                     "confidant": "Tae Takemi - Death",
                     "link": "taeTakemi"
@@ -376,9 +374,7 @@
             "night": [{
                 "desc": "Evening",
                 "weather": "Clear",
-                "socialStat": [
-                    null
-                ],
+                "socialStat": [],
                 "confidants": [{
                     "confidant": "Sojiro Sakura - Hierophant",
                     "link": "sojiroSakura"
@@ -399,8 +395,11 @@
                 "desc": "After School",
                 "weather": "Cloudy",
                 "socialStat": [
-                    "Class Question +1 Knowledge"
+                    
                 ],
+                "questions": [{
+                    "Class Question +1 Knowledge": "Four Colour Theorem"
+                }],
                 "confidants": [{
                     "confidant": "Tae Takemi - Death",
                     "link": "taeTakemi"
@@ -422,8 +421,11 @@
                 "desc": "Evening",
                 "weather": "Cloudy",
                 "socialStat": [
-                    "Crossword +1 Knowledge"
+                    
                 ],
+                "questions": [{
+                    "Crossword +1 Knowledge": "Blossom"
+                }],
                 "confidants": [{
                     "confidant": "Sojiro Sakura - Hierophant",
                     "link": "sojiroSakura"
@@ -434,10 +436,7 @@
                 "metaverse": null,
                 "extraNotes": null
             }],
-            "spoilers": [{
-                "class": "Four Colour Theorem",
-                "crossword": "Blossom"
-            }]
+            "spoilers": []
         },
         "apr28": {
             "weekDay": "Thursday",
@@ -447,7 +446,7 @@
                 "weather": "Cloudy",
                 "socialStat": [
                     null
-                ],
+],
                 "confidants": [{
                     "confidant": "Tae Takemi - Death",
                     "link": "taeTakemi"
@@ -470,7 +469,7 @@
                 "weather": "Cloudy",
                 "socialStat": [
                     null
-                ],
+],
                 "confidants": [{
                     "confidant": "Sojiro Sakura - Hierophant",
                     "link": "sojiroSakura"
@@ -515,7 +514,7 @@
                 "weather": "Clear",
                 "socialStat": [
                     null
-                ],
+],
                 "confidants": [{
                     "confidant": "Sojiro Sakura - Hierophant",
                     "link": "sojiroSakura"
@@ -537,10 +536,12 @@
                 "weather": "Clear",
                 "socialStat": [
                     "Can Read a Book on the Train",
-                    "Class Question +1 Knowledge",
                     "Shibuya Movie Theater",
                     "Tanktop Millionaire: +3 Guts"
                 ],
+                "questions": [{
+                    "Class Question +1 Knowledge": "Wonder Child, A prodigy"
+                }],
                 "confidants": [{
                     "confidant": "Tae Takemi - Death",
                     "link": "taeTakemi"
@@ -563,7 +564,7 @@
                 "weather": "Clear",
                 "socialStat": [
                     null
-                ],
+],
                 "confidants": [{
                     "confidant": "Sojiro Sakura - Hierophant",
                     "link": "sojiroSakura"
@@ -633,6 +634,7 @@
                 "weather": "Clear",
                 "socialStat": [],
                 "confidants": [],
+                "questions": [],
                 "sales": [],
                 "metaverse": {
                     "palaceAvailable": null,
@@ -645,9 +647,11 @@
                 "desc": "Evening",
                 "weather": "Clear",
                 "socialStat": [
-                    "Crossword +1 Knowledge",
                     "Call in at Ore No Beko +3 Proficiency"
                 ],
+                "questions": [{
+                    "Crossword +1 Knowledge": "Golden"
+                }],
                 "confidants": [],
                 "sales": [
                     "Weekly Restock"
@@ -659,9 +663,7 @@
                 },
                 "extraNotes": "null"
             }],
-            "spoilers": [{
-                "crossword": "Golden"
-            }]
+            "spoilers": []
         },
         "may03": {
             "weekDay": "Tuesday",
@@ -835,8 +837,11 @@
                 "desc": "After School",
                 "weather": "Clear",
                 "socialStat": [
-                    "Class Question +1 Knowledge"
+                    
                 ],
+                "questions": [{
+                    "Class Question +1 Knowledge": "Fatal Woman"
+                }],
                 "confidants": [],
                 "sales": [],
                 "metaverse": {
@@ -860,9 +865,7 @@
                 },
                 "extraNotes": null
             }],
-            "spoilers": [{
-                "classQuestion": "Fatal Woman"
-            }]
+            "spoilers": []
         },
         "may08": {
             "weekDay": "Sunday",
@@ -977,9 +980,11 @@
                 "desc": "After School",
                 "weather": "Cloudy - Pollen Warning",
                 "socialStat": [
-                    "Class Question +1 Knowledge",
                     "Shibuya Theatre +3 Kindness"
                 ],
+                "questions": [{
+                    "Class Question +1 Knowledge": "The Heian Period"
+                }],
                 "confidants": [{
                     "confidant": "Tae Takemi - Death",
                     "link": "taeTakemi"
@@ -1003,9 +1008,11 @@
                 "desc": "Evening",
                 "weather": "Cloudy",
                 "socialStat": [
-                    "Crossword +1 Knowledge",
                     "Study with Ryuji +3 Knowledge"
                 ],
+                "questions": [{
+                    "Crossword +1 Knowledge": "Malaise"
+                }],
                 "confidants": [{
                     "confidant": "Iwai Munehisa - Hanged Man",
                     "link": "iwaiMunehisa"
@@ -1028,10 +1035,7 @@
                 },
                 "extraNotes": null
             }],
-            "spoilers": [{
-                "classQuestion": "The Heian Period",
-                "crossword": "Malaise"
-            }]
+            "spoilers": []
         },
         "may11": {
             "weekDay": "Wednesday",
@@ -1040,6 +1044,12 @@
                 "desc": "After School",
                 "weather": "Rain",
                 "socialStat": [],
+                "questions": [{
+                    "midTerms01": "Minamoto no Yoshitsune",
+                    "midTerms02": "Minamoto no Yoritmoto",
+                    "midTerms03": "Yoritmoto Won",
+                    "midTerms04": "The week"
+                }],
                 "confidants": [],
                 "sales": [],
                 "metaverse": {
@@ -1064,12 +1074,7 @@
                 },
                 "extraNotes": "Midterms"
             }],
-            "spoilers": [{
-                "midTerms01": "Minamoto no Yoshitsune",
-                "midTerms02": "Minamoto no Yoritmoto",
-                "midTerms03": "Yoritmoto Won",
-                "midTerms04": "The week"
-            }]
+            "spoilers": []
         },
         "may12": {
             "weekDay": "Thursday",
@@ -1078,6 +1083,10 @@
                 "desc": "After School",
                 "weather": "Cloudy",
                 "socialStat": [],
+                "questions": [{
+                    "midterms01": "Cognition",
+                    "midTerms02": "Both"
+                }],
                 "confidants": [],
                 "sales": [],
                 "metaverse": {
@@ -1102,10 +1111,7 @@
                 },
                 "extraNotes": "Midterms"
             }],
-            "spoilers": [{
-                "midterms01": "Cognition",
-                "midTerms02": "Both"
-            }]
+            "spoilers": []
         },
         "may13": {
             "weekDay": "Friday",
@@ -1114,6 +1120,10 @@
                 "desc": "After School",
                 "weather": "Rain",
                 "socialStat": [],
+                "questions": [{
+                    "midTerms01": "The Devil's Dictionary",
+                    "midTerms02": "Femme Fatale"
+                }],
                 "confidants": [{
                     "confidant": "Takuto Maruki - The Councillor",
                     "link": "takutoMaruki"
@@ -1141,10 +1151,7 @@
                 },
                 "extraNotes": "Midterms"
             }],
-            "spoilers": [{
-                "midTerms01": "The Devil's Dictionary",
-                "midTerms02": "Femme Fatale"
-            }]
+            "spoilers": []
         },
         "may14": {
             "weekDay": "Saturday",
@@ -1222,9 +1229,10 @@
             "day": [{
                 "desc": "After School",
                 "weather": "Clear",
-                "socialStat": [
-                    "Class Question +1 Knowledge"
-                ],
+                "socialStat": [],
+                "questions": [{
+                    "Class Question +1 Knowledge": "The Placebo Effect"
+                }],
                 "confidants": [],
                 "sales": [],
                 "metaverse": {
@@ -1249,9 +1257,7 @@
                 },
                 "extraNotes": "Sleep"
             }],
-            "spoilers": [{
-                "classQuestion": "The Placebo Effect"
-            }]
+            "spoilers": []
         },
         "may17": {
             "weekDay": "Tuesday",
@@ -1271,7 +1277,7 @@
                 "extraNotes": "Restricted"
             }],
             "night": [{
-                "desc": "Evning",
+                "desc": "Evening",
                 "weather": "Clear",
                 "socialStat": [],
                 "confidants": [],
@@ -1318,9 +1324,11 @@
                 "desc": "Evening",
                 "weather": "Cloudy",
                 "socialStat": [
-                    "Crossword +1 Knowledge",
                     "Leftover curry ingredients +1 Guts"
                 ],
+                "questions": [{
+                    "Crossword +1 Knowledge": "Gallery"
+                }],
                 "confidants": [{
                     "confidant": "Iwai Munehisa - Hanged Man",
                     "link": "iwaiMunehisa"
@@ -1343,9 +1351,7 @@
                 },
                 "extraNotes": null
             }],
-            "spoilers": [{
-                "crossword": "Gallery"
-            }]
+            "spoilers": []
         },
         "may19": {
             "weekDay": "Thursday",
@@ -1354,8 +1360,11 @@
                 "desc": "After School",
                 "weather": "Rain",
                 "socialStat": [
-                    "Class Question +1 Knowledge"
+                    
                 ],
+                "questions": [{
+                    "Class Question +1 Knowledge": "Hokusai Katsushika"
+                }],
                 "confidants": [{
                     "confidant": "Tae Takemi - Death",
                     "link": "taeTakemi"
@@ -1378,8 +1387,11 @@
                 "desc": "Evening",
                 "weather": "Rain",
                 "socialStat": [
-                    "TV Quiz +1 Knowledge"
+                    
                 ],
+                "questions": [{
+                    "TV Quiz +1 Knowledge": "Using noise to cause distress"
+                }],
                 "confidants": [{
                     "confidant": "Sojiro Sakura - Hierophant",
                     "link": "sojiroSakura"
@@ -1398,10 +1410,7 @@
                 },
                 "extraNotes": "TV Quiz in LeBlanc and doesn't take time"
             }],
-            "spoilers": [{
-                "classQuestion": "Hokusai Katsushika",
-                "tvQuiz": "Using noise to cause distress"
-            }]
+            "spoilers": []
         },
         "may20": {
             "weekDay": "Friday",
@@ -1471,9 +1480,11 @@
                 "desc": "After School",
                 "weather": "Clear",
                 "socialStat": [
-                    "Can read a book on the train",
-                    "Class Question +1 Knowledge"
+                    "Can read a book on the train"  
                 ],
+                "questions": [{
+                    "Class Question +1 Knowledge": "1:1.414"
+                }],
                 "confidants": [{
                     "confidant": "Tae Takemi - Death",
                     "link": "taeTakemi"
@@ -1520,9 +1531,7 @@
                 },
                 "extraNotes": null
             }],
-            "spoilers": [{
-                "classQuestion": "1:1.414"
-            }]
+            "spoilers": []
         },
         "may22": {
             "weekDay": "Sunday",
@@ -1594,8 +1603,11 @@
                 "desc": "After School",
                 "weather": "Clear - Pollen Warning",
                 "socialStat": [
-                    "Class Question +1 Knowledge"
+                    
                 ],
+                "questions": [{
+                    "Class Question +1 Knowledge": "Together, Senses, Senses coming together"
+                }],
                 "confidants": [{
                     "confidant": "Tae Takemi - Death",
                     "link": "taeTakemi"
@@ -1644,9 +1656,7 @@
                 },
                 "extraNotes": null
             }],
-            "spoilers": [{
-                "classQuestion": "Together, Senses, Senses coming together"
-            }]
+            "spoilers": []
         },
         "may24": {
             "weekDay": "Tuesday",
@@ -1772,8 +1782,10 @@
                 "desc": "After School",
                 "weather": "Clear - Pollen Warning",
                 "socialStat": [
-                    "Class Lecture +1 Knowledge"
-                ],
+                    
+                ],"questions": [{
+                    "Class Lecture +1 Knowledge": "Arthur Conan Doyle"
+                }],
                 "confidants": [{
                     "confidant": "Tae Takemi - Death",
                     "link": "taeTakemi"
@@ -1800,6 +1812,10 @@
                     "TV Quiz +1 Knowledge",
                     "Crossword +1 Knowledge"
                 ],
+                "questions": [{
+                    "TV Quiz +1 Knowledge": "Queen of Evidence",
+                    "Crossword +1 Knowledge": "Pollenosis"
+                }],
                 "confidants": [{
                     "confidant": "Iwai Munehisa - Hanged Man",
                     "link": "iwaiMunehisa"
@@ -1824,11 +1840,7 @@
                 },
                 "extraNotes": "Operation Maidwatch: Ryuji +3"
             }],
-            "spoilers": [{
-                "classQuestion": "Arthur Conan Doyle",
-                "tvQuiz": "Queen of Evidence",
-                "crossword": "Pollenosis"
-            }]
+            "spoilers": []
         },
         "may27": {
             "weekDay": "Friday",
@@ -2077,8 +2089,11 @@
                 "desc": "After School",
                 "weather": "Cloudy - Pollen Warning",
                 "socialStat": [
-                    "Class Question +1 Knowledge"
+                    
                 ],
+                "questions": [{
+                    "Class Question +1 Knowledge": "John Silver"
+                }],
                 "confidants": [{
                     "confidant": "Tae Takemi - Death",
                     "link": "taeTakemi"
@@ -2101,8 +2116,11 @@
                 "desc": "Evening",
                 "weather": "Cloudy - Pollen Warning",
                 "socialStat": [
-                    "Crossword +1 Knowledge"
+                    
                 ],
+                "questions": [{
+                    "Crossword +1 Knowledge": "Japanese"
+                }],
                 "confidants": [{
                     "confidant": "Iwai Munehisa - Hanged Man",
                     "link": "iwaiMunehisa"
@@ -2219,9 +2237,11 @@
                 "desc": "Evening",
                 "weather": "Clear",
                 "socialStat": [
-                    "TV Quiz +1 Knowledge",
                     "Call in at Ore No Beko +3 Proficiency"
                 ],
+                "questions": [{
+                    "TV Quiz +1 Knowledge": "Probation officers are unpaid"
+                }],
                 "confidants": [{
                     "confidant": "Sojiro Sakura - Hierophant",
                     "link": "sojiroSakura"
@@ -2249,9 +2269,7 @@
                 },
                 "extraNotes": null
             }],
-            "spoilers": [{
-                "tvQuiz": "Probation officers are unpaid"
-            }]
+            "spoilers": []
         },
         "jun03": {
             "weekDay": "Friday",
@@ -2291,9 +2309,11 @@
                 "desc": "Evening",
                 "weather": "Cloudy",
                 "socialStat": [
-                    "Crossword +1 Knowledge",
                     "Leftover curry ingredients +1 Guts"
                 ],
+                "questions": [{
+                    "Crossword +1 Knowledge": "Master"
+                }],
                 "confidants": [{
                     "confidant": "Sojiro Sakura - Hierophant",
                     "link": "sojiroSakura"
@@ -2321,9 +2341,7 @@
                 },
                 "extraNotes": null
             }],
-            "spoilers": [{
-                "crossword": "Master"
-            }]
+            "spoilers": []
         },
         "jun04": {
             "weekDay": "Saturday",
@@ -2332,8 +2350,11 @@
                 "desc": "After School",
                 "weather": "Rain",
                 "socialStat": [
-                    "Class Question +1 Knowledge"
+                    
                 ],
+                "questions": [{
+                    "Class Question +1 Knowledge": "The Halo Effect"
+                }],
                 "confidants": [{
                     "confidant": "Tae Takemi - Death",
                     "link": "taeTakemi"
@@ -2450,6 +2471,9 @@
                     "null",
                     "null"
                 ],
+                "questions": [{
+                    "": ""
+                }],
                 "confidants": [{
                     "confidant": "",
                     "link": ""
@@ -2476,6 +2500,9 @@
                     "null",
                     "null"
                 ],
+                "questions": [{
+                    "": ""
+                }],
                 "confidants": [{
                     "confidant": "",
                     "link": ""

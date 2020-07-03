@@ -36,6 +36,17 @@
                 </div>
                 {{/if}}
 
+                {{#if dayQuestions}}
+                <div class="day-questions">
+                    <h4>Questions & Answers</h4>
+                    <ul>
+                        {{#each dayQuestions.[0]}}
+                        <li> {{@key}} - <div class="answer">{{this}}</div> </li>
+                        {{/each}}
+                    </ul>
+                </div>
+                {{/if}}
+
                 {{#if dayConfidants}}
                 <div class="day-confidants">
                     <h4>Confidants</h4>
@@ -90,6 +101,17 @@
                         <li>
                             {{this}}
                         </li>
+                        {{/each}}
+                    </ul>
+                </div>
+                {{/if}}
+
+                {{#if nightQuestions}}
+                <div class="night-questions">
+                    <h4>Questions & Answers</h4>
+                    <ul>
+                        {{#each nightQuestions.[0]}}
+                        <li> {{@key}} - <div class="answer">{{this}}</div> </li>
                         {{/each}}
                     </ul>
                 </div>

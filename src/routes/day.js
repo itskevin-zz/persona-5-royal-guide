@@ -33,6 +33,7 @@ routes.get('/day/:date', (req, res) => {
             dayType: data.calendar[urlDate].day[0].desc,
             dayWeather: data.calendar[urlDate].day[0].weather,
             dayStats: data.calendar[urlDate].day[0].socialStat,
+            dayQuestions: data.calendar[urlDate].day[0].questions,
             dayConfidants: data.calendar[urlDate].day[0].confidants,
             daySales: data.calendar[urlDate].day[0].sales,
             dayMetaverse: data.calendar[urlDate].day[0].metaverse,
@@ -40,6 +41,7 @@ routes.get('/day/:date', (req, res) => {
             nightType: data.calendar[urlDate].night[0].desc,
             nightWeather: data.calendar[urlDate].night[0].weather,
             nightStats: data.calendar[urlDate].night[0].socialStat,
+            nightQuestions: data.calendar[urlDate].night[0].questions,
             nightConfidants: data.calendar[urlDate].night[0].confidants,
             nightSales: data.calendar[urlDate].night[0].sales,
             nightMetaverse: data.calendar[urlDate].night[0].metaverse,
@@ -49,7 +51,7 @@ routes.get('/day/:date', (req, res) => {
             prevDate,
             // confidantName: data.confidants[data.calendar[urlDate].day[0].confidants].name
         })
-        console.log(dateNav)
+        console.log(data.calendar[urlDate].day[0].questions)
     }
 })
 

@@ -100,3 +100,25 @@ header a {
     overflow: hidden;
     transition: max-height 0.2s ease-out;
   }
+
+  .answer {
+    background-color: #ddd;
+    display: inline-block; /* you could do this as a full-width block instead */
+    padding: 8px 12px;
+    position: relative; /* needed for placeholder positioning */
+  }
+  
+  .answer:not(:active) {
+    background-color: #eee; /* these two colors must be equivalent A */
+    color: #eee; /* these two colors must be equivalent B */
+    min-width: 96px; /* 72px if box-sizing is border-box; ensures the placeholder is fully visible if the text is smaller than the placeholder text */
+    user-select: none; /* if you want it to be copyable, may highlight spoiler text when they click */
+  }
+  
+  .answer:not(:active)::before {
+    position: absolute;
+    top: 8px;
+    left: 12px;
+    content: 'Click\a0to\a0reveal'; /* non-breaking spaces probably necessary */
+    color: #999;
+  }
