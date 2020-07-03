@@ -2658,6 +2658,171 @@
             "spoilers": [{
             }]
         },
+        "jun09": {
+            "weekDay": "Thursday",
+            "date": "June 9th",
+            "day": [{
+                "desc": "After School",
+                "weather": "Clear",
+                "socialStat": [
+                ],
+                "questions": [],
+                "confidants": [],
+                "sales": [
+                ],
+                "metaverse": {
+                    "palaceAvailable": null,
+                    "deadlineCountdown": null,
+                    "mementosAvailable": null,
+                    "notes": null
+                },
+                "extraNotes": "Dome Town Unlocked"
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Clear",
+                "socialStat": [
+                ],
+                "questions": [],
+                "confidants": [{
+                    "confidant": "Iwai Munehisa - Hanged Man",
+                    "link": "iwaiMunehisa"
+                },{
+                    "confidant": "Toranosuke Yoshida - Sun",
+                    "link": "toranosukeYoshida"
+                }],
+                "sales": [
+                ],
+                "metaverse": {
+                    "palaceAvailable": null,
+                    "deadlineCountdown": null,
+                    "mementosAvailable": null,
+                    "notes": null
+                },
+                "extraNotes": null
+            }],
+            "spoilers": [{
+            }]
+        },
+        "jun10": {
+            "weekDay": "Friday",
+            "date": "June 10th",
+            "day": [{
+                "desc": "After School",
+                "weather": "Clear",
+                "socialStat": [
+                ],
+                "questions": [],
+                "confidants": [{
+                    "confidant": "Goro Akechi - Justice",
+                    "link": "goroAkechi"
+                }],
+                "sales": [
+                ],
+                "metaverse": {
+                    "palaceAvailable": null,
+                    "deadlineCountdown": null,
+                    "mementosAvailable": null,
+                    "notes": null
+                },
+                "extraNotes": null
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Clear",
+                "socialStat": [
+                    "Leftover curry ingredients +1 Guts"
+                ],
+                "questions": [],
+                "confidants": [{
+                    "confidant": "Toranosuke Yoshida - Sun",
+                    "link": "toranosukeYoshida"
+                },{
+                    "confidant": "Yuuki Mishima - Moon",
+                    "link": "yuukiMishima"
+                },{
+                    "confidant": "Sadayo Kawakami - Temperence",
+                    "link": "sadayoKawakami"
+                }],
+                "sales": [
+                    "null",
+                    "null"
+                ],
+                "metaverse": {
+                    "palaceAvailable": null,
+                    "deadlineCountdown": null,
+                    "mementosAvailable": null,
+                    "notes": null
+                },
+                "extraNotes": "Clean your room for tomorrow"
+            }],
+            "spoilers": [{
+            }]
+        },
+        "jun11": {
+            "weekDay": "Saturday",
+            "date": "June 11th",
+            "day": [{
+                "desc": "",
+                "weather": "null",
+                "socialStat": [
+                    "null",
+                    "null"
+                ],
+                "questions": [{
+                    "": ""
+                }],
+                "confidants": [{
+                    "confidant": "",
+                    "link": ""
+                },{
+                    "confidant": "",
+                    "link": ""
+                }],
+                "sales": [
+                    "null",
+                    "null"
+                ],
+                "metaverse": {
+                    "palaceAvailable": null,
+                    "deadlineCountdown": null,
+                    "mementosAvailable": null,
+                    "notes": null
+                },
+                "extraNotes": null
+            }],
+            "night": [{
+                "desc": "null",
+                "weather": "null",
+                "socialStat": [
+                    "null",
+                    "null"
+                ],
+                "questions": [{
+                    "": ""
+                }],
+                "confidants": [{
+                    "confidant": "",
+                    "link": ""
+                },{
+                    "confidant": "",
+                    "link": ""
+                }],
+                "sales": [
+                    "null",
+                    "null"
+                ],
+                "metaverse": {
+                    "palaceAvailable": null,
+                    "deadlineCountdown": null,
+                    "mementosAvailable": null,
+                    "notes": null
+                },
+                "extraNotes": null
+            }],
+            "spoilers": [{
+            }]
+        },
         "mmmdd": {
             "weekDay": "null",
             "date": " ",
