@@ -2823,6 +2823,68 @@
             "spoilers": [{
             }]
         },
+        "jun12": {
+            "weekDay": "Sunday",
+            "date": "June 12th",
+            "day": [{
+                "desc": "Daytime",
+                "weather": "Clear",
+                "socialStat": [
+                    "Aojiru +1 Proficiency"
+                ],
+                "questions": [],
+                "confidants": [{
+                    "confidant": "Tae Takemi - Death",
+                    "link": "taeTakemi"
+                },{
+                    "confidant": "Ann Takami - Lovers",
+                    "link": "annTakami"
+                }],
+                "sales": [
+                ],
+                "metaverse": {
+                    "palaceAvailable": null,
+                    "deadlineCountdown": null,
+                    "mementosAvailable": true,
+                    "notes": null
+                },
+                "extraNotes": "Trader Sakai wants Foreign Protein until 6/17"
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Cloudy",
+                "socialStat": [
+                    "Aojiru +1 Proficiency",
+                    "Medicated Bath +3 Charm"
+                ],
+                "questions": [],
+                "confidants": [{
+                    "confidant": "Sojiro Sakura - Hierophant",
+                    "link": "sojiroSakura"
+                },{
+                    "confidant": "Iwai Munehisa - Hanged Man",
+                    "link": "iwaiMunehisa"
+                },{
+                    "confidant": "Toranosuke Yoshida - Sun",
+                    "link": "toranosukeYoshida"
+                },{
+                    "confidant": "Yuuki Mishima - Moon",
+                    "link": "yuukiMishima"
+                }],
+                "sales": [
+                    "Chunky Katsu in Kichijoji"
+                ],
+                "metaverse": {
+                    "palaceAvailable": null,
+                    "deadlineCountdown": null,
+                    "mementosAvailable": null,
+                    "notes": null
+                },
+                "extraNotes": null
+            }],
+            "spoilers": [{
+            }]
+        },
         "mmmdd": {
             "weekDay": "null",
             "date": " ",
