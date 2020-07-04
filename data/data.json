@@ -2885,6 +2885,128 @@
             "spoilers": [{
             }]
         },
+        "jun13": {
+            "weekDay": "Monday",
+            "date": "June 13th",
+            "day": [{
+                "desc": "After School",
+                "weather": "Cloudy",
+                "socialStat": [
+                ],
+                "questions": [{
+                    "Class Question +1 Knowledge": "Green"
+                }],
+                "confidants": [],
+                "sales": [
+                ],
+                "metaverse": {
+                    "palaceAvailable": null,
+                    "deadlineCountdown": null,
+                    "mementosAvailable": null,
+                    "notes": null
+                },
+                "extraNotes": null
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Rain",
+                "socialStat": [
+                ],
+                "questions": [],
+                "confidants": [{
+                    "confidant": "Sojiro Sakura - Hierophant",
+                    "link": "sojiroSakura"
+                },{
+                    "confidant": "Iwai Munehisa - Hanged Man",
+                    "link": "iwaiMunehisa"
+                },{
+                    "confidant": "Yuuki Mishima - Moon",
+                    "link": "yuukiMishima"
+                },{
+                    "confidant": "Sadayo Kawakami - Temperence",
+                    "link": "sadayoKawakami"
+                },{
+                    "confidant": "Goro Akechi - Justice",
+                    "link": "goroAkechi"
+                }],
+                "sales": [
+                    "Rainy Day Items Available"
+                ],
+                "metaverse": {
+                    "palaceAvailable": null,
+                    "deadlineCountdown": null,
+                    "mementosAvailable": null,
+                    "notes": null
+                },
+                "extraNotes": "New Confidant Available"
+            }],
+            "spoilers": [{
+            }]
+        },
+        "mmmdd": {
+            "weekDay": "null",
+            "date": " ",
+            "day": [{
+                "desc": " ",
+                "weather": "null",
+                "socialStat": [
+                    "null",
+                    "null"
+                ],
+                "questions": [{
+                    "": ""
+                }],
+                "confidants": [{
+                    "confidant": "",
+                    "link": ""
+                },{
+                    "confidant": "",
+                    "link": ""
+                }],
+                "sales": [
+                    "null",
+                    "null"
+                ],
+                "metaverse": {
+                    "palaceAvailable": null,
+                    "deadlineCountdown": null,
+                    "mementosAvailable": null,
+                    "notes": null
+                },
+                "extraNotes": null
+            }],
+            "night": [{
+                "desc": "null",
+                "weather": "null",
+                "socialStat": [
+                    "null",
+                    "null"
+                ],
+                "questions": [{
+                    "": ""
+                }],
+                "confidants": [{
+                    "confidant": "",
+                    "link": ""
+                },{
+                    "confidant": "",
+                    "link": ""
+                }],
+                "sales": [
+                    "null",
+                    "null"
+                ],
+                "metaverse": {
+                    "palaceAvailable": null,
+                    "deadlineCountdown": null,
+                    "mementosAvailable": null,
+                    "notes": null
+                },
+                "extraNotes": null
+            }],
+            "spoilers": [{
+            }]
+        },
         "mmmdd": {
             "weekDay": "null",
             "date": " ",
