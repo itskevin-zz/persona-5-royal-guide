@@ -4021,6 +4021,88 @@
             "spoilers": [{
             }]
         },
+        "jul01": {
+            "weekDay": "Friday",
+            "date": "July 1st",
+            "day": [{
+                "desc": "After School",
+                "weather": "Clear",
+                "socialStat": [
+                    "Can read a book on the train",
+                    "Shinjuku Theatre +3 Guts",
+                    "Shibuya Theatre +3 Charm"
+
+                ],
+                "questions": [{
+                    "Class Question +1 Knowledge": "A Barbarian's Head"
+                }],
+                "confidants": [{
+                    "confidant": "Tae Takemi - Death",
+                    "link": "taeTakemi"
+                },{
+                    "confidant": "Ann Takami - Lovers",
+                    "link": "annTakami"
+                },,{
+                    "confidant": "Takuto Maruki - The Councillor",
+                    "link": "takutoMaruki"
+                },{
+                    "confidant": "Yusuke Kitagawa - Emperor",
+                    "link": "yusukeKitagawa"
+                },{
+                    "confidant": "Makoto Niijima - Prietess",
+                    "link": "makotoNiijima"
+                }],
+                "sales": [
+                    "Yakisoba Pan at School Store",
+                    "Frui-tie +Charm now available at diner",
+                    "New book in Shibuya",
+                    "Speed Reader at Library"
+                ],
+                "metaverse": {
+                    "palaceAvailable": true,
+                    "deadlineCountdown": 8,
+                    "mementosAvailable": true,
+                    "notes": null
+                },
+                "extraNotes": "Mammoth Lottery Available."
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Clear",
+                "socialStat": [
+                    "Leftover curry ingredients +1 Guts"
+                ],
+                "questions": [],
+                "confidants": [{
+                    "confidant": "Yuuki Mishima - Moon",
+                    "link": "yuukiMishima"
+                },{
+                    "confidant": "Sadayo Kawakami - Temperence",
+                    "link": "sadayoKawakami"
+                },{
+                    "confidant": "Ichiko Ohya - Devil",
+                    "link": "ichikoOhya"
+                },{
+                    "confidant": "Hifumi Togo - Star",
+                    "link": "hifumiTogo"
+                },{
+                    "confidant": "Ryuji Sakamoto - Chariot",
+                    "link": "ryujiSakamoto"
+                }],
+                "sales": [
+                    "Street Accessories Available"
+                ],
+                "metaverse": {
+                    "palaceAvailable": null,
+                    "deadlineCountdown": null,
+                    "mementosAvailable": null,
+                    "notes": null
+                },
+                "extraNotes": "Chariot Rank 7 Event Available.<br>Rank 7 can only occur on specific nights. He will text you to hang out. You can wait and respond to other texts "
+            }],
+            "spoilers": [{
+            }]
+        },
         "mmmdd": {
             "weekDay": "null",
             "date": " ",
