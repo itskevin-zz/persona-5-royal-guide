@@ -66,7 +66,7 @@
                     <ul>
                         {{#each daySales}}
                         <li>
-                            {{this}}
+                            {{{this}}}
                         </li>
                         {{/each}}
                     </ul>
@@ -84,7 +84,7 @@
                 {{#if dayExtras}}
                 <div class="day-extras">
                     <h4>Extras</h4>
-                    <p>{{dayExtras}}</p>
+                    <p>{{{dayExtras}}}</p>
                 </div>
                 {{/if}}
             </div>
@@ -137,7 +137,7 @@
                     <ul>
                         {{#each nightSales}}
                         <li>
-                            {{this}}
+                            {{{this}}}
                         </li>
                         {{/each}}
                     </ul>
@@ -155,7 +155,7 @@
             {{#if nightExtras}}
             <div class="night-extras">
                 <h4>Extras</h4>
-                <p>{{nightExtras}}</p>
+                <p>{{{nightExtras}}}</p>
             </div>
             {{/if}}
 

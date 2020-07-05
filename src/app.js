@@ -8,8 +8,6 @@ const dataRoutes = require('./routes/data')
 const indexRoutes = require('./routes/index')
 const dayRoutes = require('./routes/day')
 const confidantRoutes = require('./routes/confidants')
-const dayRefactor = require('./routes/day-refactor')
-
 
 // create instance of express 
 const app = express()
@@ -35,7 +33,6 @@ app.use(dataRoutes)
 app.use(indexRoutes)
 app.use(dayRoutes)
 app.use(confidantRoutes)
-app.use(dayRefactor)
 
 // 404 pages
 app.get('*', (req, res) => {
