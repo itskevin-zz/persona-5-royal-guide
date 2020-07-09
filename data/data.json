@@ -5386,20 +5386,6 @@
                     "confidant": "Ryuji Sakamoto - Chariot",
                     "link": "ryujiSakamoto"
                 },{
-<<<<<<< HEAD
-                    "confidant": "Ann Takami - Lovers",
-                    "link": "annTakami"
-                },{
-                    "confidant": "Yusuke Kitagawa - Emperor",
-                    "link": "yusukeKitagawa"
-                },{
-                    "confidant": "Makoto Niijima - Prietess",
-                    "link": "makotoNiijima"
-                }],
-                "sales": [
-                    "Weekly Restock",
-                    "New Items available in stores",
-=======
                     "confidant":"Ann Takami - Lovers",
                     "link":"annTakami"
                 },{
@@ -5412,7 +5398,6 @@
                 "sales": [
                     "Weekly Restock",
                     "New items available in stores",
->>>>>>> f7e8f8759bd85eeeba1dfed39a7093be2ceda9e8
                     "New DVDs available to rent"
                 ],
                 "metaverse": {
@@ -5421,11 +5406,7 @@
                     "mementosAvailable": true,
                     "notes": null
                 },
-<<<<<<< HEAD
-                "extraNotes": "Advanced Batting Machines"
-=======
                 "extraNotes": "Advanced Batting Machines Available"
->>>>>>> f7e8f8759bd85eeeba1dfed39a7093be2ceda9e8
             }],
             "night": [{
                 "desc": "Evening",
@@ -5435,11 +5416,7 @@
                 ],
                 "questions": [],
                 "confidants": [{
-<<<<<<< HEAD
-                    "confidant":"Sojiro Sakura - Hierophant",
-=======
                     "confidant": "Sojiro Sakura - Hierophant",
->>>>>>> f7e8f8759bd85eeeba1dfed39a7093be2ceda9e8
                     "link": "sojiroSakura"
                 },{
                     "confidant": "Yuuki Mishima - Moon",
