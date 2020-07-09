@@ -5762,7 +5762,7 @@
                     "link":"yuukiMishima"
                 },{
                     "confidant":"Sadayo Kawakami - Temperence",
-                    "link""sadayoKawakami"
+                    "link":"sadayoKawakami"
                 },{
                     "confidant":"Goro Akechi - Justice",
                     "link":"goroAkechi"
@@ -6168,7 +6168,7 @@
                 "questions": [],
                 "confidants": [{
                     "confidant": "Iwai Munehisa - Hanged Man",
-                    "link": "iwaiMunehisa",
+                    "link": "iwaiMunehisa"
                 },{
                     "confidant": "Yuuki Mishima - Moon",
                     "link": "yuukiMishima"
