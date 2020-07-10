@@ -26,7 +26,7 @@
                 <h3 class="day">{{dayType}} | {{dayWeather}}</h3>
 
                 {{#if dayStats}}
-                <div class="day-stats">
+                <div class="stats">
                     <h4>Social Stat Opportunities</h4>
                     <ul>
                         {{#each dayStats}}
@@ -39,7 +39,7 @@
                 {{/if}}
 
                 {{#if dayQuestions}}
-                <div class="day-questions">
+                <div class="questions">
                     <h4>Questions & Answers</h4>
                     <ul>
                         {{#each dayQuestions.[0]}}
@@ -50,12 +50,14 @@
                 {{/if}}
 
                 {{#if dayConfidants}}
-                <div class="day-confidants">
+                <div class="confidants">
                     <h4>Confidants</h4>
                     <ul>
                         {{#each dayConfidants}}
                         <li>
-                            <a href="/confidants/{{this.link}}">{{this.confidant}}</a>
+                            <a href="/confidants/{{this.link}}">
+                            <img src="/img/characters/{{this.link}}.png">
+                            </a>
                         </li>
                         {{/each}}
                     </ul>
@@ -63,7 +65,7 @@
                 {{/if}}
 
                 {{#if daySales}}
-                <div class="day-sales">
+                <div class="sales">
                     <h4>Stores & Sales</h4>
                     <ul>
                         {{#each daySales}}
@@ -76,7 +78,7 @@
                 {{/if}}
                 
                 {{#if dayMetaverse}}
-                <div class="day-metaverse">
+                <div class="metaverse">
                     <h4>Metaverse</h4>
                     <p>Palace Available: {{dayMetaverse.palaceAvailable}}</p>
                     <p>Days Until Deadline: {{dayMetaverse.deadlineCountdown}}</p>
@@ -84,8 +86,8 @@
                 {{/if}}
 
                 {{#if dayExtras}}
-                <div class="day-extras">
-                    <h4>Extras</h4>
+                <div class="extras">
+                    <h4>Notes</h4>
                     <p>{{{dayExtras}}}</p>
                 </div>
                 {{/if}}
@@ -96,7 +98,7 @@
                 <h3>{{nightType}} | {{nightWeather}}</h3>
 
                  {{#if nightStats}}
-                <div class="night-stats">
+                <div class="stats">
                     <h4>Social Stat Opportunities</h4>
                     <ul>
                         {{#each nightStats}}
@@ -109,7 +111,7 @@
                 {{/if}}
 
                 {{#if nightQuestions}}
-                <div class="night-questions">
+                <div class="questions">
                     <h4>Questions & Answers</h4>
                     <ul>
                         {{#each nightQuestions.[0]}}
@@ -120,12 +122,16 @@
                 {{/if}}
 
                 {{#if nightConfidants}}
-                <div class="night-confidants">
+                <div class="confidants">
                     <h4>Confidants</h4>
                     <ul>
                         {{#each nightConfidants}}
                         <li>
-                            <a href="/confidants/{{this.link}}">{{this.confidant}}</a>
+                            <li>
+                            <a href="/confidants/{{this.link}}">
+                            <img src="/img/characters/{{this.link}}.png">
+                            </a>
+                        </li>
                         </li>
                         {{/each}}
                     </ul>
@@ -147,7 +153,7 @@
             {{/if}}
             
             {{#if nightMetaverse}}
-            <div class="night-metaverse">
+            <div class="metaverse">
                 <h4>Metaverse</h4>
                 <p>Palace Available: {{nightMetaverse.palaceAvailable}}</p>
                 <p>Days Until Deadline: {{nightMetaverse.deadlineCountdown}}</p>
@@ -155,8 +161,8 @@
             {{/if}}
 
             {{#if nightExtras}}
-            <div class="night-extras">
-                <h4>Extras</h4>
+            <div class="extras">
+                <h4>Notes</h4>
                 <p>{{{nightExtras}}}</p>
             </div>
             {{/if}}

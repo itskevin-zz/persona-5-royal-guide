@@ -10,14 +10,13 @@ body {
     min-height: 100vh;
 }
 a{
-    color: #888;
     text-decoration: none;
 }
 .main-content {
     flex-grow: 1; 
 }
 footer {
-    color: #888;
+
     border-top: 1px solid #eee;
     margin: 16px 0;
     padding: 8px 0;
@@ -64,13 +63,24 @@ header a {
     align-items: center;
     justify-content: center;
 }
+.confidants ul {
+    list-style-type: none;
+    padding: 0;
+}
+.confidants ul li {
+    display: inline-block;
+    margin: 4px 8px;
+}
+.confidants ul li img {
+    height: 130px;
+    width: auto;
+}
+
+
 .confidant-nav ul li {
     display: inline;
 }
-.confidant-nav a,
-.confidants-list a {
-    color: rgb(14, 14, 65);
-}
+
 
 .collapsible {
     background-color: #777;
@@ -137,12 +147,12 @@ header a {
         display: none;
     }
     .next-day a::before {
-        content: "\25b6";
+        content: "\25ba";
         /* content: "next"; */
         font-size:48px;
     }
     .prev-day a::after {
-        content: "\25c0";
+        content: "\25c4";
         /* content: "prev"; */
         font-size: 48px;
     }
