@@ -12,11 +12,11 @@
             {{>header}}
             <div class="date-nav">
                 {{#if prevDate}}
-                <div class="pre-day day-nav"><a href="/day/{{prevDate}}">Previous Day</a></div>
+                <div class="prev-day day-nav"><a href="/day/{{prevDate}}"><span>Previous Day</span></a></div>
                 {{/if}}
                 <div class="date"><h2>{{weekDay}}, {{date}}</h2></div>
                 {{#if nextDate}}
-                <div class="next-day day-nav"><a href="/day/{{nextDate}}">Next Day</a></div>
+                <div class="next-day day-nav"><a href="/day/{{nextDate}}"><span>Next Day</span></a></div>
                 {{/if}}
             </div>
 

@@ -40,9 +40,10 @@ header a {
     display: flex;
 }
 .date-nav .date {
+    display: flex;
     flex-grow: 3;
     align-items: center;
-    text-align: center;
+    justify-content: center;
     font-weight: 600;
 }
 .day-nav {
@@ -69,7 +70,7 @@ header a {
 .confidants-list a {
     color: rgb(14, 14, 65);
 }
-/*** Collasping divs ***/
+
 .collapsible {
     background-color: #777;
     color: white;
@@ -103,23 +104,23 @@ header a {
 
   .answer {
     background-color: #ddd;
-    display: inline-block; /* you could do this as a full-width block instead */
+    display: inline-block; 
     padding: 8px 12px;
-    position: relative; /* needed for placeholder positioning */
+    position: relative; 
   }
   
   .answer:not(:active) {
-    background-color: #eee; /* these two colors must be equivalent A */
-    color: #eee; /* these two colors must be equivalent B */
-    min-width: 96px; /* 72px if box-sizing is border-box; ensures the placeholder is fully visible if the text is smaller than the placeholder text */
-    user-select: none; /* if you want it to be copyable, may highlight spoiler text when they click */
+    background-color: #eee; 
+    color: #eee; 
+    min-width: 96px; 
+    user-select: none; 
   }
   
   .answer:not(:active)::before {
     position: absolute;
     top: 8px;
     left: 12px;
-    content: 'Click\a0to\a0reveal'; /* non-breaking spaces probably necessary */
+    content: 'Click\a0to\a0reveal'; 
     color: #999;
   }
 
@@ -130,5 +131,18 @@ header a {
     }
     header {
         margin-bottom: 16px;
+    }
+    .day-nav a span {
+        display: none;
+    }
+    .next-day a::before {
+        content: "\25b6";
+        /* content: "next"; */
+        font-size:48px;
+    }
+    .prev-day a::after {
+        content: "\25c0";
+        /* content: "prev"; */
+        font-size: 48px;
     }
   }
