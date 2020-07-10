@@ -49,6 +49,9 @@ header a {
 .day-nav {
     margin:8px;
 }
+.sub {
+    text-align:center;
+}
 .day-period {
     margin: 32px 0;
 }
@@ -76,12 +79,27 @@ header a {
     width: auto;
 }
 
+/* CONFIDANT PAGE */
 
 .confidant-nav ul li {
     display: inline;
 }
-
-
+.confidants-container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    max-width: 1024px;
+}
+.confidants-item {
+    display: flex;
+    flex-flow: column;
+    text-align: center;
+    margin: 0 4px;
+}
+.confidants-item img {
+    height: 130px;
+    width: auto;
+}
 .collapsible {
     background-color: #777;
     color: white;

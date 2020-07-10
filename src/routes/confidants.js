@@ -42,7 +42,6 @@ routes.get('/confidants', (req, res) => {
     res.render('confidants',{
         confidants: confidants.confidantsList
     })
-    console.log(confidants.confidantsList)
 })
 
 module.exports = routes

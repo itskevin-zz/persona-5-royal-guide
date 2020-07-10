@@ -361,9 +361,7 @@
                     "confidant": "Ryuji Sakamoto - Chariot",
                     "link": "ryujiSakamoto"
                 }],
-                "sales": [
-                    null
-                ],
+                "sales": [],
                 "metaverse": {
                     "palaceAvailable": true,
                     "deadlineCountdown": 6,
@@ -379,9 +377,7 @@
                     "confidant": "Sojiro Sakura - Hierophant",
                     "link": "sojiroSakura"
                 }],
-                "sales": [
-                    null
-                ],
+                "sales": [],
                 "metaverse": null,
                 "extraNotes": null
             }],
@@ -430,9 +426,7 @@
                     "confidant": "Sojiro Sakura - Hierophant",
                     "link": "sojiroSakura"
                 }],
-                "sales": [
-                    null
-                ],
+                "sales": [],
                 "metaverse": null,
                 "extraNotes": null
             }],
@@ -444,9 +438,7 @@
             "day": [{
                 "desc": "After School",
                 "weather": "Cloudy",
-                "socialStat": [
-                    null
-],
+                "socialStat": null,
                 "confidants": [{
                     "confidant": "Tae Takemi - Death",
                     "link": "taeTakemi"
@@ -454,9 +446,7 @@
                     "confidant": "Ryuji Sakamoto - Chariot",
                     "link": "ryujiSakamoto"
                 }],
-                "sales": [
-                    null
-                ],
+                "sales": null,
                 "metaverse": {
                     "palaceAvailable": true,
                     "deadlineCountdown": 4,
@@ -467,16 +457,12 @@
             "night": [{
                 "desc": "Evening",
                 "weather": "Cloudy",
-                "socialStat": [
-                    null
-],
+                "socialStat": [],
                 "confidants": [{
                     "confidant": "Sojiro Sakura - Hierophant",
                     "link": "sojiroSakura"
                 }],
-                "sales": [
-                    null
-                ],
+                "sales": [],
                 "metaverse": null,
                 "extraNotes": null
             }],
@@ -499,9 +485,7 @@
                     "confidant": "Ryuji Sakamoto - Chariot",
                     "link": "ryujiSakamoto"
                 }],
-                "sales": [
-                    null
-                ],
+                "sales": [],
                 "metaverse": {
                     "palaceAvailable": true,
                     "deadlineCountdown": 3,
@@ -512,16 +496,12 @@
             "night": [{
                 "desc": "Evening",
                 "weather": "Clear",
-                "socialStat": [
-                    null
-],
+                "socialStat": [],
                 "confidants": [{
                     "confidant": "Sojiro Sakura - Hierophant",
                     "link": "sojiroSakura"
                 }],
-                "sales": [
-                    null
-                ],
+                "sales": [],
                 "metaverse": null,
                 "extraNotes": null
             }],
@@ -562,16 +542,12 @@
             "night": [{
                 "desc": "Evening",
                 "weather": "Clear",
-                "socialStat": [
-                    null
-],
+                "socialStat": [],
                 "confidants": [{
                     "confidant": "Sojiro Sakura - Hierophant",
                     "link": "sojiroSakura"
                 }],
-                "sales": [
-                    null
-                ],
+                "sales": [],
                 "metaverse": null,
                 "extraNotes": null
             }],
@@ -614,12 +590,8 @@
                 "socialStat": [
                     "Medicinal Bath +3 Charm"
                 ],
-                "confidants": [
-                    null
-                ],
-                "sales": [
-                    null
-                ],
+                "confidants": [],
+                "sales": [],
                 "metaverse": null,
                 "extraNotes": null
             }],
@@ -656,11 +628,7 @@
                 "sales": [
                     "Weekly Restock"
                 ],
-                "metaverse": {
-                    "palaceAvailable": null,
-                    "deadlineCountdown": null,
-                    "notes": null
-                },
+                "metaverse": null,
                 "extraNotes": "null"
             }],
             "spoilers": []
@@ -674,11 +642,7 @@
                 "socialStat": [ ],
                 "confidants": [],
                 "sales": [],
-                "metaverse": {
-                    "palaceAvailable": null,
-                    "deadlineCountdown": null,
-                    "notes": null
-                },
+                "metaverse": null,
                 "extraNotes": "Golden Week - Constitutional Memorial Day"
             }],
             "night": [{
@@ -687,11 +651,7 @@
                 "socialStat": [],
                 "confidants": [],
                 "sales": [],
-                "metaverse": {
-                    "palaceAvailable": null,
-                    "deadlineCountdown": null,
-                    "notes": null
-                },
+                "metaverse": null,
                 "extraNotes": null
             }],
             "spoilers": [{
@@ -719,11 +679,7 @@
                 "socialStat": [],
                 "confidants": [],
                 "sales": [],
-                "metaverse": {
-                    "palaceAvailable": null,
-                    "deadlineCountdown": null,
-                    "notes": null
-                },
+                "metaverse": null,
                 "extraNotes": "null"
             }],
             "spoilers": [{
@@ -738,11 +694,7 @@
                 "socialStat": [],
                 "confidants": [],
                 "sales": [],
-                "metaverse": {
-                    "palaceAvailable": null,
-                    "deadlineCountdown": null,
-                    "notes": null
-                },
+                "metaverse": null,
                 "extraNotes": "Golden Week - Children's Day"
             }],
             "night": [{
@@ -753,11 +705,7 @@
                 ],
                 "confidants": [],
                 "sales": [],
-                "metaverse": {
-                    "palaceAvailable": null,
-                    "deadlineCountdown": null,
-                    "notes": null
-                },
+                "metaverse": null,
                 "extraNotes": null
             }],
             "spoilers": [{
@@ -791,11 +739,7 @@
                     "New book in Shibuya Shop",
                     "New accessories at Airsoft Shop"
                 ],
-                "metaverse": {
-                    "palaceAvailable": null,
-                    "deadlineCountdown": null,
-                    "notes": null
-                },
+                "metaverse": null,
                 "extraNotes": null
             }],
             "night": [{
@@ -820,11 +764,7 @@
                     "New accessories vendor",
                     "Shibuya Central Street"
                 ],
-                "metaverse": {
-                    "palaceAvailable": null,
-                    "deadlineCountdown": null,
-                    "notes": null
-                },
+                "metaverse": null,
                 "extraNotes": "Sojiro will now let you explore Tokyo at night"
             }],
             "spoilers": [{
@@ -858,11 +798,7 @@
                 "socialStat": [],
                 "confidants": [],
                 "sales": [],
-                "metaverse": {
-                    "palaceAvailable": null,
-                    "deadlineCountdown": null,
-                    "notes": null
-                },
+                "metaverse": null,
                 "extraNotes": null
             }],
             "spoilers": []
@@ -876,11 +812,7 @@
                 "socialStat": [],
                 "confidants": [],
                 "sales": [],
-                "metaverse": {
-                    "palaceAvailable": null,
-                    "deadlineCountdown": null,
-                    "notes": null
-                },
+                "metaverse": null,
                 "extraNotes": "Restricted"
             }],
             "night": [{
@@ -904,11 +836,7 @@
                     "New accessories at Unstoppable",
                     "TV Shopping:<br>Relaxation Set - 4,600yen<br>Bio Nutrients Set - 2,680yen"
                 ],
-                "metaverse": {
-                    "palaceAvailable": null,
-                    "deadlineCountdown": null,
-                    "notes": null
-                },
+                "metaverse": null,
                 "extraNotes": null
             }],
             "spoilers": [{

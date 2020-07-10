@@ -10,11 +10,18 @@
     <body>
         <div class="main-content">
             {{>header}}
-            <ul class="confidants-list">
+
+            <div class="confidants-container">
                 {{#each confidants}}
-                <li><a href="/confidants/{{@key}}">{{this}}</a></li>
+                <div class="confidants-item">
+                    <a href="/confidants/{{@key}}">
+                        <img src="/img/characters/{{@key}}.png">
+                        <p>{{this}}</p>
+                    </a>
+                </div>
                 {{/each}}
-            </ul>
+            </div>
+            
             {{>footer}}
         </div>
     </body>

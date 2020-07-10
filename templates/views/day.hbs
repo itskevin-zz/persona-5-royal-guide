@@ -24,6 +24,7 @@
 
             <div class="daytime day-period">
                 <h3 class="day">{{dayType}} | {{dayWeather}}</h3>
+                <p class="sub">{{{dayExtras}}}</p>
 
                 {{#if dayStats}}
                 <div class="stats">
@@ -84,18 +85,12 @@
                     <p>Days Until Deadline: {{dayMetaverse.deadlineCountdown}}</p>
                 </div>
                 {{/if}}
-
-                {{#if dayExtras}}
-                <div class="extras">
-                    <h4>Notes</h4>
-                    <p>{{{dayExtras}}}</p>
-                </div>
-                {{/if}}
             </div>
             
 
             <div class="evening day-period">
                 <h3>{{nightType}} | {{nightWeather}}</h3>
+                <p class="sub">{{{nightExtras}}}</p>
 
                  {{#if nightStats}}
                 <div class="stats">
@@ -157,13 +152,6 @@
                 <h4>Metaverse</h4>
                 <p>Palace Available: {{nightMetaverse.palaceAvailable}}</p>
                 <p>Days Until Deadline: {{nightMetaverse.deadlineCountdown}}</p>
-            </div>
-            {{/if}}
-
-            {{#if nightExtras}}
-            <div class="extras">
-                <h4>Notes</h4>
-                <p>{{{nightExtras}}}</p>
             </div>
             {{/if}}
 
