@@ -81,8 +81,13 @@
                 {{#if dayMetaverse}}
                 <div class="metaverse">
                     <h4>Metaverse</h4>
-                    <p>Palace Available: {{dayMetaverse.palaceAvailable}}</p>
-                    <p>Days Until Deadline: {{dayMetaverse.deadlineCountdown}}</p>
+                    {{#if dayMetaverse.notes}}<p>{{dayMetaverse.notes}}</p>{{/if}}
+                    <ul>
+                        {{#if dayMetaverse.palaceAvailable}}<li>Palace Available</li>{{/if}}
+                        {{#if dayMetaverse.mementosAvailable}}<li>Mementos Available</li>{{/if}}
+                    </ul>
+                    
+                    {{#if dayMetaverse.deadlineCountdown}}<p>Days Until Deadline: {{dayMetaverse.deadlineCountdown}}</p>{{/if}}
                 </div>
                 {{/if}}
             </div>
@@ -150,8 +155,10 @@
             {{#if nightMetaverse}}
             <div class="metaverse">
                 <h4>Metaverse</h4>
-                <p>Palace Available: {{nightMetaverse.palaceAvailable}}</p>
-                <p>Days Until Deadline: {{nightMetaverse.deadlineCountdown}}</p>
+                {{#if nightMetaverse.notes}}<p>{{nightMetaverse.notes}}</p>{{/if}}
+                {{#if nightMetaverse.palaceAvailable}}<p>Palace Available: {{nightMetaverse.palaceAvailable}}</p>{{/if}}
+                {{#if nightMetaverse.deadlineCountdown}}<p>Days Until Deadline: {{nightMetaverse.deadlineCountdown}}</p>{{/if}}
+                {{#if nightMetaverse.mementosAvailable}}<p>Mementos Available: {{nightMetaverse.mementosAvailable}}</p>{{/if}}
             </div>
             {{/if}}
 

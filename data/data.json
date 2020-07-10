@@ -579,7 +579,7 @@
                 ],
                 "metaverse": {
                     "palaceAvailable": true,
-                    "deadlineCountdown": 0,
+                    "deadlineCountdown": 1,
                     "notes": "Steal the Treasure"
                 },
                 "extraNotes": "Midterm on 5/11 Knowledge Rank 2 to pass,<br>Rank 3 for Top Ten in Class."
@@ -608,11 +608,7 @@
                 "confidants": [],
                 "questions": [],
                 "sales": [],
-                "metaverse": {
-                    "palaceAvailable": null,
-                    "deadlineCountdown": 0,
-                    "notes": null
-                },
+                "metaverse": null,
                 "extraNotes": "Cutscene"
             }],
             "night": [{
@@ -666,11 +662,7 @@
                 "socialStat": [],
                 "confidants": [],
                 "sales": [],
-                "metaverse": {
-                    "palaceAvailable": null,
-                    "deadlineCountdown": 0,
-                    "notes": null
-                },
+                "metaverse": null,
                 "extraNotes": "Golden Week - Greenery Day"
             }],
             "night": [{
@@ -785,8 +777,8 @@
                 "confidants": [],
                 "sales": [],
                 "metaverse": {
-                    "palaceAvailable": false,
-                    "deadlineCountdown": 0,
+                    "palaceAvailable": null,
+                    "deadlineCountdown": null,
                     "mementosAvailable": true,
                     "notes": "Mementos Unlocked"
                 },
@@ -863,7 +855,7 @@
                 ],
                 "metaverse": {
                     "palaceAvailable": null,
-                    "deadlineCountdown": 0,
+                    "deadlineCountdown": null,
                     "mementosAvailable": true,
                     "notes": "New Request Available"
                 },
@@ -890,12 +882,7 @@
                     "TV shopping delivery",
                     "Street accessories available"
                 ],
-                "metaverse": {
-                    "palaceAvailable": null,
-                    "mementosAvailable": null,
-                    "deadlineCountdown": null,
-                    "notes": null
-                },
+                "metaverse": null,
                 "extraNotes": null
             }],
             "spoilers": [{
@@ -926,7 +913,7 @@
                 "sales": [],
                 "metaverse": {
                     "palaceAvailable": null,
-                    "deadlineCountdown": 0,
+                    "deadlineCountdown": null,
                     "mementosAvailable": true,
                     "notes": null
                 },
@@ -4155,7 +4142,7 @@
                 ],
                 "metaverse": {
                     "palaceAvailable": true,
-                    "deadlineCountdown": 0,
+                    "deadlineCountdown": null,
                     "mementosAvailable": true,
                     "notes": "Plan Execution Deadline"
                 },
