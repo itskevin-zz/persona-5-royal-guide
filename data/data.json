@@ -3126,7 +3126,7 @@
             "weekDay": "Friday",
             "date": "June 24th",
             "day": [{
-                "desc": "After Schol",
+                "desc": "After School",
                 "weather": "Cloudy",
                 "socialStat": [
                 ],
@@ -7137,19 +7137,1597 @@
             "spoilers": [{
             }]
         },
+        "sep01": {
+            "weekDay": "Thursday",
+            "date": "September 1st",
+            "day": [{
+                "desc": "After School",
+                "weather": "Clear",
+                "socialStat": [
+                ],
+                "questions": [],
+                "confidants": [],
+                "sales": [
+                ],
+                "metaverse": null,
+                "extraNotes": "Cutscene"
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Clear",
+                "socialStat": [
+                ],
+                "questions": [],
+                "confidants": [{
+                    "confidant": "Sojiro Sakura - Hierophant",
+                    "link": "sojiroSakura"
+                },{
+                    "confidant": "Iwai Munehisa - Hanged Man",
+                    "link": "iwaiMunehisa"
+                },{
+                    "confidant":"Sadayo Kawakami - Temperence",
+                    "link":"sadayoKawakami"
+                },{
+                    "confidant":"Chihaya Mifune - Fortune",
+                    "link":"chihayaMifune"
+                },{
+                    "confidant":"Ichiko Ohya - Devil",
+                    "link":"ichikoOhya"
+                }],
+                "sales": [
+                    "New items available in stores",
+                    "New Phantom Thief Themed items in stores",
+                    "New drinks in vending machines"
+                ],
+                "metaverse": null,
+                "extraNotes": "Next Midterm is 10/17. Level 4 Knowledge needed.<br>Get a stuff toy in the crane games in Akihabara"
+            }],
+            "spoilers": [{
+            }]
+        },
+        "sep02": {
+            "weekDay": "Friday",
+            "date": "September 2nd",
+            "day": [{
+                "desc": "After School",
+                "weather": "Cloudy",
+                "socialStat": [
+                    "The reutrn of Murder Chalk +2 Charm"
+                ],
+                "questions": [],
+                "confidants": [{
+                    "confidant": "Tae Takemi - Death",
+                    "link": "taeTakemi"
+                },{
+                    "confidant": "Ann Takami - Lovers",
+                    "link": "annTakami"
+                },{
+                    "confidant":"Takuto Maruki - The Councillor",
+                    "link":"takutoMaruki"
+                },{
+                    "confidant":"Yusuke Kitagawa - Emperor",
+                    "link":"yusukeKitagawa"
+                },{
+                    "confidant":"Futaba Sakura - Hermit",
+                    "link":"futabaSakura"
+                }],
+                "sales": [
+                    "Yakisoba Pan at School Store",
+                    "Autumn bread at School Store"
+                ],
+                "metaverse": null,
+                "extraNotes": "New Confidant Available.<br>Jack Frost toy at Akihabara Arcade.<br>Maruki locked to Rank 5."
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Cloudy",
+                "socialStat": [
+                    "Call in at Ore No Beko +3 Proficiency",
+                    "Yongan movie theatre - showtime redemption +3 Charm"
+                ],
+                "questions": [{
+                    "Crossword +1 Knowledge": "Typhoon"
+                }],
+                "confidants": [{
+                    "confidant": "Iwai Munehisa - Hanged Man",
+                    "link": "iwaiMunehisa"
+                },{
+                    "confidant": "Yuuki Mishima - Moon",
+                    "link": "yuukiMishima"
+                },{
+                    "confidant":"Sadayo Kawakami - Temperence",
+                    "link":"sadayoKawakami"
+                }],
+                "sales": [
+                ],
+                "metaverse": null,
+                "extraNotes": null
+            }],
+            "spoilers": [{
+            }]
+        },
+        "sep03": {
+            "weekDay": "Satuday",
+            "date": "September 3rd",
+            "day": [{
+                "desc": "After School",
+                "weather": "Cloudy",
+                "socialStat": [
+                ],
+                "questions": [{
+                    "Class Question +1 Knowledge": "Prosperity"
+                }],
+                "confidants": [],
+                "sales": [
+                ],
+                "metaverse": null,
+                "extraNotes": "Cutscene"
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Clear",
+                "socialStat": [
+                    "Call in from Crossroads +Kindness"
+                ],
+                "questions": [],
+                "confidants": [{
+                    "confidant": "Iwai Munehisa - Hanged Man",
+                    "link": "iwaiMunehisa"
+                },{
+                    "confidant": "Sadayo Kawakami - Temperence",
+                    "link": "sadayoKawakami"
+                },{
+                    "confidant":"Goro Akechi - Justice",
+                    "link":"goroAkechi"
+                },{
+                    "confidant":"Chihaya Mifune - Fortune",
+                    "link":"chihayaMifune"
+                },{
+                    "confidant":"Hifumi Togo - Star",
+                    "link":"hifumiTogo"
+                }],
+                "sales": [
+                ],
+                "metaverse": null,
+                "extraNotes": "Justice is locked to Rank 6.<br>Something about pancakes in Leblanc.<br>Maid Day at the Maid Cafe."
+            }],
+            "spoilers": [{
+            }]
+        },
+        "sep04": {
+            "weekDay": "Sunday",
+            "date": "September 4th",
+            "day": [{
+                "desc": "After School",
+                "weather": "Clear",
+                "socialStat": [
+                    "Aojiru +1 Knowledge"
+                ],
+                "questions": [],
+                "confidants": [{
+                    "confidant": "Tae Takemi - Death",
+                    "link": "taeTakemi"
+                },{
+                    "confidant": "Futaba Sakura - Hermit",
+                    "link": "futabaSakura"
+                }],
+                "sales": [
+                    "Potent healing items for sale in Church in Kanda"
+                ],
+                "metaverse": {
+                    "palaceAvailable": null,
+                    "deadlineCountdown": null,
+                    "mementosAvailable": true,
+                    "notes": "New Request Available"
+                },
+                "extraNotes": "Trader Sakai wants Phantom Wafers until 9/6"
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Clear",
+                "socialStat": [
+                    "Aojiru +1 Knowledge",
+                    "Medicated Bath +3 Charm",
+                    "Leftover curry ingredients +1 Guts"
+                ],
+                "questions": [],
+                "confidants": [{
+                    "confidant": "Iwai Munehisa - Hanged Man",
+                    "link": "iwaiMunehisa"
+                },{
+                    "confidant": "Toranosuke Yoshida - Sun",
+                    "link": "toranosukeYoshida"
+                },{
+                    "confidant":"Chihaya Mifune - Fortune",
+                    "link":"chihayaMifune"
+                },{
+                    "confidant":"Ichiko Ohya - Devil",
+                    "link":"ichikoOhya"
+                }],
+                "sales": [
+                    "Chunky Katsu in Kichijoji"
+                ],
+                "metaverse": null,
+                "extraNotes": null
+            }],
+            "spoilers": [{
+            }]
+        },
+        "sep05": {
+            "weekDay": "Monday",
+            "date": "September 5th",
+            "day": [{
+                "desc": "After School",
+                "weather": "Cloudy",
+                "socialStat": [
+                ],
+                "questions": [],
+                "confidants": [{
+                    "confidant": "Tae Takemi - Death",
+                    "link": "taeTakemi"
+                },{
+                    "confidant": "Takuto Maruki - The Councillor",
+                    "link": "takutoMaruki"
+                },{
+                    "confidant":"Futaba Sakura - Hermit",
+                    "link":"futabaSakura"
+                },{
+                    "confidant":"Shinya Oda - Tower",
+                    "link":"shinyaOda"
+                }],
+                "sales": [
+                    "Weekly Restock"
+                ],
+                "metaverse": {
+                    "palaceAvailable": null,
+                    "deadlineCountdown": null,
+                    "mementosAvailable": true,
+                    "notes": null
+                },
+                "extraNotes": "New Confidant Available"
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Cloudy",
+                "socialStat": [
+                    "Leftover curry ingredients +1 Guts"
+                ],
+                "questions": [],
+                "confidants": [{
+                    "confidant": "Sojiro Sakura - Hierophant",
+                    "link": "sojiroSakura"
+                },{
+                    "confidant": "Iwai Munehisa - Hanged Man",
+                    "link": "iwaiMunehisa"
+                },{
+                    "confidant":"Toranosuke Yoshida - Sun",
+                    "link":"toranosukeYoshida"
+                },{
+                    "confidant":"Sadayo Kawakami - Temperence",
+                    "link":"sadayoKawakami"
+                },{
+                    "confidant":"Chihaya Mifune - Fortune",
+                    "link":"chihayaMifune"
+                },{
+                    "confidant":"Ichiko Ohya - Devil",
+                    "link":"ichikoOhya"
+                },{
+                    "confidant":"Hifumi Togo - Star",
+                    "link":"hifumiTogo"
+                }],
+                "sales": [
+                ],
+                "metaverse": null,
+                "extraNotes": "Singer at Jazz Club"
+            }],
+            "spoilers": [{
+            }]
+        },
+        "sep06": {
+            "weekDay": "Tuesday",
+            "date": "September 6th",
+            "day": [{
+                "desc": "After School",
+                "weather": "Clear",
+                "socialStat": [
+                    
+                ],
+                "questions": [{
+                    "Class Question +1 Knowledge": "Chronostasis"
+                }],
+                "confidants": [{
+                    "confidant": "Tae Takemi - Death",
+                    "link": "taeTakemi"
+                },{
+                    "confidant": "Takuto Maruki - The Councillor",
+                    "link": "takutoMaruki"
+                },{
+                    "confidant":"Shinya Oda - Tower",
+                    "link":"shinyaOda"
+                }],
+                "sales": [
+                ],
+                "metaverse": {
+                    "palaceAvailable": null,
+                    "deadlineCountdown": null,
+                    "mementosAvailable": true,
+                    "notes": null
+                },
+                "extraNotes": "Last day Trader Sakai wants Phantom Wafers"
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Clear",
+                "socialStat": [
+                ],
+                "questions": [],
+                "confidants": [],
+                "sales": [
+                ],
+                "metaverse": null,
+                "extraNotes": "Sleep"
+            }],
+            "spoilers": [{
+            }]
+        },
+        "sep07": {
+            "weekDay": "Wednesday",
+            "date": "September 7th",
+            "day": [{
+                "desc": "After School",
+                "weather": "Clear",
+                "socialStat": [
+                ],
+                "questions": [],
+                "confidants": [],
+                "sales": [
+                ],
+                "metaverse": null,
+                "extraNotes": "School Trip"
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Clear",
+                "socialStat": [
+                ],
+                "questions": [],
+                "confidants": [],
+                "sales": [
+                ],
+                "metaverse": null,
+                "extraNotes": "Sleep"
+            }],
+            "spoilers": [{
+            }]
+        },
+        "sep08": {
+            "weekDay": "Thursday",
+            "date": "September 8th",
+            "day": [{
+                "desc": "After School",
+                "weather": "Clear",
+                "socialStat": [
+                ],
+                "questions": [],
+                "confidants": [],
+                "sales": [
+                ],
+                "metaverse": null,
+                "extraNotes": "School Trip"
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Clear",
+                "socialStat": [
+                ],
+                "questions": [],
+                "confidants": [],
+                "sales": [
+                ],
+                "metaverse": null,
+                "extraNotes": "Sleep"
+            }],
+            "spoilers": [{
+            }]
+        },
+        "sep09": {
+            "weekDay": "Friday",
+            "date": "September 9th",
+            "day": [{
+                "desc": "After School",
+                "weather": "Clear",
+                "socialStat": [
+                ],
+                "questions": [],
+                "confidants": [],
+                "sales": [
+                ],
+                "metaverse": null,
+                "extraNotes": "School Trip"
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Clear",
+                "socialStat": [
+                ],
+                "questions": [],
+                "confidants": [],
+                "sales": [
+                ],
+                "metaverse": null,
+                "extraNotes": "Sleep"
+            }],
+            "spoilers": [{
+            }]
+        },
+        "sep10": {
+            "weekDay": "Saturday",
+            "date": "September 10th",
+            "day": [{
+                "desc": "After School",
+                "weather": "Clear",
+                "socialStat": [
+                ],
+                "questions": [],
+                "confidants": [],
+                "sales": [
+                ],
+                "metaverse": null,
+                "extraNotes": "School Trip"
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Clear",
+                "socialStat": [
+                ],
+                "questions": [],
+                "confidants": [],
+                "sales": [
+                ],
+                "metaverse": null,
+                "extraNotes": "Sleep"
+            }],
+            "spoilers": [{
+            }]
+        },
+        "sep11": {
+            "weekDay": "Sunday",
+            "date": "September 11th",
+            "day": [{
+                "desc": "Daytime",
+                "weather": "Clear",
+                "socialStat": [
+                ],
+                "questions": [],
+                "confidants": [],
+                "sales": [
+                ],
+                "metaverse": null,
+                "extraNotes": "School Trip"
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Clear",
+                "socialStat": [
+                ],
+                "questions": [],
+                "confidants": [],
+                "sales": [
+                ],
+                "metaverse": null,
+                "extraNotes": "Sleep"
+            }],
+            "spoilers": [{
+            }]
+        },
+        "sep12": {
+            "weekDay": "Monday",
+            "date": "September 12th",
+            "day": [{
+                "desc": "After School",
+                "weather": "Clear",
+                "socialStat": [
+                ],
+                "questions": [],
+                "confidants": [],
+                "sales": [
+                ],
+                "metaverse": null,
+                "extraNotes": "Cutscene"
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Clear",
+                "socialStat": [
+                ],
+                "questions": [],
+                "confidants": [],
+                "sales": [
+                ],
+                "metaverse": null,
+                "extraNotes": "Sleep"
+            }],
+            "spoilers": [{
+            }]
+        },
+        "sep13": {
+            "weekDay": "Tuesday",
+            "date": "September 13th",
+            "day": [{
+                "desc": "After School",
+                "weather": "Clear",
+                "socialStat": [
+                ],
+                "questions": [],
+                "confidants": [],
+                "sales": [
+                ],
+                "metaverse": null,
+                "extraNotes": "Cutscene"
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Clear",
+                "socialStat": [
+                ],
+                "questions": [],
+                "confidants": [],
+                "sales": [
+                ],
+                "metaverse": null,
+                "extraNotes": "Sleep"
+            }],
+            "spoilers": [{
+            }]
+        },
+        "sep14": {
+            "weekDay": "Wednesday",
+            "date": "September 14th",
+            "day": [{
+                "desc": "After School",
+                "weather": "Clear",
+                "socialStat": [
+                ],
+                "questions": [{
+                    "Class Question +1 Knowledge": "Money loans for collateral"
+                }],
+                "confidants": [],
+                "sales": [
+                ],
+                "metaverse": null,
+                "extraNotes": "Cutscene"
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Rain",
+                "socialStat": [
+                ],
+                "questions": [],
+                "confidants": [],
+                "sales": [
+                ],
+                "metaverse": null,
+                "extraNotes": "Sleep"
+            }],
+            "spoilers": [{
+            }]
+        },
+        "sep15": {
+            "weekDay": "Thursday",
+            "date": "September 15th",
+            "day": [{
+                "desc": "After School",
+                "weather": "Clear",
+                "socialStat": [
+                ],
+                "questions": [],
+                "confidants": [],
+                "sales": [
+                ],
+                "metaverse": null,
+                "extraNotes": "Cutscene"
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Clear",
+                "socialStat": [
+                ],
+                "questions": [],
+                "confidants": [],
+                "sales": [
+                ],
+                "metaverse": null,
+                "extraNotes": "Sleep"
+            }],
+            "spoilers": [{
+            }]
+        },
+        "sep16": {
+            "weekDay": "Friday",
+            "date": "September 16th",
+            "day": [{
+                "desc": "After School",
+                "weather": "Cloudy",
+                "socialStat": [
+                ],
+                "questions": [],
+                "confidants": [],
+                "sales": [
+                ],
+                "metaverse": null,
+                "extraNotes": "Cutscene"
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Clear",
+                "socialStat": [
+                ],
+                "questions": [],
+                "confidants": [],
+                "sales": [
+                ],
+                "metaverse": null,
+                "extraNotes": "Sleep"
+            }],
+            "spoilers": [{
+            }]
+        },
+        "sep17": {
+            "weekDay": "Satuday",
+            "date": "September 17th",
+            "day": [{
+                "desc": "After School",
+                "weather": "Clear",
+                "socialStat": [
+                ],
+                "questions": [{
+                    "Class Question +1 Knowledge": "Cat's eating human tongue"
+                }],
+                "confidants": [],
+                "sales": [
+                ],
+                "metaverse": null,
+                "extraNotes": "Cutscene"
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Clear",
+                "socialStat": [
+                ],
+                "questions": [],
+                "confidants": [],
+                "sales": [
+                ],
+                "metaverse": null,
+                "extraNotes": "Sleep"
+            }],
+            "spoilers": [{
+            }]
+        },
+        "sep18": {
+            "weekDay": "Sunday",
+            "date": "September 18th",
+            "day": [{
+                "desc": "Daytime",
+                "weather": "Clear",
+                "socialStat": [
+                ],
+                "questions": [],
+                "confidants": [],
+                "sales": [
+                ],
+                "metaverse": null,
+                "extraNotes": "Cutscene"
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Clear",
+                "socialStat": [
+                    "Leftover curry ingredients +1 Guts"
+                ],
+                "questions": [],
+                "confidants": [],
+                "sales": [
+                ],
+                "metaverse":null,
+                "extraNotes": null
+            }],
+            "spoilers": [{
+            }]
+        },
+        "sep19": {
+            "weekDay": "Monday",
+            "date": "September 19th",
+            "day": [{
+                "desc": "Daytime",
+                "weather": "Clear",
+                "socialStat": [
+                ],
+                "questions": [],
+                "confidants": [{
+                    "confidant": "Tae Takemi - Death",
+                    "link": "taeTakemi"
+                },{
+                    "confidant": "Yusuke Kitagawa - Emperor",
+                    "link": "yusukeKitagawa"
+                },{
+                    "confidant":"Shinya Oda - Tower",
+                    "link":"shinyaOda"
+                }],
+                "sales": [
+                    "Weekly Restock"
+                ],
+                "metaverse": {
+                    "palaceAvailable": true,
+                    "deadlineCountdown": 22,
+                    "mementosAvailable": true,
+                    "notes": "New Request Available"
+                },
+                "extraNotes": "Respect for the Aged Day.<br>Trader Sakai wants Thief Mask until 9/24.<br>Network Fusion Unlocked"
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Clear",
+                "socialStat": [
+                    "Leftover curry ingredients +1 Guts"
+                ],
+                "questions": [{
+                    "Crossword +1 Knowledge": "Festival"
+                }],
+                "confidants": [{
+                    "confidant": "Sojiro Sakura - Hierophant",
+                    "link": "sojiroSakura"
+                },{
+                    "confidant": "Iwai Munehisa - Hanged Man",
+                    "link":"iwaiMunehisa"
+                },{
+                    "confidant":"Toranosuke Yoshida - Sun",
+                    "link":"toranosukeYoshida"
+                },{
+                    "confidant":"Sadayo Kawakami - Temperence",
+                    "link":"sadayoKawakami"
+                },{
+                    "confidant":"Yuuki Mishima - Moon",
+                    "link":"yuukiMishima"
+                },{
+                    "confidant":"Chihaya Mifune - Fortune",
+                    "link":"chihayaMifune"
+                },{
+                    "confidant":"Ichiko Ohya - Devil",
+                    "link":"ichikoOhya"
+                },{
+                    "confidant":"Hifumi Togo - Star",
+                    "link":"hifumiTogo"
+                },{
+                    "confidant":"Tae Takemi - Death",
+                    "link":"taeTakemi"
+                }],
+                "sales": [
+                ],
+                "metaverse": null,
+                "extraNotes": null
+            }],
+            "spoilers": [{
+            }]
+        },
+        "sep20": {
+            "weekDay": "Tuesday",
+            "date": "September 20th",
+            "day": [{
+                "desc": "After School",
+                "weather": "Clear",
+                "socialStat": [
+                ],
+                "questions": [],
+                "confidants": [{
+                    "confidant": "Tae Takemi - Death",
+                    "link": "taeTakemi"
+                },{
+                    "confidant": "Ryuji Sakamoto - Chariot",
+                    "link": "ryujiSakamoto"
+                },{
+                    "confidant":"Takuto Maruki - The Councillor",
+                    "link":"takutoMaruki"
+                },{
+                    "confidant":"Makoto Niijima - Prietess",
+                    "link":"makotoNiijima"
+                }],
+                "sales": [
+                ],
+                "metaverse": {
+                    "palaceAvailable": true,
+                    "deadlineCountdown": 21,
+                    "mementosAvailable": true,
+                    "notes": null
+                },
+                "extraNotes": "Next Midterm is 10/17. Level 4 Knowledge needed.<br>Maruki no longer locked to Rank 5."
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Clear",
+                "socialStat": [
+                ],
+                "questions": [],
+                "confidants": [{
+                    "confidant":"Sojiro Sakura - Hierophant",
+                    "link": "sojiroSakura"
+                },{
+                    "confidant": "Iwai Munehisa - Hanged Man",
+                    "link": "iwaiMunehisa"
+                },{
+                    "confidant":"Toranosuke Yoshida - Sun",
+                    "link":"toranosukeYoshida"
+                },{
+                    "confidant":"Yuuki Mishima - Moon",
+                    "link":"yuukiMishima"
+                },{
+                    "confidant":"Sadayo Kawakami - Temperence",
+                    "link":"sadayoKawakami"
+                },{
+                    "confidant":"Chihaya Mifune - Fortune",
+                    "link":"chihayaMifune"
+                },{
+                    "confidant":"Ichiko Ohya - Devil",
+                    "link":"ichikoOhya"
+                }],
+                "sales": [
+                ],
+                "metaverse": null,
+                "extraNotes": "Leftovers in the fridge"
+            }],
+            "spoilers": [{
+            }]
+        },
+        "sep21": {
+            "weekDay": "Wednesday",
+            "date": "September 21st",
+            "day": [{
+                "desc": "After School",
+                "weather": "Cloudy",
+                "socialStat": [
+                ],
+                "questions": [{
+                    "Class Question +1 Knowledge":"Central Europe"
+                }],
+                "confidants": [{
+                    "confidant": "Tae Takemi - Death",
+                    "link": "taeTakemi"
+                },{
+                    "confidant": "Ryuji Sakamoto - Chariot",
+                    "link": "ryujiSakamoto"
+                },{
+                    "confidant":"Ann Takami - Lovers",
+                    "link":"annTakami"
+                },{
+                    "confidant":"Futaba Sakura - Hermit",
+                    "link":"futabaSakura"
+                }],
+                "sales": [
+                ],
+                "metaverse": {
+                    "palaceAvailable": true,
+                    "deadlineCountdown": 20,
+                    "mementosAvailable": true,
+                    "notes": null
+                },
+                "extraNotes": null
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Cloudy",
+                "socialStat": [
+                    "Leftover curry ingredients +1 Guts"
+                ],
+                "questions": [],
+                "confidants": [{
+                    "confidant": "Yuuki Mishima - Moon",
+                    "link": "yuukiMishima"
+                },{
+                    "confidant": "Sadayo Kawakami - Temperence",
+                    "link": "sadayoKawakami"
+                },{
+                    "confidant":"Goro Akechi - Justice",
+                    "link":"goroAkechi"
+                },{
+                    "confidant":"Chihaya Mifune - Fortune",
+                    "link":"chihayaMifune"
+                },{
+                    "confidant":"Hifumi Togo - Star",
+                    "link":"hifumiTogo"
+                }],
+                "sales": [
+                ],
+                "metaverse": null,
+                "extraNotes": null
+            }],
+            "spoilers": [{
+            }]
+        },
+        "sep22": {
+            "weekDay": "Thursday",
+            "date": "September 22nd",
+            "day": [{
+                "desc": "Daytime",
+                "weather": "Clear",
+                "socialStat": [
+                ],
+                "questions": [],
+                "confidants": [{
+                    "confidant": "Tae Takemi - Death",
+                    "link": "taeTakemi"
+                },{
+                    "confidant": "Yusuke Kitagawa - Emperor",
+                    "link": "yusukeKitagawa"
+                },{
+                    "confidant":"Makoto Niijima - Prietess",
+                    "link":"makotoNiijima"
+                },{
+                    "confidant":"Futaba Sakura - Hermit",
+                    "link":"futabaSakura"
+                },{
+                    "confidant":"Shinya Oda - Tower",
+                    "link":"shinyaOda"
+                },{
+                    "confidant":"Yuuki Mishima - Moon",
+                    "link":"yuukiMishima"
+                },{
+                    "confidant":"Hifumi Togo - Star",
+                    "link":"hifumiTogo"
+                }],
+                "sales": [
+                ],
+                "metaverse": {
+                    "palaceAvailable": true,
+                    "deadlineCountdown": 19,
+                    "mementosAvailable": true,
+                    "notes": null
+                },
+                "extraNotes": "Autumn Equinox Day<br>Big Burger-kun toy at Akihabara arcade"
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather":"Clear",
+                "socialStat": [
+                ],
+                "questions": [{
+                    "TV Quiz +1 Knowledge": "10 years in Prison"
+                }],
+                "confidants": [{
+                    "confidant": "Sojiro Sakura - Hierophant",
+                    "link": "sojiroSakura"
+                },{
+                    "confidant": "Yuuki Mishima - Moon",
+                    "link": "yuukiMishima"
+                },{
+                    "confidant":"Toranosuke Yoshida - Sun",
+                    "link":"toranosukeYoshida"
+                },{
+                    "confidant":"Sadayo Kawakami - Temperence",
+                    "link":"sadayoKawakami"
+                },{
+                    "confidant":"Chihaya Mifune - Fortune",
+                    "link":"chihayaMifune"
+                },{
+                    "confidant":"Ichiko Ohya - Devil",
+                    "link":"ichikoOhya"
+                },{
+                    "confidant":"Tae Takemi - Death",
+                    "link":"taeTakemi"
+                }],
+                "sales": [
+                ],
+                "metaverse": null,
+                "extraNotes": null
+            }],
+            "spoilers": [{
+            }]
+        },
+        "sep23": {
+            "weekDay": "Friday",
+            "date": "September 23rd",
+            "day": [{
+                "desc": "After School",
+                "weather": "Clear",
+                "socialStat": [
+                    "Can slack off in another teacher's class (Temperance Rank 5)"
+                ],
+                "questions": [],
+                "confidants": [{
+                    "confidant": "Tae Takemi - Death",
+                    "link": "taeTakemi"
+                },{
+                    "confidant": "Ryuji Sakamoto - Chariot",
+                    "link": "ryujiSakamoto"
+                },{
+                    "confidant":"Ann Takami - Lovers",
+                    "link":"annTakami"
+                },{
+                    "confidant":"Takuto Maruki - The Councillor",
+                    "link":"takutoMaruki"
+                },{
+                    "confidant":"Yusuke Kitagawa - Emperor",
+                    "link":"yusukeKitagawa"
+                }],
+                "sales": [
+                    "Yakisoba Pan at School Store"
+                ],
+                "metaverse": {
+                    "palaceAvailable": true,
+                    "deadlineCountdown": 18,
+                    "mementosAvailable": true,
+                    "notes": null
+                },
+                "extraNotes": null
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Cloudy",
+                "socialStat": [
+                ],
+                "questions": [],
+                "confidants": [{
+                    "confidant": "Yuuki Mishima - Moon",
+                    "link": "yuukiMishima"
+                },{
+                    "confidant": "Sadayo Kawakami - Temperence",
+                    "link": "sadayoKawakami"
+                },{
+                    "confidant":"Ichiko Ohya - Devil",
+                    "link":"ichikoOhya"
+                },{
+                    "confidant":"Tae Takemi - Death",
+                    "link":"taeTakemi"
+                }],
+                "sales": [
+                    "Street Accessories Available"
+                ],
+                "metaverse": null,
+                "extraNotes": null
+            }],
+            "spoilers": [{
+            }]
+        },
+        "sep24": {
+            "weekDay": "Saturday",
+            "date": "September 24th",
+            "day": [{
+                "desc": "After School",
+                "weather": "Cloudy",
+                "socialStat": [
+                    "Can read a book on the train",
+                    "Call in at Rafflesia +Kindness"
+                ],
+                "questions": [{
+                    "Class Question +1 Knowledge":"20 white, 12 Black"
+                }],
+                "confidants": [{
+                    "confidant": "Tae Takemi - Death",
+                    "link": "ryujiSakamoto"
+                },{
+                    "confidant": "Ryuji Sakamoto - Chariot",
+                    "link": "ryujiSakamoto"
+                },{
+                    "confidant":"Takuto Maruki - The Councillor",
+                    "link":"takutoMaruki"
+                },{
+                    "confidant":"Makoto Niijima - Prietess",
+                    "link":"makotoNiijima"
+                },{
+                    "confidant":"Futaba Sakura - Hermit",
+                    "link":"futabaSakura"
+                },{
+                    "confidant":"Shinya Oda - Tower",
+                    "link":"shinyaOda"
+                }],
+                "sales": [
+                ],
+                "metaverse": {
+                    "palaceAvailable": true,
+                    "deadlineCountdown": 7,
+                    "mementosAvailable": true,
+                    "notes": null
+                },
+                "extraNotes": null
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Cloudy",
+                "socialStat": [
+                ],
+                "questions": [],
+                "confidants": [{
+                    "confidant": "Iwai Munehisa - Hanged Man",
+                    "link": "iwaiMunehisa"
+                },{
+                    "confidant": "Yuuki Mishima - Moon",
+                    "link": "yuukiMishima"
+                },{
+                    "confidant":"Sadayo Kawakami - Temperence",
+                    "link":"sadayoKawakami"
+                },{
+                    "confidant":"Goro Akechi - Justice",
+                    "link":"goroAkechi"
+                },{
+                    "confidant":"Chihaya Mifune - Fortune",
+                    "link":"chihayaMifune"
+                },{
+                    "confidant":"Hifumi Togo - Star",
+                    "link":"hifumiTogo"
+                }],
+                "sales": [
+                ],
+                "metaverse": null,
+                "extraNotes": null
+            }],
+            "spoilers": [{
+            }]
+        },
+        "sep25": {
+            "weekDay": "Sunday",
+            "date": "September 25th",
+            "day": [{
+                "desc": "Daytime",
+                "weather": "Cloudy",
+                "socialStat": [
+                    "Games with Futaba +3 Guts",
+                    "Aojiru +1 Charm"
+                ],
+                "questions": [],
+                "confidants": [{
+                    "confidant": "Tae Takemi - Death",
+                    "link": "taeTakemi"
+                },{
+                    "confidant": "Ann Takami - Lovers",
+                    "link": "annTakami"
+                },{
+                    "confidant":"Yusuke Kitagawa - Emperor",
+                    "link":"yusukeKitagawa"
+                },{
+                    "confidant":"Makoto Niijima - Prietess",
+                    "link":"makotoNiijima"
+                },{
+                    "confidant":"Futaba Sakura - Hermit",
+                    "link":"futabaSakura"
+                },{
+                    "confidant":"Shinya Oda - Tower",
+                    "link":"shinyaOda"
+                }],
+                "sales": [
+                    "TV Shopping:<br>Phantom Thief Set - 8,980yen<br>Thief Fun Set - 2,000yen",
+                    "Potent healing items for sale in Church in Kanda"
+                ],
+                "metaverse": {
+                    "palaceAvailable": true,
+                    "deadlineCountdown": 16,
+                    "mementosAvailable": true,
+                    "notes": null
+                },
+                "extraNotes": null
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Cloudy",
+                "socialStat": [
+                    "Aojiru +1 Charm",
+                    "Medicated Bath +3 Charm",
+                    "Call in from Crossroads +Kindness",
+                    "Leftover curry ingredients +1 Guts"
+                ],
+                "questions": [],
+                "confidants": [{
+                    "confidant": "Iwai Munehisa - Hanged Man",
+                    "link": "iwaiMunehisa"
+                },{
+                    "confidant": "Toranosuke Yoshida - Sun",
+                    "link": "toranosukeYoshida"
+                },{
+                    "confidant":"Chihaya Mifune - Fortune",
+                    "link":"chihayaMifune"
+                },{
+                    "confidant":"Futaba Sakura - Hermit",
+                    "link":"futabaSakura"
+                }],
+                "sales": [
+                    "TV Shopping:<br>Phantom Thief Set - 8,980yen<br>Thief Fun Set - 2,000yen",
+                    "Chunky Katsu in Kichijoji"
+                ],
+                "metaverse": null,
+                "extraNotes": null
+            }],
+            "spoilers": [{
+            }]
+        },
+        "sep26": {
+            "weekDay": "Monday",
+            "date": "September 26th",
+            "day": [{
+                "desc": "After School",
+                "weather": "Cloudy",
+                "socialStat": [
+                ],
+                "questions": [],
+                "confidants": [{
+                    "confidant": "Tae Takemi - Death",
+                    "link": "taeTakemi"
+                },{
+                    "confidant": "Takuto Maruki - The Councillor",
+                    "link": "takutoMaruki"
+                },{
+                    "confidant":"Yusuke Kitagawa - Emperor",
+                    "link":"yusukeKitagawa"
+                },{
+                    "confidant":"Futaba Sakura - Hermit",
+                    "link":"futabaSakura"
+                },{
+                    "confidant":"Shinya Oda - Tower",
+                    "link":"shinyaOda"
+                }],
+                "sales": [
+                    "Weekly Restock"
+                ],
+                "metaverse": {
+                    "palaceAvailable": true,
+                    "deadlineCountdown": 15,
+                    "mementosAvailable": true,
+                    "notes": null
+                },
+                "extraNotes": null
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Rain",
+                "socialStat": [
+                    "Leftover curry ingredients +1 Guts"
+                ],
+                "questions": [],
+                "confidants": [{
+                    "confidant": "Sojiro Sakura - Hierophant",
+                    "link": "sojiroSakura"
+                },{
+                    "confidant": "Iwai Munehisa - Hanged Man",
+                    "link": "iwaiMunehisa"
+                },{
+                    "confidant":"Yuuki Mishima - Moon",
+                    "link":"yuukiMishima"
+                },{
+                    "confidant":"Sadayo Kawakami - Temperence",
+                    "link":"sadayoKawakami"
+                },{
+                    "confidant":"Ichiko Ohya - Devil",
+                    "link":"ichikoOhya"
+                },{
+                    "confidant":"Hifumi Togo - Star",
+                    "link":"hifumiTogo"
+                },{
+                    "confidant":"Tae Takemi - Death",
+                    "link":"taeTakemi"
+                }],
+                "sales": [
+                    "TV Shopping Delivery"
+                ],
+                "metaverse": null,
+                "extraNotes": null
+            }],
+            "spoilers": [{
+            }]
+        },
+        "sep27": {
+            "weekDay": "Tuesday",
+            "date": "September 27th",
+            "day": [{
+                "desc": "After School",
+                "weather": "Clear",
+                "socialStat": [
+                    "Double Points at 777 +Charm"
+                ],
+                "questions": [],
+                "confidants": [{
+                    "confidant": "Tae Takemi - Death",
+                    "link": "taeTakemi"
+                },{
+                    "confidant": "Ryuji Sakamoto - Chariot",
+                    "link": "ryujiSakamoto"
+                },{
+                    "confidant":"Ann Takami - Lovers",
+                    "link":"annTakami"
+                },{
+                    "confidant":"Takuto Maruki - The Councillor",
+                    "link":"takutoMaruki"
+                },{
+                    "confidant":"Makoto Niijima - Prietess",
+                    "link":"makotoNiijima"
+                }],
+                "sales": [
+                ],
+                "metaverse": {
+                    "palaceAvailable": true,
+                    "deadlineCountdown": 14,
+                    "mementosAvailable": true,
+                    "notes": null
+                },
+                "extraNotes": null
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Clear",
+                "socialStat": [
+                ],
+                "questions": [],
+                "confidants": [{
+                    "confidant": "Sojiro Sakura - Hierophant",
+                    "link": "sojiroSakura"
+                },{
+                    "confidant": "Yuuki Mishima - Moon",
+                    "link": "yuukiMishima"
+                },{
+                    "confidant":"Sadayo Kawakami - Temperence",
+                    "link":"sadayoKawakami"
+                },{
+                    "confidant":"Chihaya Mifune - Fortune",
+                    "link":"chihayaMifune"
+                },{
+                    "confidant":"Ichiko Ohya - Devil",
+                    "link":"ichikoOhya"
+                }],
+                "sales": [
+                    "Street Accessories Available"
+                ],
+                "metaverse": null,
+                "extraNotes": null
+            }],
+            "spoilers": [{
+            }]
+        },
+        "sep28": {
+            "weekDay": "Wednesday",
+            "date": "September 28th",
+            "day": [{
+                "desc": "After School",
+                "weather": "Clear",
+                "socialStat": [
+                    "Can read a book on the train"
+                ],
+                "questions": [{
+                    "Class Question +1 Knowledge":"Phantom, Vibration, Syndrome"
+                }],
+                "confidants": [{
+                    "confidant": "Tae Takemi - Death",
+                    "link": "taeTakemi"
+                },{
+                    "confidant": "Ryuji Sakamoto - Chariot",
+                    "link": "ryujiSakamoto"
+                },{
+                    "confidant":"Ann Takami - Lovers",
+                    "link":"annTakami"
+                },{
+                    "confidant":"Kasumi Yoshizawa - Faith",
+                    "link":"kasumiYoshizawa"
+                },{
+                    "confidant":"Makoto Niijima - Prietess",
+                    "link":"makotoNiijima"
+                },{
+                    "confidant":"Futaba Sakura - Hermit",
+                    "link":"futabaSakura"
+                },{
+                    "confidant":"Shinya Oda - Tower",
+                    "link":"shinyaOda"
+                }],
+                "sales": [
+                    "Totem-Pole (+Proficiency) available at Diner in Shibuya"
+                ],
+                "metaverse": {
+                    "palaceAvailable": true,
+                    "deadlineCountdown": 13,
+                    "mementosAvailable": true,
+                    "notes": null
+                },
+                "extraNotes": null
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Clear",
+                "socialStat": [
+                    "Leftover curry ingredients +1 Guts"
+                ],
+                "questions": [{
+                    "Crossword +1 Knowledge": "Ranking"
+                }],
+                "confidants": [{
+                    "confidant": "Sojiro Sakura - Hierophant",
+                    "link": "sojiroSakura"
+                },{
+                    "confidant": "Iwai Munehisa - Hanged Man",
+                    "link": "iwaiMunehisa"
+                },{
+                    "confidant":"Yuuki Mishima - Moon",
+                    "link":"yuukiMishima"
+                },{
+                    "confidant":"Sadayo Kawakami - Temperence",
+                    "link":"sadayoKawakami"
+                },{
+                    "confidant":"Goro Akechi - Justice",
+                    "link":"goroAkechi"
+                },{
+                    "confidant":"Chihaya Mifune - Fortune",
+                    "link":"chihayaMifune"
+                },{
+                    "confidant":"Hifumi Togo - Star",
+                    "link":"hifumiTogo"
+                }],
+                "sales": [
+                ],
+                "metaverse": null,
+                "extraNotes": null
+            }],
+            "spoilers": [{
+            }]
+        },
+        "sep29": {
+            "weekDay": "Thursday",
+            "date": "September 29th",
+            "day": [{
+                "desc": "After School",
+                "weather": "Clear",
+                "socialStat": [
+
+                ],
+                "questions": [{
+                    "Class Question +1 Knowledge":"Imperial Household Agency"
+                }],
+                "confidants": [{
+                    "confidant": "Tae Takemi - Death",
+                    "link": "taeTakemi"
+                },{
+                    "confidant": "Ryuji Sakamoto - Chariot",
+                    "link": "ryujiSakamoto"
+                },{
+                    "confidant":"Ann Takami - Lovers",
+                    "link":"annTakami"
+                },{
+                    "confidant":"Takuto Maruki - The Councillor",
+                    "link":"takutoMaruki"
+                },{
+                    "confidant":"Yusuke Kitagawa - Emperor",
+                    "link":"yusukeKitagawa"
+                },{
+                    "confidant":"Makoto Niijima - Prietess",
+                    "link":"makotoNiijima"
+                },{
+                    "confidant":"Futaba Sakura - Hermit",
+                    "link":"futabaSakura"
+                },{
+                    "confidant":"Shinya Oda - Tower",
+                    "link":"shinyaOda"
+                }],
+                "sales": [
+                ],
+                "metaverse": {
+                    "palaceAvailable": true,
+                    "deadlineCountdown": 12,
+                    "mementosAvailable": true,
+                    "notes": null
+                },
+                "extraNotes": null
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Clear",
+                "socialStat": [
+                ],
+                "questions": [{
+                    "TV Quiz +1 Knowledge":"Divulging someone's crimes"
+                }],
+                "confidants": [{
+                    "confidant": "Sojiro Sakura - Hierophant",
+                    "link": "sojiroSakura"
+                },{
+                    "confidant": "Iwai Munehisa - Hanged Man",
+                    "link": "iwaiMunehisa"
+                },{
+                    "confidant":"Yuuki Mishima - Moon",
+                    "link":"yuukiMishima"
+                },{
+                    "confidant":"Chihaya Mifune - Fortune",
+                    "link":"chihayaMifune"
+                },{
+                    "confidant":"Ichiko Ohya - Devil",
+                    "link":"ichikoOhya"
+                },{
+                    "confidant":"Tae Takemi - Death",
+                    "link":"taeTakemi"
+                }],
+                "sales": [
+                ],
+                "metaverse": null,
+                "extraNotes": null
+            }],
+            "spoilers": [{
+            }]
+        },
+        "sep30": {
+            "weekDay": "Friday",
+            "date": "September 30th",
+            "day": [{
+                "desc": "After School",
+                "weather": "Clear",
+                "socialStat": [
+                    "Can slack off in another teacher's class (Temperance Rank 5)"
+                ],
+                "questions": [],
+                "confidants": [{
+                    "confidant": "Tae Takemi - Death",
+                    "link": "taeTakemi"
+                },{
+                    "confidant": "Ann Takami - Lovers",
+                    "link": "annTakami"
+                },{
+                    "confidant":"Takuto Maruki - The Councillor",
+                    "link":"takutoMaruki"
+                },{
+                    "confidant":"Yusuke Kitagawa - Emperor",
+                    "link":"yusukeKitagawa"
+                },{
+                    "confidant":"Futaba Sakura - Hermit",
+                    "link":"futabaSakura"
+                },{
+                    "confidant":"Shinya Oda - Tower",
+                    "link":"shinyaOda"
+                }],
+                "sales": [
+                    "Yakisoba Pan at School Store"
+                ],
+                "metaverse": {
+                    "palaceAvailable": true,
+                    "deadlineCountdown": 11,
+                    "mementosAvailable": true,
+                    "notes": null
+                },
+                "extraNotes": null
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Cloudy",
+                "socialStat": [
+                    "Leftover curry ingredients +1 Guts"
+                ],
+                "questions": [],
+                "confidants": [{
+                    "confidant": "Sojiro Sakura - Hierophant",
+                    "link": "sojiroSakura"
+                },{
+                    "confidant": "Iwai Munehisa - Hanged Man",
+                    "link": "iwaiMunehisa"
+                },{
+                    "confidant":"Yuuki Mishima - Moon",
+                    "link":"yuukiMishima"
+                },{
+                    "confidant":"Sadayo Kawakami - Temperence",
+                    "link":"sadayoKawakami"
+                },{
+                    "confidant":"Chihaya Mifune - Fortune",
+                    "link":"chihayaMifune"
+                },{
+                    "confidant":"Ichiko Ohya - Devil",
+                    "link":"ichikoOhya"
+                }],
+                "sales": [
+                    "Street Accessories Available"
+                ],
+                "metaverse": null,
+                "extraNotes": null
+            }],
+            "spoilers": [{
+            }]
+        },
         "mmmdd": {
             "weekDay": "null",
             "date": " ",
             "day": [{
-                "desc": " ",
+                "desc": "After School",
                 "weather": "null",
                 "socialStat": [
-                    "null",
-                    "null"
                 ],
-                "questions": [{
-                    "": ""
-                }],
+                "questions": [],
                 "confidants": [{
                     "confidant": "",
                     "link": ""
@@ -7158,8 +8736,6 @@
                     "link": ""
                 }],
                 "sales": [
-                    "null",
-                    "null"
                 ],
                 "metaverse": {
                     "palaceAvailable": null,
@@ -7170,15 +8746,11 @@
                 "extraNotes": null
             }],
             "night": [{
-                "desc": "null",
+                "desc": "Evening",
                 "weather": "null",
                 "socialStat": [
-                    "null",
-                    "null"
                 ],
-                "questions": [{
-                    "": ""
-                }],
+                "questions": [],
                 "confidants": [{
                     "confidant": "",
                     "link": ""
@@ -7187,15 +8759,8 @@
                     "link": ""
                 }],
                 "sales": [
-                    "null",
-                    "null"
                 ],
-                "metaverse": {
-                    "palaceAvailable": null,
-                    "deadlineCountdown": 2,
-                    "mementosAvailable": null,
-                    "notes": null
-                },
+                "metaverse": null,
                 "extraNotes": null
             }],
             "spoilers": [{
