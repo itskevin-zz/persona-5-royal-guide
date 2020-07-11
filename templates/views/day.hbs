@@ -53,15 +53,16 @@
                 {{#if dayConfidants}}
                 <div class="confidants">
                     <h4>Confidants</h4>
-                    <ul>
+                    <div class="confidants-container-day">
                         {{#each dayConfidants}}
-                        <li>
+                        <div class="confidants-item">
                             <a href="/confidants/{{this.link}}">
-                            <img src="/img/characters/{{this.link}}.jpg">
+                                <img src="/img/characters/{{this.link}}.jpg">
+                                <p>{{this.confidant}}</p>
                             </a>
-                        </li>
+                        </div>
                         {{/each}}
-                    </ul>
+                    </div>
                 </div>
                 {{/if}}
 
