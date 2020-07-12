@@ -4,26 +4,27 @@
         <title>Persona 5 Royal Calendar Guide</title>
         <link rel="icon" href="/img/icon.png">
         <link rel="stylesheet" href="/css/style.css">
+        <script src="https://cdn.jsdelivr.net/npm/simple-jscalendar@1.4.3/source/jsCalendar.min.js" integrity="sha384-JqNLUzAxpw7zEu6rKS/TNPZ5ayCWPUY601zaig7cUEVfL+pBoLcDiIEkWHjl07Ot" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/simple-jscalendar@1.4.3/source/jsCalendar.min.css" integrity="sha384-+OB2CadpqXIt7AheMhNaVI99xKH8j8b+bHC8P5m2tkpFopGBklD3IRvYjPekeWIJ" crossorigin="anonymous">
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
 
     </head>
     <body>
         <div class="main-content">
             {{>header}}
-             <p class="sub">
-                <a href="/day/apr18">
-                    <strong>Get Started Here</strong>
-                </a>
-            </p>
 
             <div>
                 <p>Calendar base guide for Persona 5 Royal. With all the confidants, social stats, and tasks in-game to do, it can be hard to plan your day/week. This guide is meant to be as spoiler-lite as possible while providing a overview of what is available to you that day.</p>
                 <p>
-                <p><strong>Current Completed date Up to September 30th</strong></p>
+                <p><strong>Current Completed date Up to November 30th</strong></p>
             </div>
             <div>
                  <div class="container">
                     <img src="/img/morgana.jpg" width="300px" alt="image of morgana">
+                </div>
+                <div class="container">
+                    <h3>Jump to a date</h3>
+                    <div id="gameCalendar"></div>
                 </div>
                 <hr>
                 <div>
@@ -39,5 +40,25 @@
             </div>
             {{>footer}}
         </div>
+
+        <script type="text/javascript">
+            // Create the calendar
+            var gameCalendar = jsCalendar.new({
+                target: "#gameCalendar",
+                navigator: true,
+                dayFormat: "DDD",
+                monthFormat: "month YYYY",
+                date: "18/04/2016"
+                });
+            // Limit to only current month
+            gameCalendar.min("01/04/2016");
+            gameCalendar.max("01/02/2017");
+
+            gameCalendar.onDateClick(function(event, date){
+                var link = date.toDateString().substr(4,6).replace(" ","").toLowerCase();
+                window.location.href = "/day/"+link
+            }) 
+        </script>
+
     </body>
 </html>

@@ -51,6 +51,7 @@ routes.get('/day/:date', (req, res) => {
             prevDate,
             // confidantName: data.confidants[data.calendar[urlDate].day[0].confidants].name
         })
+
     }
 })
 
