@@ -1,7 +1,7 @@
 body {
     color: #333;
     font-family: arial;
-    max-width: 800px;
+    max-width: 1024px;
     margin: 0 auto;
     padding: 0 16px;
 
@@ -152,6 +152,26 @@ header a {
     content: 'Click\a0to\a0reveal'; 
     color: #999;
   }
+
+.calendar-container {
+    display: flex;
+    flex-flow: row wrap;
+    max-width: 1024px;
+}
+.jsCalendar.custom tbody td.jsCalendar-current {
+    background-color: transparent;
+    border-radius: none;
+    color: inherit;
+}
+.jsCalendar table tbody td {
+    cursor: pointer;
+}
+.disabled {
+    color: currentColor;
+    cursor: not-allowed;
+    opacity: 0.5;
+    text-decoration: none;
+}
 
   @media only screen and (max-width: 600px) {
     h1 {
