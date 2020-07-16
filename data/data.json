@@ -3694,7 +3694,7 @@
             }]
         },
         "jul02": {
-            "weekDay": "Satuday",
+            "weekDay": "Saturday",
             "date": "July 2nd",
             "day": [{
                 "desc": "After School",
@@ -7247,7 +7247,7 @@
             }]
         },
         "sep03": {
-            "weekDay": "Satuday",
+            "weekDay": "Saturday",
             "date": "September 3rd",
             "day": [{
                 "desc": "After School",
@@ -7773,7 +7773,7 @@
             }]
         },
         "sep17": {
-            "weekDay": "Satuday",
+            "weekDay": "Saturday",
             "date": "September 17th",
             "day": [{
                 "desc": "After School",
@@ -10131,7 +10131,7 @@
             }]
         },
         "oct29": {
-            "weekDay": "Satuday",
+            "weekDay": "Saturday",
             "date": "October 29th",
             "day": [{
                 "desc": "After School",
@@ -10582,7 +10582,7 @@
             }]
         },
         "nov05": {
-            "weekDay": "Satuday",
+            "weekDay": "Saturday",
             "date": "November 5th",
             "day": [{
                 "desc": "After School",
@@ -11103,7 +11103,7 @@
             }]
         },
         "nov12": {
-            "weekDay": "Satuday",
+            "weekDay": "Saturday",
             "date": "November 12th",
             "day": [{
                 "desc": "After School",
@@ -11572,7 +11572,7 @@
             }]
         },
         "nov19": {
-            "weekDay": "Satuday",
+            "weekDay": "Saturday",
             "date": "November 19th",
             "day": [{
                 "desc": "After School",
@@ -11823,7 +11823,7 @@
             }]
         },
         "nov26": {
-            "weekDay": "Satuday",
+            "weekDay": "Saturday",
             "date": "November 26th",
             "day": [{
                 "desc": "After School",
@@ -12145,6 +12145,270 @@
                     "link":"hifumiTogo"
                 }],
                 "sales": [
+                ],
+                "metaverse": null,
+                "extraNotes": null
+            }],
+            "spoilers": [{
+            }]
+        },
+        "dec01": {
+            "weekDay": "Thursday",
+            "date": "December 1st",
+            "day": [{
+                "desc": "After School",
+                "weather": "Cloudy",
+                "socialStat": [
+                ],
+                "questions": [],
+                "confidants": [{
+                    "confidant": "Tae Takemi - Death",
+                    "link": "taeTakemi"
+                },{
+                    "confidant": "Ann Takami - Lovers",
+                    "link": "annTakami"
+                },{
+                    "confidant":"Makoto Niijima - Prietess",
+                    "link":"makotoNiijima"
+                },{
+                    "confidant":"Futaba Sakura - Hermit",
+                    "link":"futabaSakura"
+                },{
+                    "confidant":"Shinya Oda - Tower",
+                    "link":"shinyaOda"
+                },{
+                    "confidant":"Haru Okumura - Empress",
+                    "link":"haruOkumura"
+                }],
+                "sales": [
+                ],
+                "metaverse": {
+                    "palaceAvailable": true,
+                    "deadlineCountdown": 17,
+                    "mementosAvailable": true,
+                    "notes": null
+                },
+                "extraNotes": "Finals are on 12/20, Level 4 needed.<br> Insane level unlocked at batting cages"
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Cloudy",
+                "socialStat": [
+                ],
+                "questions": [],
+                "confidants": [{
+                    "confidant": "Sojiro Sakura - Hierophant",
+                    "link":"sojiroSakura"
+                },{
+                    "confidant": "Iwai Munehisa - Hanged Man",
+                    "link": "iwaiMunehisa"
+                },{
+                    "confidant":"Yuuki Mishima - Moon",
+                    "link":"yuukiMishima"
+                },{
+                    "confidant":"Chihaya Mifune - Fortune",
+                    "link":"chihayaMifune"
+                },{
+                    "confidant":"Ichiko Ohya - Devil",
+                    "link":"ichikoOhya"
+                }],
+                "sales": [
+                ],
+                "metaverse": null,
+                "extraNotes": null
+            }],
+            "spoilers": [{
+            }]
+        },
+        "dec02": {
+            "weekDay": "Friday",
+            "date": "December ",
+            "day": [{
+                "desc": "After School",
+                "weather": "Clear",
+                "socialStat": [
+                ],
+                "questions": [],
+                "confidants": [{
+                    "confidant": "Ann Takami - Lovers",
+                    "link": "annTakami"
+                },{
+                    "confidant": "Yusuke Kitagawa - Emperor",
+                    "link": "yusukeKitagawa"
+                },{
+                    "confidant":"Haru Okumura - Empress",
+                    "link":"haruOkumura"
+                }],
+                "sales": [
+                ],
+                "metaverse": {
+                    "palaceAvailable": true,
+                    "deadlineCountdown": 16,
+                    "mementosAvailable": true,
+                    "notes": null
+                },
+                "extraNotes": null
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Clear",
+                "socialStat": [
+                    "Call in at Ore No Beko +3 Proficiency",
+                    "Leftover curry ingredients +1 Guts"
+                ],
+                "questions": [{
+                    "Crossword +1 Knowledge":"Influenza"
+                }],
+                "confidants": [{
+                    "confidant": "Sojiro Sakura - Hierophant",
+                    "link":"sojiroSakura"
+                },{
+                    "confidant": "Yuuki Mishima - Moon",
+                    "link": "yuukiMishima"
+                },{
+                    "confidant":"Sadayo Kawakami - Temperence",
+                    "link":"sadayoKawakami"
+                },{
+                    "confidant":"Ichiko Ohya - Devil",
+                    "link":"ichikoOhya"
+                },{
+                    "confidant":"Tae Takemi - Death",
+                    "link":"taeTakemi"
+                }],
+                "sales": [
+                ],
+                "metaverse": null,
+                "extraNotes": "Persona 3 reference on TV"
+            }],
+            "spoilers": [{
+            }]
+        },
+        "dec03": {
+            "weekDay": "Saturday",
+            "date": "December 3rd",
+            "day": [{
+                "desc": "After School",
+                "weather": "Snow",
+                "socialStat": [
+                    "Call in at Rafflesia +Kindness"
+                ],
+                "questions": [],
+                "confidants": [{
+                    "confidant": "Tae Takemi - Death",
+                    "link": "taeTakemi"
+                },{
+                    "confidant": "Ryuji Sakamoto - Chariot",
+                    "link": "ryujiSakamoto"
+                },{
+                    "confidant":"Makoto Niijima - Prietess",
+                    "link":"makotoNiijima"
+                },{
+                    "confidant":"Shinya Oda - Tower",
+                    "link":"shinyaOda"
+                }],
+                "sales": [
+                ],
+                "metaverse": {
+                    "palaceAvailable": true,
+                    "deadlineCountdown": 15,
+                    "mementosAvailable": true,
+                    "notes": null
+                },
+                "extraNotes": "Trader Sakai wants Legendary Yaki-Imo today<br>Maid Day at Maid Cafe"
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Rain",
+                "socialStat": [
+                ],
+                "questions": [],
+                "confidants": [{
+                    "confidant": "Iwai Munehisa - Hanged Man",
+                    "link":"iwaiMunehisa"
+                },{
+                    "confidant": "Yuuki Mishima - Moon",
+                    "link": "yuukiMishima"
+                },{
+                    "confidant":"Sadayo Kawakami - Temperence",
+                    "link":"sadayoKawakami"
+                },{
+                    "confidant":"Hifumi Togo - Star",
+                    "link":"hifumiTogo"
+                },{
+                    "confidant":"Tae Takemi - Death",
+                    "link":"taeTakemi"
+                }],
+                "sales": [
+                ],
+                "metaverse": null,
+                "extraNotes": null
+            }],
+            "spoilers": [{
+            }]
+        },
+        "dec04": {
+            "weekDay": "Sunday",
+            "date": "December 4th",
+            "day": [{
+                "desc": "Daytime",
+                "weather": "Clear",
+                "socialStat": [
+                    "Aojiru +1 Knowledge"
+                ],
+                "questions": [],
+                "confidants": [{
+                    "confidant": "Tae Takemi - Death",
+                    "link": "annTakami"
+                },{
+                    "confidant": "Kasumi Yoshizawa - Faith",
+                    "link": "kasumiYoshizawa"
+                },{
+                    "confidant":"Yusuke Kitagawa - Emperor",
+                    "link":"yuukiMishima"
+                },{
+                    "confidant":"Makoto Niijima - Prietess",
+                    "link":"makotoNiijima"
+                },{
+                    "confidant":"Futaba Sakura - Hermit",
+                    "link":"futabaSakura"
+                }],
+                "sales": [
+                    "Potent healing items for sale in Church in Kanda"
+                ],
+                "metaverse": {
+                    "palaceAvailable": true,
+                    "deadlineCountdown": 14,
+                    "mementosAvailable": true,
+                    "notes": null
+                },
+                "extraNotes": null
+            }],
+            "night": [{
+                "desc": "Evening",
+                "weather": "Clear",
+                "socialStat": [
+                    "Aojiru +1 Knowledge",
+                    "Medicated Bath +3 Charm",
+                    "Call in from Crossroads +Kindness",
+                    "Leftover curry ingredients +1 Guts"
+                ],
+                "questions": [],
+                "confidants": [{
+                    "confidant": "Sojiro Sakura - Hierophant",
+                    "link":"sojiroSakura"
+                },{
+                    "confidant": "Iwai Munehisa - Hanged Man",
+                    "link": "iwaiMunehisa"
+                },{
+                    "confidant":"Yuuki Mishima - Moon",
+                    "link":"yuukiMishima"
+                },{
+                    "confidant":"Chihaya Mifune - Fortune",
+                    "link":"chihayaMifune"
+                }],
+                "sales": [
+                    "Potent healing items for sale in Church in Kanda",
+                    "Chunky Katsu in Kichijoji"
                 ],
                 "metaverse": null,
                 "extraNotes": null
