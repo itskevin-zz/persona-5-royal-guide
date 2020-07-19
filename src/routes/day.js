@@ -2,9 +2,7 @@ const express = require('express')
 const routes = new express.Router
 const fs = require('fs')
 
-
 const dataPath = './data/data.json'
-const datesPath = './data/dates.json'
 
 let data = { }
 fs.readFile(dataPath, (error, calendarData) => {
