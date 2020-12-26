@@ -196,7 +196,7 @@ header a {
     }
   }
 
-  table.status-ailments {
+  table.battle-guides {
     border: 1px solid #ccc;
     border-collapse: collapse;
     margin: 0;
@@ -205,50 +205,52 @@ header a {
     table-layout: fixed;
   }
   
-  table.status-ailments caption {
+  table.battle-guides caption {
     font-size: 1.5em;
     margin: .5em 0 .75em;
   }
-  table.status-ailments td {
+  table.battle-guides td {
     border: 1px solid #ddd;
   }
   
-  table.status-ailments tr {
+  table.battle-guides tr {
     background-color: #f8f8f8;
     border: 1px solid #ddd;
     padding: .35em;
   }
   
-  table.status-ailments th,
-  table.status-ailments td {
+  table.battle-guides th,
+  table.battle-guides td {
     padding: .625em;
     text-align: center;
   }
   
-  table.status-ailments th {
+  table.battle-guides th {
     font-size: .85em;
     letter-spacing: .1em;
     text-transform: uppercase;
   }
-  table.status-ailments thead tr{
+  table.battle-guides thead tr,
+  table.battle-guides tbody tr th {
       background-color: #f60002;
       color: #fff;
   }
-  table.status-ailments tbody tr  td:nth-child(1) {
+  table.battle-guides tbody tr  td:nth-child(1) {
     background-color: rgb(153, 153, 153);
     font-weight: bold;
   }
+
   
   @media screen and (max-width: 600px) {
-    table.status-ailments {
+    table.battle-guides {
       border: 0;
     }
   
-    table.status-ailments caption {
+    table.battle-guides caption {
       font-size: 1.3em;
     }
     
-    table.status-ailments thead {
+    table.battle-guides thead {
       border: none;
       clip: rect(0 0 0 0);
       height: 1px;
@@ -259,31 +261,31 @@ header a {
       width: 1px;
     }
     
-    table.status-ailments tr {
+    table.battle-guides tr {
       border-bottom: 3px solid #ddd;
       display: block;
       margin-bottom: .625em;
     }
     
-    table.status-ailments td {
+    table.battle-guides td {
       border-bottom: 1px solid #ddd;
       display: block;
       font-size: .8em;
       text-align: right;
     }
     
-    table.status-ailments td::before {
+    table.battle-guides td::before {
       content: attr(data-label);
       float: left;
       font-weight: bold;
       text-transform: uppercase;
     }
     
-    table.status-ailments td:last-child {
+    table.battle-guides td:last-child {
       border-bottom: 0;
     }
 
-    table.status-ailments thead tr{
+    table.battle-guides thead tr{
         background-color: #f60002;
         color: #fff;
     }
