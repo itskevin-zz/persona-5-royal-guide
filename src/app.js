@@ -9,6 +9,7 @@ const indexRoutes = require('./routes/index')
 const dayRoutes = require('./routes/day')
 const confidantRoutes = require('./routes/confidants')
 const calendarRoutes = require('./routes/calendar')
+const statusAilmentRoutes = require('./routes/status-ailments')
 
 // create instance of express 
 const app = express()
@@ -35,6 +36,7 @@ app.use(indexRoutes)
 app.use(dayRoutes)
 app.use(confidantRoutes)
 app.use(calendarRoutes)
+app.use(statusAilmentRoutes)
 
 // 404 pages
 app.get('*', (req, res) => {
